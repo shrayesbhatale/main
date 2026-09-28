@@ -42,7 +42,7 @@
     "potential_angles": [],
     "media_available": [],
     "selected_angle": "",
-    "status": "needs_verification"
+    "status": "verified_via_search"
   },
   {
     "source_id": "src-2026-09-003",
@@ -108,5 +108,902 @@
     "media_available": [],
     "selected_angle": "",
     "status": "needs_verification"
+  },
+  {
+    "source_id": "src-bank-006",
+    "title": "Stanford Digital Economy Lab, \"Canaries in the Coal Mine?\" August 2026 update (Brynjolfsson, Chandar, Chen). Quote: Jensen Huang, Milken Institute Global Conference, May 2025 (reported by CNBC).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://digitaleconomy.stanford.edu/news/canariesaug26/",
+    "original_source": "",
+    "topic": [
+      "AI and entry-level jobs"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 88,
+    "potential_angles": [
+      "Disagreement + second-order effect"
+    ],
+    "media_available": [],
+    "selected_angle": "Disagreement + second-order effect",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-007",
+    "title": "Pew Research Center, \"Young US adults are increasingly wary of AI\" (18 Aug 2026). Cicek, Gursoy and Lu, Journal of Hospitality Marketing & Management (2024).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+    "original_source": "",
+    "topic": [
+      "AI × branding × consumer psychology"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 86,
+    "potential_angles": [
+      "Connection (public sentiment data + consumer research)"
+    ],
+    "media_available": [],
+    "selected_angle": "Connection (public sentiment data + consumer research)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-008",
+    "title": "Microsoft 2026 Work Trend Index (May 2026). MIT Project NANDA, \"The GenAI Divide: State of AI in Business 2025\".",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization",
+    "original_source": "",
+    "topic": [
+      "AI adoption, organisational design, ROI"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 82,
+    "potential_angles": [
+      "Business implication (looks like a technology story, is an org design story)"
+    ],
+    "media_available": [],
+    "selected_angle": "Business implication (looks like a technology story, is an org design story)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-009",
+    "title": "Reuters Institute Digital News Report 2026 (June 2026)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary",
+    "original_source": "",
+    "topic": [
+      "Media, distribution, AI search, creator economy"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 86,
+    "potential_angles": [
+      "What this means for creators and brands"
+    ],
+    "media_available": [],
+    "selected_angle": "What this means for creators and brands",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-010",
+    "title": "NPCI UPI data for August 2026, reported by Business Standard (1 Sep 2026)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.business-standard.com/finance/news/upi-transactions-august-2026-record-volume-npci-126090100506_1.html",
+    "original_source": "",
+    "topic": [
+      "Consumer psychology × fintech × India"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 84,
+    "potential_angles": [
+      "Second-order effect (friction removal changes behaviour)"
+    ],
+    "media_available": [],
+    "selected_angle": "Second-order effect (friction removal changes behaviour)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-011",
+    "title": "2026 Edelman Trust Barometer (January 2026)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.edelman.com/news-awards/2026-edelman-trust-barometer-society-slides-into-insularity",
+    "original_source": "",
+    "topic": [
+      "Trust × personal branding × marketing"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 78,
+    "potential_angles": [
+      "Branding implication"
+    ],
+    "media_available": [],
+    "selected_angle": "Branding implication",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-012",
+    "title": "PYMNTS, \"The One-Person Billion-Dollar Company Is Here\" (2026). Moneywise/Yahoo Finance on allegations. FDA warning letter to Medvi (20 Feb 2026). Sam Altman quote via Fortune (Feb 2024).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-one-person-billion-dollar-company-is-here/",
+    "original_source": "",
+    "topic": [
+      "AI × startups × trust"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 85,
+    "potential_angles": [
+      "Second-order effect + disagreement with the hype"
+    ],
+    "media_available": [],
+    "selected_angle": "Second-order effect + disagreement with the hype",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-013",
+    "title": "METR, \"Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity\" (July 2025) and METR update (24 Feb 2026). Peng et al., GitHub Copilot experiment (2023).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/",
+    "original_source": "",
+    "topic": [
+      "AI × productivity"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 89,
+    "potential_angles": [
+      "Practical framework (perception vs measurement)"
+    ],
+    "media_available": [],
+    "selected_angle": "Practical framework (perception vs measurement)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-014",
+    "title": "Bloomberg report on Beast Industries investor documents (March 2025), as covered by Fortune and Tubefilter",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos",
+    "original_source": "",
+    "topic": [
+      "Creator economy × business models"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 85,
+    "potential_angles": [
+      "Business implication (looks like a creator story, is a business model story)"
+    ],
+    "media_available": [],
+    "selected_angle": "Business implication (looks like a creator story, is a business model story)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-015",
+    "title": "Dell'Acqua et al., \"Navigating the Jagged Technological Frontier\" (Harvard Business School working paper with BCG, 2023; later published in Organization Science)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321",
+    "original_source": "",
+    "topic": [
+      "AI × management × work quality"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 89,
+    "potential_angles": [
+      "Contrarian (everyone quotes the 40%, the 19 points matter more)"
+    ],
+    "media_available": [],
+    "selected_angle": "Contrarian (everyone quotes the 40%, the 19 points matter more)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-016",
+    "title": "Coverage of Coca-Cola's 2025 AI holiday ad (Forbes, 4 Nov 2025; Marketing AI Institute citing The Hollywood Reporter)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.forbes.com/sites/danidiplacido/2025/11/04/coca-cola-sparks-backlash-with-ai-generated-christmas-ad-again/",
+    "original_source": "",
+    "topic": [
+      "AI × branding × consumer psychology"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 82,
+    "potential_angles": [
+      "Practical framework (where AI production helps and hurts a brand)"
+    ],
+    "media_available": [],
+    "selected_angle": "Practical framework (where AI production helps and hurts a brand)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-017",
+    "title": "Brynjolfsson, Li and Raymond, \"Generative AI at Work\", Quarterly Journal of Economics (2025). Noy and Zhang, Science (2023). Stanford Canaries update (Aug 2026).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://academic.oup.com/qje/article/140/2/889/7990658",
+    "original_source": "",
+    "topic": [
+      "AI × skills × hiring"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 90,
+    "potential_angles": [
+      "Connection (two studies + a paradox)"
+    ],
+    "media_available": [],
+    "selected_angle": "Connection (two studies + a paradox)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-018",
+    "title": "Goh et al., \"Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial\", JAMA Network Open (Oct 2024)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/39466245/",
+    "original_source": "",
+    "topic": [
+      "AI × healthcare × human-AI collaboration"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 87,
+    "potential_angles": [
+      "Contrarian (the finding is stranger than \"AI beats doctors\")"
+    ],
+    "media_available": [],
+    "selected_angle": "Contrarian (the finding is stranger than \"AI beats doctors\")",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-019",
+    "title": "Klarna press release (27 Feb 2024). Siemiatkowski interview with Bloomberg (May 2025), as reported by Entrepreneur and Forbes.",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/",
+    "original_source": "",
+    "topic": [
+      "AI × customer experience × branding"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 84,
+    "potential_angles": [
+      "Disagreement (the story is a metric failure, not an AI failure)"
+    ],
+    "media_available": [],
+    "selected_angle": "Disagreement (the story is a metric failure, not an AI failure)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-020",
+    "title": "Dietvorst, Simmons and Massey, \"Algorithm Aversion\", Journal of Experimental Psychology: General (2015). Same authors, \"Overcoming Algorithm Aversion\", Management Science (2018).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616787",
+    "original_source": "",
+    "topic": [
+      "AI × product design × consumer psychology"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 84,
+    "potential_angles": [
+      "Practical framework from research"
+    ],
+    "media_available": [],
+    "selected_angle": "Practical framework from research",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-021",
+    "title": "BCG, \"From Content to Commerce: Mapping India's Creator Economy\" (May 2025). Goldman Sachs Research on the creator economy (2023).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy",
+    "original_source": "",
+    "topic": [
+      "Creator economy × India × business models"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 83,
+    "potential_angles": [
+      "Business implication (influence is big, income is thin: a structural problem)"
+    ],
+    "media_available": [],
+    "selected_angle": "Business implication (influence is big, income is thin: a structural problem)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-022",
+    "title": "Lee et al., \"The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers\", CHI 2025 (Microsoft Research and Carnegie Mellon University)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/",
+    "original_source": "",
+    "topic": [
+      "AI × productivity × thinking"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 81,
+    "potential_angles": [
+      "Practical framework (think first, prompt second)"
+    ],
+    "media_available": [],
+    "selected_angle": "Practical framework (think first, prompt second)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-023",
+    "title": "Naval Ravikant, \"How to Get Rich (without getting lucky)\" tweetstorm (31 May 2018)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://nav.al/rich",
+    "original_source": "",
+    "topic": [
+      "Leverage × AI × personal branding"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 80,
+    "potential_angles": [
+      "Agreement + extension (the quote in the AI era)"
+    ],
+    "media_available": [],
+    "selected_angle": "Agreement + extension (the quote in the AI era)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-024",
+    "title": "Jeff Bezos, fireside chat with Werner Vogels, AWS re:Invent (Nov 2012). Quote verified via Quote Investigator.",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://quoteinvestigator.com/2021/03/03/not-change/",
+    "original_source": "",
+    "topic": [
+      "Strategy × AI × year-end planning"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 77,
+    "potential_angles": [
+      "Agreement + extension (applied to 2027 planning)"
+    ],
+    "media_available": [],
+    "selected_angle": "Agreement + extension (applied to 2027 planning)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-025",
+    "title": "Adam Mosseri's year-end memo posted on Instagram (31 Dec 2025), as covered by Engadget and Om Malik",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.engadget.com/social-media/instagram-chief-ai-is-so-ubiquitous-it-will-be-more-practical-to-fingerprint-real-media-than-fake-media-202620080.html",
+    "original_source": "",
+    "topic": [
+      "Creator economy × AI × authenticity"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 80,
+    "potential_angles": [
+      "Anniversary + future implication"
+    ],
+    "media_available": [],
+    "selected_angle": "Anniversary + future implication",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-026",
+    "title": "WEF Future of Jobs Report 2025 (Jan 2025). Dario Amodei interview with Axios (28 May 2025). Stanford Digital Economy Lab Canaries update (Aug 2026).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/",
+    "original_source": "",
+    "topic": [
+      "AI × jobs × forecasting"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 85,
+    "potential_angles": [
+      "Framework (forecast vs measurement)"
+    ],
+    "media_available": [],
+    "selected_angle": "Framework (forecast vs measurement)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-027",
+    "title": "Budzyń et al., \"Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study\", The Lancet Gastroenterology & Hepatology (2025)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract",
+    "original_source": "",
+    "topic": [
+      "AI × healthcare × skills"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 83,
+    "potential_angles": [
+      "Second-order effect (what happens when the AI is off)"
+    ],
+    "media_available": [],
+    "selected_angle": "Second-order effect (what happens when the AI is off)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-028",
+    "title": "Norton, Mochon and Ariely, \"The IKEA effect: When labor leads to love\", Journal of Consumer Psychology (2012)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.hbs.edu/ris/Publication%20Files/11-091.pdf",
+    "original_source": "",
+    "topic": [
+      "Consumer psychology × AI product design × creators"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 83,
+    "potential_angles": [
+      "Connection (a 2012 finding applied to one-click AI products)"
+    ],
+    "media_available": [],
+    "selected_angle": "Connection (a 2012 finding applied to one-click AI products)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-029",
+    "title": "Ayers et al., \"Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum\", JAMA Internal Medicine (2023)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions",
+    "original_source": "",
+    "topic": [
+      "AI × healthcare × empathy"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 87,
+    "potential_angles": [
+      "Disagreement with the popular headline"
+    ],
+    "media_available": [],
+    "selected_angle": "Disagreement with the popular headline",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-030",
+    "title": "Tobi Lütke's Shopify memo (April 2025), reported by CNBC (7 Apr 2025)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html",
+    "original_source": "",
+    "topic": [
+      "AI × hiring × management"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 83,
+    "potential_angles": [
+      "Second-order effect (burden of proof flips)"
+    ],
+    "media_available": [],
+    "selected_angle": "Second-order effect (burden of proof flips)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-031",
+    "title": "CCPA Guidelines for Prevention and Regulation of Dark Patterns (2023) and June 2025 self-audit advisory. LocalCircles audit (June to Sept 2025), as reported by MediaNama and law-firm analyses.",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.medianama.com/2025/11/223-ccpa-dark-pattern-self-audit-declarations-18-e-commerce-quick-commerce-platforms/",
+    "original_source": "",
+    "topic": [
+      "Consumer psychology × India × product design"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 83,
+    "potential_angles": [
+      "Future implication + positioning opportunity"
+    ],
+    "media_available": [],
+    "selected_angle": "Future implication + positioning opportunity",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-032",
+    "title": "Andrej Karpathy's post on X (2 Feb 2025) and his later retrospective post. Collins Dictionary Word of the Year 2025.",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://x.com/karpathy/status/1886192184808149383",
+    "original_source": "",
+    "topic": [
+      "AI × personal branding × language"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 85,
+    "potential_angles": [
+      "Connection (an AI trend as a personal branding lesson)"
+    ],
+    "media_available": [],
+    "selected_angle": "Connection (an AI trend as a personal branding lesson)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-033",
+    "title": "Microsoft AI, \"The Path to Medical Superintelligence\" (June 2025) and paper \"Sequential Diagnosis with Language Models\" (arXiv 2506.22405)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://microsoft.ai/news/the-path-to-medical-superintelligence/",
+    "original_source": "",
+    "topic": [
+      "AI × healthcare × media literacy"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 85,
+    "potential_angles": [
+      "Disagreement (the setup matters more than the score)"
+    ],
+    "media_available": [],
+    "selected_angle": "Disagreement (the setup matters more than the score)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-034",
+    "title": "Zao-Sanders, \"How People Are Really Using Gen AI in 2025\", Harvard Business Review (Apr 2025). Heinz et al., \"Randomized Trial of a Generative AI Chatbot for Mental Health Treatment\", NEJM AI (Mar 2025). OpenAI and MIT Media Lab affective-use studies (Mar 2025).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://ai.nejm.org/doi/abs/10.1056/AIoa2400802",
+    "original_source": "",
+    "topic": [
+      "AI × mental health × business models"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 86,
+    "potential_angles": [
+      "Connection (two studies pointing opposite ways) + founder implication"
+    ],
+    "media_available": [],
+    "selected_angle": "Connection (two studies pointing opposite ways) + founder implication",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-035",
+    "title": "Satya Nadella on the Dwarkesh Podcast (19 Feb 2025)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.dwarkesh.com/p/satya-nadella",
+    "original_source": "",
+    "topic": [
+      "AI × business strategy × measurement"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 81,
+    "potential_angles": [
+      "Agreement + extension (from GDP to your own metrics)"
+    ],
+    "media_available": [],
+    "selected_angle": "Agreement + extension (from GDP to your own metrics)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-036",
+    "title": "BBC investigation \"Busting the attention span myth\" by Simon Maybin (2017), on the 2015 Microsoft Canada consumer insights report",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.fastcompany.com/91023619/8-second-attention-span-is-bs-this-is-why",
+    "original_source": "",
+    "topic": [
+      "Marketing × content creation × research literacy"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 84,
+    "potential_angles": [
+      "Contrarian (attention spans aren't shrinking, tolerance for boring is)"
+    ],
+    "media_available": [],
+    "selected_angle": "Contrarian (attention spans aren't shrinking, tolerance for boring is)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-037",
+    "title": "Dell'Acqua et al., \"The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise\", NBER working paper w33641 (2025)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.nber.org/papers/w33641",
+    "original_source": "",
+    "topic": [
+      "AI × startups × teamwork"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 83,
+    "potential_angles": [
+      "What this means for founders"
+    ],
+    "media_available": [],
+    "selected_angle": "What this means for founders",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-038",
+    "title": "Binet and Field, \"The Long and the Short of It\" (IPA, 2013)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it",
+    "original_source": "",
+    "topic": [
+      "Marketing × branding × AI"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 80,
+    "potential_angles": [
+      "Future implication (framed as hypothesis)"
+    ],
+    "media_available": [],
+    "selected_angle": "Future implication (framed as hypothesis)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-039",
+    "title": "Coverage of Duolingo's \"AI-first\" memo (28 Apr 2025) and CEO Luis von Ahn's LinkedIn clarification (May 2025), via Entrepreneur, Fortune and TechCrunch",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.entrepreneur.com/business-news/duolingo-ceo-clarifies-ai-stance-after-backlash-read-memo/492141",
+    "original_source": "",
+    "topic": [
+      "AI × branding × communication"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 81,
+    "potential_angles": [
+      "Business implication (an internal memo is a brand event)"
+    ],
+    "media_available": [],
+    "selected_angle": "Business implication (an internal memo is a brand event)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-040",
+    "title": "Kosmyna et al., \"Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task\", MIT Media Lab (arXiv 2506.08872, June 2025)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://arxiv.org/abs/2506.08872",
+    "original_source": "",
+    "topic": [
+      "AI × content creation × thinking"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 84,
+    "potential_angles": [
+      "Practical implication for creators (ownership and recall)"
+    ],
+    "media_available": [],
+    "selected_angle": "Practical implication for creators (ownership and recall)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-041",
+    "title": "Iyengar and Lepper, Journal of Personality and Social Psychology (2000). Scheibehenne, Greifeneder and Todd, \"Can There Ever Be Too Many Options?\", Journal of Consumer Research (2010).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.jasoncollins.blog/posts/not-the-jam-study-again",
+    "original_source": "",
+    "topic": [
+      "Consumer psychology × marketing × AI"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 81,
+    "potential_angles": [
+      "Disagreement (with a famous study's popular reading)"
+    ],
+    "media_available": [],
+    "selected_angle": "Disagreement (with a famous study's popular reading)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-042",
+    "title": "\"AI Clinical Decision Support System (CDSS) for Teleconsultations in eSanjeevani, India Telemedicine Service: A Prospective Implementation Study\", medRxiv (Nov 2025). Government data on rural specialist shortage (Rural Health Statistics, as of March 2022).",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full",
+    "original_source": "",
+    "topic": [
+      "Healthcare × AI × India"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 81,
+    "potential_angles": [
+      "Contrarian (the India AI health story is distribution, not accuracy)"
+    ],
+    "media_available": [],
+    "selected_angle": "Contrarian (the India AI health story is distribution, not accuracy)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-043",
+    "title": "Porter and Machery, \"AI-generated poetry is indistinguishable from human-written poetry and is rated more favorably\", Scientific Reports (Nov 2024)",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.nature.com/articles/s41598-024-76900-1",
+    "original_source": "",
+    "topic": [
+      "AI × content creation × audience"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 86,
+    "potential_angles": [
+      "Contrarian (the finding is about audience, not about AI beating Shakespeare)"
+    ],
+    "media_available": [],
+    "selected_angle": "Contrarian (the finding is about audience, not about AI beating Shakespeare)",
+    "status": "drafted"
+  },
+  {
+    "source_id": "src-bank-044",
+    "title": "Reporting on the University of Zurich's unauthorised AI persuasion experiment on Reddit's r/changemyview (April 2025), via Engadget and Live Science",
+    "source_type": "",
+    "author": "",
+    "publication": "",
+    "date": "",
+    "url": "https://www.engadget.com/ai/researchers-secretly-experimented-on-reddit-users-with-ai-generated-comments-194328026.html",
+    "original_source": "",
+    "topic": [
+      "AI × persuasion × trust × social media"
+    ],
+    "key_claim": "",
+    "important_data": [],
+    "research_quality": "verified via web search results quoting the original; original pages blocked from this environment, re-open before posting",
+    "content_jacking_score": 82,
+    "potential_angles": [
+      "Second-order effect (cheap persuasion makes identity valuable)"
+    ],
+    "media_available": [],
+    "selected_angle": "Second-order effect (cheap persuasion makes identity valuable)",
+    "status": "drafted"
   }
 ]

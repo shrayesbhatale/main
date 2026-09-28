@@ -1,1 +1,1055 @@
-[]
+[
+  {
+    "post_id": "P01",
+    "source_id": "src-bank-006",
+    "topic": "AI and entry-level jobs",
+    "angle": "Disagreement + second-order effect",
+    "hook": "Jensen Huang's most quoted line about AI and jobs is missing a detail.",
+    "body": "Jensen Huang's most quoted line about AI and jobs is missing a detail.\n\nAt the Milken conference in 2025 he said: \"You're not going to lose your job to an AI, but you're going to lose your job to someone who use AI.\"\n\nStanford's Digital Economy Lab updated its payroll study in August 2026. The study uses ADP payroll data.\n\nTwo findings stand out.\n\nEmployment for workers aged 22 to 25 in the most AI-exposed jobs now sits about 19% below trend.\n\nExperienced workers in the same jobs show no comparable decline.\n\nAnd the gap comes from fewer hires, not more firings.\n\nSo for a junior, the competitor isn't a peer who uses AI better.\n\nThe competitor is a senior who uses AI and no longer needs a junior.\n\nNobody gets fired in this story. A job posting never goes up.\n\nMy read: AI pressure shows up first on the bottom rung, because junior work runs on codified knowledge. Senior work runs on judgment, context and relationships.\n\nIf you're early in your career, \"learn AI\" won't be enough. Everyone will.\n\nBuild proof of judgment. Public work. Decisions you made and why. Problems a senior would otherwise have to check.\n\nIf you hire, ask the uncomfortable question: where will your seniors come from in 2032 if nobody hires juniors in 2026?",
+    "cta": "If you manage a team: are you still hiring juniors? Why or why not?",
+    "hashtags": [
+      "#AI",
+      "#FutureOfWork",
+      "#Careers"
+    ],
+    "media": [],
+    "source_links": [
+      "https://digitaleconomy.stanford.edu/news/canariesaug26/"
+    ],
+    "first_comment": "Source: Stanford Digital Economy Lab, August 2026 update: https://digitaleconomy.stanford.edu/news/canariesaug26/\n\nNuance worth knowing: the authors find no widespread, economy-wide displacement. The decline concentrates in jobs where AI substitutes for human tasks. Where AI complements work, young-worker employment stays flat or rises.\n\nHuang quote: CNBC, 28 May 2025: https://www.cnbc.com/2025/05/28/nvidia-ceo-jensen-huang-youll-lose-your-job-to-somebody-who-uses-ai.html",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 29 Sep 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 88
+  },
+  {
+    "post_id": "P02",
+    "source_id": "src-bank-007",
+    "topic": "AI × branding × consumer psychology",
+    "angle": "Connection (public sentiment data + consumer research)",
+    "hook": "AI has a positioning problem. The numbers keep getting worse.",
+    "body": "AI has a positioning problem. The numbers keep getting worse.\n\nPew, August 2026: 52% of Americans feel more concerned than excited about AI in daily life. In 2021 the figure was 37%.\n\nAmong adults under 30, 55% now say concerned over excited. The first time a majority of young adults said so.\n\n73% of under-30s expect AI to mean fewer jobs over the next 20 years. Two years ago: 61%.\n\nNow pair this with a 2024 study from Washington State University and Temple University. Six experiments. Identical product descriptions. One version mentioned \"artificial intelligence\". The other didn't.\n\nThe AI version lowered purchase intention. The drop ran through emotional trust. And the effect grew stronger for high-risk products.\n\nPut together, here's the uncomfortable conclusion for founders and marketers.\n\nThe word \"AI\" on your landing page reads as a feature to investors and a warning label to many customers.\n\nTwo audiences. One word. Opposite reactions.\n\nWhat I'd do:\n• Sell the outcome, not the technology. \"Answers in 2 minutes\" beats \"AI-powered support\".\n• Save the AI story for buyers who evaluate the stack.\n• In high-risk categories (health, money, safety), lead with human accountability.\n\nMy hypothesis: the best AI products of the next few years will barely mention AI.",
+    "cta": "Marketers: have you tested removing \"AI\" from your copy? What happened?",
+    "hashtags": [
+      "#AI",
+      "#Marketing",
+      "#Branding"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/"
+    ],
+    "first_comment": "Sources:\nPew (Aug 2026): https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/\nCicek et al. (2024): https://www.tandfonline.com/doi/full/10.1080/19368623.2024.2368040\n\nLimits: Pew surveys US adults, so Indian sentiment will differ. The Cicek experiments measured stated purchase intention, not real purchases. Test on your own audience before you rewrite your site.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 1 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 86
+  },
+  {
+    "post_id": "P03",
+    "source_id": "src-bank-008",
+    "topic": "AI adoption, organisational design, ROI",
+    "angle": "Business implication (looks like a technology story, is an org design story)",
+    "hook": "Microsoft studied why AI isn't paying off inside companies. The answer wasn't the AI.",
+    "body": "Microsoft studied why AI isn't paying off inside companies. The answer wasn't the AI.\n\nIn the 2026 Work Trend Index, about 67% of the real impact of AI traced back to organisational factors. Culture. Manager support. Talent practices.\n\nOnly 32% came from individual capability.\n\nMicrosoft calls the gap the Transformation Paradox. People are ready. Organisations are not.\n\nNow line up a 2025 report from MIT's Project NANDA. After $30 to 40 billion of enterprise spending, 95% of organisations reported no measurable return from generative AI.\n\nMost people read the 95% as \"AI doesn't work.\"\n\nI read both reports as the same diagnosis.\n\nAI works at the level of a person. Returns show up at the level of an organisation. And most organisations still run on workflows designed before AI.\n\nA licence changes what one person produces. A workflow change decides whether the company captures the gain.\n\nThe practical test for any leader:\n• Pick one process.\n• Redesign the process around AI from scratch.\n• Measure cost, time and quality before and after.\n• Then scale.\n\nTools are cheap now. Redesign is the scarce skill.",
+    "cta": "Where has AI changed a whole workflow in your company, beyond a single task?",
+    "hashtags": [
+      "#AI",
+      "#DigitalTransformation",
+      "#Leadership"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization"
+    ],
+    "first_comment": "Sources:\nMicrosoft Work Trend Index 2026: https://news.microsoft.com/annual-work-trend-index-2026/\nMIT NANDA coverage: https://www.theregister.com/2025/08/18/generative_ai_zero_return_95_percent\n\nCaveat on the 95%: the NANDA figure comes from 52 interviews, 153 survey responses and a review of 300+ public AI initiatives. Directional, not a census. Microsoft's report also has an obvious interest in AI adoption. Both still point the same way.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 6 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 82
+  },
+  {
+    "post_id": "P04",
+    "source_id": "src-bank-009",
+    "topic": "Media, distribution, AI search, creator economy",
+    "angle": "What this means for creators and brands",
+    "hook": "52% of 18 to 24 year olds now get their news mainly from social media, video platforms or AI.",
+    "body": "52% of 18 to 24 year olds now get their news mainly from social media, video platforms or AI.\n\nSource: the Reuters Institute Digital News Report 2026.\n\nA few more numbers from the report:\n• Weekly use of AI chatbots for news rose from 7% to 10% in a year.\n• Among 18 to 24 year olds, 17% use chatbots for news weekly.\n• Only 1% call AI their main news source.\n\nThe headline most people will take: \"Young people left traditional media.\"\n\nThe bigger story for brands and creators sits one layer down.\n\nDistribution now runs through two gatekeepers.\n\nThe feed decides what people see.\n\nThe chatbot decides what people are told.\n\nThe feed rewards a person with a face and a point of view. The chatbot rewards sources with clear, consistent, citable information.\n\nMost brands optimise for neither. They publish for their own website.\n\nMy working plan for 2027:\n• Put a real person in front of the brand for the feed.\n• Publish specific, structured, quotable facts for the machines.\n• Check whether AI assistants mention you when someone asks about your category.\n\nThe 1% figure tells me the chatbot shift is early. Early is when positioning is cheapest.",
+    "cta": "Have you checked what ChatGPT or Gemini says about your brand?",
+    "hashtags": [
+      "#Marketing",
+      "#AI",
+      "#CreatorEconomy"
+    ],
+    "media": [],
+    "source_links": [
+      "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary"
+    ],
+    "first_comment": "Report: https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary\n\nOne more stat from the report: 77% of respondents watch online news video each week, and more people now watch online news video than TV news in 45 of 48 markets.\n\nThe report covers 48 markets, so the India picture differs in detail. The direction holds.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 13 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 86
+  },
+  {
+    "post_id": "P05",
+    "source_id": "src-bank-010",
+    "topic": "Consumer psychology × fintech × India",
+    "angle": "Second-order effect (friction removal changes behaviour)",
+    "hook": "India made 24.51 billion UPI payments in August. The more interesting number is ₹1,217.",
+    "body": "India made 24.51 billion UPI payments in August. The more interesting number is ₹1,217.\n\nThe August 2026 total was worth ₹29.82 lakh crore. Volume grew 22% year on year.\n\nBut the average UPI payment fell to about ₹1,217, from roughly ₹1,263 in July.\n\nMore payments. Smaller payments.\n\nOne month proves nothing on its own. But the pattern fits what friction removal does to behaviour.\n\nFriction used to act as a filter. You bundled purchases. You waited. You thought twice.\n\nRemove the friction and three things follow:\n• Purchases get smaller and more frequent.\n• Impulse becomes the default.\n• Businesses built on tiny, repeated payments become viable. Quick commerce is the obvious example.\n\nMy hypothesis: micro-subscriptions, pay-per-use AI tools and creator tipping are next in line in India.\n\nFor founders, the lesson: design for the ₹49 decision, not the ₹4,900 one.\n\nFor consumers, the lesson is an uncomfortable mirror. A thumbprint replaced the pause. Your budget now depends on friction you add back yourself.\n\nThe next big Indian consumer brands will win on frequency, not ticket size. Hypothesis, not a forecast.",
+    "cta": "Has UPI changed how often you buy things? Honest answers only.",
+    "hashtags": [
+      "#UPI",
+      "#ConsumerBehaviour",
+      "#Fintech"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.business-standard.com/finance/news/upi-transactions-august-2026-record-volume-npci-126090100506_1.html"
+    ],
+    "first_comment": "Data: NPCI, via Business Standard: https://www.business-standard.com/finance/news/upi-transactions-august-2026-record-volume-npci-126090100506_1.html\n\nAlso worth noting: daily UPI volume averaged 791 million transactions in August, and live member banks rose from 713 in April to 752 in August.\n\nBefore quoting the ₹1,217 figure, check NPCI's own monthly statistics page for the latest month.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 15 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 84
+  },
+  {
+    "post_id": "P06",
+    "source_id": "src-bank-011",
+    "topic": "Trust × personal branding × marketing",
+    "angle": "Branding implication",
+    "hook": "7 in 10 people now hesitate to trust someone with different values or information sources.",
+    "body": "7 in 10 people now hesitate to trust someone with different values or information sources.\n\nThe finding comes from the 2026 Edelman Trust Barometer. Edelman calls the shift insularity. Grievance turned inward.\n\nOne more number from the same report: \"my employer\" is the most trusted institution, at 78% among employees. Business overall sits at 64%. Government at 53%.\n\nHere's what this means for branding.\n\nTrust no longer flows from institutions to people. Trust flows sideways, through people we already know and people who feel like \"us\".\n\nA logo is an institution. A person is a peer.\n\nThree implications:\n• Founder-led and employee-led content will outperform brand-account content. My hypothesis, based on where trust sits.\n• Consistency beats reach. A small audience who sees you as \"one of us\" is worth more than a big audience who sees you as an ad.\n• Niche is safety. Broad messaging now reads as \"not for me\" to more people.\n\nPersonal branding used to be optional for founders and professionals.\n\nIn an insular world, a face and a consistent point of view is how trust reaches a stranger.",
+    "cta": "Who do you trust more for business advice: a company page or a person? Why?",
+    "hashtags": [
+      "#PersonalBranding",
+      "#Trust",
+      "#Marketing"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.edelman.com/news-awards/2026-edelman-trust-barometer-society-slides-into-insularity"
+    ],
+    "first_comment": "Report: https://www.edelman.com/news-awards/2026-edelman-trust-barometer-society-slides-into-insularity\n\nThe insularity figure varies a lot by country: 90% in Japan, 81% in Germany, 70% in the US. Worth checking the India country data in the full report before adapting this for an Indian angle.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 20 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 78
+  },
+  {
+    "post_id": "P07",
+    "source_id": "src-bank-012",
+    "topic": "AI × startups × trust",
+    "angle": "Second-order effect + disagreement with the hype",
+    "hook": "The first \"one-person billion-dollar company\" arrived. So did the FDA warning letter.",
+    "body": "The first \"one-person billion-dollar company\" arrived. So did the FDA warning letter.\n\nIn 2024 Sam Altman described a betting pool in his group chat of tech CEOs for \"the first year that there is a one-person billion-dollar company.\"\n\nIn 2026 the media found a candidate. Medvi, a GLP-1 telehealth company started from a Los Angeles home with $20,000 and more than a dozen AI tools. $401 million in sales in its first full year. Tracking toward $1.8 billion in 2026, per reports.\n\nThen the other half of the story arrived.\n\nThe FDA sent Medvi a warning letter on 20 February 2026 over false or misleading claims about compounded GLP-1 products. Reporters and online sleuths flagged ads with allegedly fake doctor profiles and a before-and-after photo allegedly taken from a Reddit user.\n\nAllegations, not verdicts. But the lesson doesn't need a verdict.\n\nAI multiplies whatever you point AI at. Ad creative. Customer support. Operations. Also shortcuts.\n\nA tiny team removes the people who used to say \"we shouldn't run this ad\". Compliance. Legal. A sceptical senior marketer.\n\nThose roles slow you down. Those roles also keep you alive.\n\nThe one-person unicorn is real. The one-person risk team is the part nobody pitches.\n\nIf you're building lean with AI, budget for judgment. A fractional compliance advisor costs less than a regulator's attention.",
+    "cta": "Founders building lean: who on your team is paid to say no?",
+    "hashtags": [
+      "#AI",
+      "#Startups",
+      "#Entrepreneurship"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.pymnts.com/news/artificial-intelligence/2026/the-one-person-billion-dollar-company-is-here/"
+    ],
+    "first_comment": "Sources:\nPYMNTS: https://www.pymnts.com/news/artificial-intelligence/2026/the-one-person-billion-dollar-company-is-here/\nAllegations roundup (Moneywise): https://moneywise.com/news/top-stories/a-18-billion-startup-with-just-2-employees-was-hailed-as-the-future-now-the-negative-allegations-are-piling-up\neMarketer on the ad scrutiny: https://www.emarketer.com/content/fake-doctor-ads-fuel-scrutiny-of-glp-1-marketer\nAltman quote (Fortune, Feb 2024): https://fortune.com/2024/02/04/sam-altman-one-person-unicorn-silicon-valley-founder-myth/\n\nRevenue figures come from press reports, not audited filings. The FDA letter is public on the FDA website: search \"Medvi warning letter\".",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 27 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 85
+  },
+  {
+    "post_id": "P08",
+    "source_id": "src-bank-013",
+    "topic": "AI × productivity",
+    "angle": "Practical framework (perception vs measurement)",
+    "hook": "Developers believed AI made them 20% faster. The stopwatch said 19% slower.",
+    "body": "Developers believed AI made them 20% faster. The stopwatch said 19% slower.\n\nIn 2025, METR ran a randomized trial with 16 experienced open-source developers on 246 real tasks in their own large codebases.\n\nBefore starting, the developers expected AI to speed them up by 24%.\n\nAfterwards, they estimated AI had sped them up by 20%.\n\nMeasured result: tasks took 19% longer with AI allowed.\n\nCompare GitHub's 2023 experiment, where developers with Copilot finished a fresh, self-contained coding task 55.8% faster.\n\nBoth studies are real. The difference is the task. A clean new task versus a messy, mature codebase you know better than any model.\n\nIn February 2026, METR said developers are likely more sped up now than in early 2025. METR also said selection effects make the new data weak evidence, because developers who didn't want to work without AI declined to join.\n\nThe lesson I take has nothing to do with coding.\n\nHow productive AI makes you feel is a poor measure of how productive AI makes you.\n\nAI removes the effort you notice: typing, drafting.\n\nAI adds effort you don't notice: reviewing, correcting, re-prompting, waiting.\n\nSo measure. Pick one recurring task. Time the task with and without AI for two weeks. Decide with data, not vibes.",
+    "cta": "Have you ever timed a task with and without AI? What did you find?",
+    "hashtags": [
+      "#AI",
+      "#Productivity",
+      "#SoftwareEngineering"
+    ],
+    "media": [],
+    "source_links": [
+      "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
+    ],
+    "first_comment": "Sources:\nMETR 2025 study: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/\nMETR Feb 2026 update: https://metr.org/blog/2026-02-24-uplift-update/\nGitHub Copilot experiment (Peng et al.): https://arxiv.org/abs/2302.06590\n\nThe 2025 confidence interval ran from +2% to +39% slower. The Copilot study used 95 freelance developers on one standardised task. Different settings, different answers. Measure your own.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 29 Oct 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-09-10.txt",
+    "overall_score": 89
+  },
+  {
+    "post_id": "P09",
+    "source_id": "src-bank-014",
+    "topic": "Creator economy × business models",
+    "angle": "Business implication (looks like a creator story, is a business model story)",
+    "hook": "MrBeast's videos lost money in 2024. His chocolate made money.",
+    "body": "MrBeast's videos lost money in 2024. His chocolate made money.\n\nAccording to investor documents reported by Bloomberg in 2025, MrBeast's media business brought in roughly $250 million in 2024 and lost close to $80 million.\n\nFeastables, his chocolate brand, brought in about the same revenue and earned more than $20 million in profit.\n\nThe most-subscribed creator on YouTube ran his content at a loss. The product paid the bills.\n\nMost creators read this as \"diversify your income\".\n\nI think the lesson runs deeper. The content was never the business. The content was the distribution.\n\nMrBeast spends millions per video to earn attention. Attention costs money. A chocolate bar on a supermarket shelf turns attention into margin every time someone walks past.\n\nThree takeaways for creators and founders:\n• Treat content as customer acquisition, and judge the cost like customer acquisition.\n• Own a product with margin. Ads and brand deals rent your audience to someone else.\n• Pick a product people buy again and again. Chocolate, not a course bought once.\n\nThe creator economy talks about monetising content.\n\nThe winners monetise trust through a product, and let the content run at break-even or even a loss.",
+    "cta": "Creators: what would your \"Feastables\" be?",
+    "hashtags": [
+      "#CreatorEconomy",
+      "#Entrepreneurship",
+      "#Branding"
+    ],
+    "media": [],
+    "source_links": [
+      "https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos"
+    ],
+    "first_comment": "Source: Bloomberg report on Beast Industries investor documents, covered by Fortune: https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos\n\nContext: Beast Industries later raised money at a reported $5.2 billion valuation, and leadership has talked about cutting costs. The numbers above are 2024 figures from investor documents, not audited accounts.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 3 Nov 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-11.txt",
+    "overall_score": 85
+  },
+  {
+    "post_id": "P10",
+    "source_id": "src-bank-015",
+    "topic": "AI × management × work quality",
+    "angle": "Contrarian (everyone quotes the 40%, the 19 points matter more)",
+    "hook": "The riskiest AI failure isn't a wrong answer. The riskiest failure is a wrong answer from a tool you trust.",
+    "body": "The riskiest AI failure isn't a wrong answer. The riskiest failure is a wrong answer from a tool you trust.\n\nHarvard and BCG ran one of the most cited AI experiments to date. 758 BCG consultants. Realistic consulting work.\n\nOn tasks inside AI's capability, consultants using GPT-4 completed 12.2% more tasks, 25.1% faster, with more than 40% higher quality.\n\nOn one task deliberately chosen to sit outside AI's capability, consultants using AI were 19 percentage points less likely to reach the correct answer than consultants without AI.\n\nThe researchers call the boundary a \"jagged frontier\". AI excels at some tasks and fails at neighbouring ones, and the line isn't where you'd guess.\n\nEveryone quotes the 40%.\n\nI think the 19 points matter more.\n\nThe consultants didn't fail because AI was bad. They failed because AI was good everywhere else, so they stopped checking.\n\nTrust built on easy tasks carries over to hard ones.\n\nFor anyone managing a team using AI:\n• Map your own frontier. List the tasks where AI output needs a full human check.\n• Assign the checking to people with domain expertise.\n• Reward people for catching AI errors, not only for speed.\n\nThe skill of the next decade isn't using AI. The skill is knowing where AI stops.",
+    "cta": "Where have you seen AI confidently wrong in your work?",
+    "hashtags": [
+      "#AI",
+      "#Leadership",
+      "#FutureOfWork"
+    ],
+    "media": [],
+    "source_links": [
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321"
+    ],
+    "first_comment": "Paper (SSRN): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321\nHBS summary: https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/\n\nThe study used GPT-4 in 2023. Models have improved since, so the frontier moved. The frontier still exists, and the lesson about over-trust still holds.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 10 Nov 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-11.txt",
+    "overall_score": 89
+  },
+  {
+    "post_id": "P11",
+    "source_id": "src-bank-016",
+    "topic": "AI × branding × consumer psychology",
+    "angle": "Practical framework (where AI production helps and hurts a brand)",
+    "hook": "Coca-Cola doesn't sell soda at Christmas. Coca-Cola sells a memory.",
+    "body": "Coca-Cola doesn't sell soda at Christmas. Coca-Cola sells a memory.\n\nWhich explains the backlash to the company's AI-generated holiday ads, two years in a row, in 2024 and again in 2025.\n\nThe 2025 version was made with AI studios Silverside and Secret Level. Coke's head of generative AI told The Hollywood Reporter the \"craftsmanship on this ad is ten times better\" than the year before.\n\nBetter production didn't fix the reaction. Because the reaction was never about production quality.\n\nPeople don't love the Coke holiday ad for the animation. They love the ad because the ad has run for decades and signals \"the season has started\". The ritual is the product.\n\nHere's my framework for when AI production hurts a brand:\n• Low risk: performance ads, product shots, variations, localisation. Nobody bonds with a banner.\n• High risk: ritual and heritage moments, where people want proof of human effort.\n\nAI reduces cost. In heritage moments, visible effort is part of the message. Effort signals care.\n\nA rough rule: use AI for the 90% of content nobody remembers. Protect the 10% people remember.",
+    "cta": "Would you notice, or care, if your favourite brand's festive ad was made with AI?",
+    "hashtags": [
+      "#Branding",
+      "#Marketing",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.forbes.com/sites/danidiplacido/2025/11/04/coca-cola-sparks-backlash-with-ai-generated-christmas-ad-again/"
+    ],
+    "first_comment": "Coverage: https://www.forbes.com/sites/danidiplacido/2025/11/04/coca-cola-sparks-backlash-with-ai-generated-christmas-ad-again/\nQuote source (via Marketing AI Institute, citing The Hollywood Reporter): https://www.marketingaiinstitute.com/blog/criticism-ai-coke-holiday-ad\n\nCounterpoint worth stating: backlash online doesn't always equal lost sales. Coke kept investing in AI production. Brands should measure recall and sentiment, not only comment sections.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 12 Nov 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-11.txt",
+    "overall_score": 82
+  },
+  {
+    "post_id": "P12",
+    "source_id": "src-bank-017",
+    "topic": "AI × skills × hiring",
+    "angle": "Connection (two studies + a paradox)",
+    "hook": "AI helps beginners most. So why are companies hiring fewer beginners?",
+    "body": "AI helps beginners most. So why are companies hiring fewer beginners?\n\nTwo of the most solid AI productivity studies point the same way.\n\nCustomer support (Brynjolfsson, Li and Raymond, Quarterly Journal of Economics, 2025): 5,179 agents. AI assistance raised issues resolved per hour by 14% on average. For novice and low-skilled agents: 34%. For the most experienced: minimal gains.\n\nProfessional writing (Noy and Zhang, Science, 2023): 453 professionals. ChatGPT cut time by 40% and raised quality by 18%. The weakest writers gained most.\n\nThe mechanism: AI packages what top performers know and hands the package to everyone.\n\nAI compresses the skill gap. Beginners perform closer to experts.\n\nNow the paradox. Stanford's payroll research shows fewer hires of 22 to 25 year olds in AI-exposed jobs.\n\nIf AI makes juniors almost as good as seniors, why hire fewer juniors?\n\nMy read: companies measure output, not learning. AI lifts a junior's output. AI also lifts a senior's output, and the senior already has judgment. In the short run the cheaper path to output wins.\n\nThe long-run cost arrives later, when nobody has learned the job the slow way.\n\nIf you're early in your career: use AI to speed up learning, not to skip learning. Ask the tool to explain, not only to answer.\n\nIf you lead a team: your best people's knowledge is now a transferable asset. Capture the knowledge on purpose.",
+    "cta": "Does AI make juniors more valuable or less? I go back and forth.",
+    "hashtags": [
+      "#AI",
+      "#FutureOfWork",
+      "#Leadership"
+    ],
+    "media": [],
+    "source_links": [
+      "https://academic.oup.com/qje/article/140/2/889/7990658"
+    ],
+    "first_comment": "Sources:\nGenerative AI at Work (QJE 2025): https://academic.oup.com/qje/article/140/2/889/7990658\nNoy and Zhang (Science 2023): https://www.science.org/doi/10.1126/science.adh2586\nStanford Canaries (Aug 2026): https://digitaleconomy.stanford.edu/news/canariesaug26/\n\nThe support study used an older model and one company. The writing study used short, standardised tasks. Both results have held up well in follow-up discussion, but check newer work before quoting as settled.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 17 Nov 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-11.txt",
+    "overall_score": 90
+  },
+  {
+    "post_id": "P13",
+    "source_id": "src-bank-018",
+    "topic": "AI × healthcare × human-AI collaboration",
+    "angle": "Contrarian (the finding is stranger than \"AI beats doctors\")",
+    "hook": "Doctors with GPT-4 scored 76%. Doctors without scored 74%. GPT-4 alone scored higher than both.",
+    "body": "Doctors with GPT-4 scored 76%. Doctors without scored 74%. GPT-4 alone scored higher than both.\n\nThe study: a randomized trial in JAMA Network Open (Goh et al., 2024). 50 physicians. Complex clinical cases.\n\nHalf got GPT-4 plus their usual resources. Half used usual resources only.\n\nMedian diagnostic reasoning score:\n• With GPT-4: 76%\n• Without: 74%\nThe difference wasn't statistically significant.\n\nThen the researchers ran GPT-4 alone. The model scored 16 percentage points higher than the physicians using conventional resources.\n\nHeadline version: \"AI beats doctors.\"\n\nI think the finding is stranger and more useful. Giving experts a strong tool barely moved their results. The tool alone beat the experts holding the tool.\n\nWhy? A few plausible reasons. Hypotheses, not findings:\n• Doctors used GPT-4 like a search engine, not like a colleague.\n• When the model disagreed with them, they trusted themselves.\n• Nobody trained them to work with the tool.\n\nThe authors themselves point to technology and workforce development as the need.\n\nThe bottleneck in AI adoption, in healthcare and everywhere else, is the interface between an expert and the machine. Workflow. Training. Trust calibration.\n\nBuying the tool is the easy part.\n\nTeaching experts to change their minds when a tool is right is the hard part.",
+    "cta": "Doctors and clinicians: how do you use AI in practice today, if at all?",
+    "hashtags": [
+      "#HealthTech",
+      "#AI",
+      "#Healthcare"
+    ],
+    "media": [],
+    "source_links": [
+      "https://pubmed.ncbi.nlm.nih.gov/39466245/"
+    ],
+    "first_comment": "Study: JAMA Network Open, Goh et al., 2024. PubMed: https://pubmed.ncbi.nlm.nih.gov/39466245/\n\nLimits: 50 physicians, case vignettes rather than live patients, and GPT-4 from 2024. The \"LLM alone\" arm was a secondary analysis. The point here is the collaboration gap, not a verdict on AI vs doctors.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 24 Nov 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-11.txt",
+    "overall_score": 87
+  },
+  {
+    "post_id": "P14",
+    "source_id": "src-bank-019",
+    "topic": "AI × customer experience × branding",
+    "angle": "Disagreement (the story is a metric failure, not an AI failure)",
+    "hook": "In 2024 Klarna said AI did the work of 700 agents. In 2025 Klarna started hiring humans again.",
+    "body": "In 2024 Klarna said AI did the work of 700 agents. In 2025 Klarna started hiring humans again.\n\nFebruary 2024: Klarna announced its AI assistant handled 2.3 million conversations in its first month. Two thirds of customer service chats. The equivalent work of 700 full-time agents.\n\nMay 2025: CEO Sebastian Siemiatkowski told Bloomberg: \"As cost unfortunately seems to have been a too predominant evaluation factor when organizing this, what you end up having is lower quality.\"\n\nKlarna then moved to a hybrid model and began recruiting human agents, so customers always have the option to reach a person.\n\nMost commentary framed this as \"AI failed\".\n\nI don't read the story as an AI failure. I read the story as a metric failure.\n\nKlarna optimised support for cost. Customers judge support on one question: did my problem get solved, and did I feel respected?\n\nWhen the metric is cost, AI wins every time. When the metric is trust, the answer depends on the problem.\n\nA better design:\n• AI for routine, low-stakes, high-volume questions.\n• Humans for money disputes, complaints and anything emotional.\n• A visible, fast path from bot to human.\n\nAutomation doesn't damage brands. Automation aimed at the wrong metric does.",
+    "cta": "What's the one support situation where you'd never want a bot?",
+    "hashtags": [
+      "#AI",
+      "#CustomerExperience",
+      "#Branding"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/"
+    ],
+    "first_comment": "Sources:\nKlarna press release (Feb 2024): https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/\nEntrepreneur on the reversal: https://www.entrepreneur.com/business-news/klarna-ceo-reverses-course-by-hiring-more-humans-not-ai/491396\n\nFair to note: Klarna still uses AI for a large share of conversations. The change was a rebalancing, not a full retreat.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 26 Nov 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-11.txt",
+    "overall_score": 84
+  },
+  {
+    "post_id": "P15",
+    "source_id": "src-bank-020",
+    "topic": "AI × product design × consumer psychology",
+    "angle": "Practical framework from research",
+    "hook": "People forgive a human's mistake faster than an algorithm's. Research also found the fix.",
+    "body": "People forgive a human's mistake faster than an algorithm's. Research also found the fix.\n\nIn 2015, Wharton researchers Berkeley Dietvorst, Joseph Simmons and Cade Massey published experiments on \"algorithm aversion\".\n\nParticipants watched a forecasting algorithm make errors. Afterwards they avoided the algorithm and chose a human forecaster, even though the algorithm outperformed humans in every study.\n\nPeople lose confidence in algorithms faster than in humans after seeing the same mistake.\n\nIn 2018 the same team found a fix. When people were allowed to adjust the algorithm's forecast, even slightly, they became far more willing to use the algorithm. And their results improved.\n\nControl, even a small amount, turned rejection into adoption.\n\nThis matters for everyone building AI products today.\n\nMost AI products are black boxes with a \"regenerate\" button. The user accepts the output or throws the output away.\n\nThe research points to a third design:\n• Let users edit and steer the output.\n• Show a confidence level so errors aren't surprises.\n• Give a small dial: tone, length, risk level.\n\nPeople don't need a perfect AI. People need to feel in charge of an imperfect one.\n\nMy bet: the product with the best model will lose to the product with the best sense of control.",
+    "cta": "Which AI tool gives you the most sense of control? Which gives the least?",
+    "hashtags": [
+      "#AI",
+      "#ProductDesign",
+      "#ConsumerPsychology"
+    ],
+    "media": [],
+    "source_links": [
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616787"
+    ],
+    "first_comment": "Papers:\n2015 (Algorithm Aversion): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466040\n2018 (Overcoming Algorithm Aversion): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616787\n\nThese were forecasting tasks in lab settings, run before today's chat AI. Newer research on generative AI trust is mixed. The control finding is the part I'd bet still holds.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 1 Dec 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-12.txt",
+    "overall_score": 84
+  },
+  {
+    "post_id": "P16",
+    "source_id": "src-bank-021",
+    "topic": "Creator economy × India × business models",
+    "angle": "Business implication (influence is big, income is thin: a structural problem)",
+    "hook": "India has 2 to 2.5 million active creators. Only 8 to 10% monetise effectively.",
+    "body": "India has 2 to 2.5 million active creators. Only 8 to 10% monetise effectively.\n\nBCG's 2025 report on India's creator economy has a gap worth staring at:\n• 2 to 2.5 million active creators (1,000+ followers).\n• Creators influence over 30% of consumer decisions, shaping $350 to 400 billion of spending.\n• Only 8 to 10% of creators monetise effectively.\n• Direct creator revenue: $20 to 25 billion today, projected $100 to 125 billion by 2030.\n\nGlobally, Goldman Sachs estimated about 4% of creators earn more than $100,000 a year.\n\nInfluence is massive. Income is thin.\n\nMost people blame the algorithm. I think the problem is structure.\n\nA creator influences a purchase. The brand, the marketplace and the platform capture the margin. The creator gets a one-time fee.\n\nThe creators who break out stop selling influence and start owning a piece of the transaction:\n• Their own product, even a small one.\n• Affiliate or revenue share instead of flat fees.\n• An owned channel (email, a WhatsApp community) no algorithm controls.\n\nInfluenced spending and creator revenue are different measures. But the direction is clear: creators capture a small share of the value they move.\n\nMy hypothesis: the next wave of Indian creator businesses will be built by creators who close the gap.",
+    "cta": "Creators: what share of your income comes from something you own?",
+    "hashtags": [
+      "#CreatorEconomy",
+      "#India",
+      "#PersonalBranding"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy"
+    ],
+    "first_comment": "Sources:\nBCG (May 2025): https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy\nPIB summary: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2126106\nGoldman Sachs: https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027\n\n\"Influence\" figures are estimates built on surveys and models. Treat them as scale, not precision.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 8 Dec 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-12.txt",
+    "overall_score": 83
+  },
+  {
+    "post_id": "P17",
+    "source_id": "src-bank-022",
+    "topic": "AI × productivity × thinking",
+    "angle": "Practical framework (think first, prompt second)",
+    "hook": "The more people trusted AI, the less critical thinking they reported doing.",
+    "body": "The more people trusted AI, the less critical thinking they reported doing.\n\nMicrosoft Research and Carnegie Mellon surveyed 319 knowledge workers who use generative AI at least weekly. They collected 936 real examples of AI use at work. The paper appeared at CHI 2025.\n\nTwo findings pull in opposite directions:\n• Higher confidence in AI was associated with less critical thinking.\n• Higher confidence in yourself was associated with more critical thinking.\n\nImportant caveat: self-reported survey data. Association, not proof of cause.\n\nStill, the pattern matches what I notice in practice. People with deep expertise use AI as a sparring partner. People without expertise use AI as an authority.\n\nSame tool. Opposite relationship.\n\nThe paper also describes how critical thinking shifts with AI. Less effort on producing. More effort on verifying, integrating and stewarding the output.\n\nThe job doesn't disappear. The job moves from writer to editor.\n\nAnd editing needs a standard. You judge AI output only against what you already know.\n\nThe rule I use: form my own view first, even a rough one. Then ask the AI. Then compare.\n\nThe order protects the thinking.",
+    "cta": "Do you think first and prompt second, or the other way round?",
+    "hashtags": [
+      "#AI",
+      "#CriticalThinking",
+      "#Productivity"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/"
+    ],
+    "first_comment": "Paper (ACM): https://dl.acm.org/doi/full/10.1145/3706598.3713778\nMicrosoft summary: https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/\n\nThe survey measures what people say they do, not what they do. Treat the result as a direction to watch, not a diagnosis.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 10 Dec 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-12.txt",
+    "overall_score": 81
+  },
+  {
+    "post_id": "P18",
+    "source_id": "src-bank-023",
+    "topic": "Leverage × AI × personal branding",
+    "angle": "Agreement + extension (the quote in the AI era)",
+    "hook": "In 2018 Naval called code and media \"permissionless leverage\". In 2026 the last gate fell.",
+    "body": "In 2018 Naval called code and media \"permissionless leverage\". In 2026 the last gate fell.\n\nOn 31 May 2018, Naval Ravikant posted his \"How to Get Rich (without getting lucky)\" thread.\n\nOne line has aged better than most: \"Code and media are permissionless leverage.\"\n\nLabour needs people to follow you. Capital needs someone to give you money. Code and media need nobody's approval.\n\nBut in 2018 code still had a gate. You had to learn to program.\n\nBy 2026, AI coding tools let non-programmers ship working software from plain-language instructions.\n\nSo both forms of permissionless leverage now sit behind one skill: clear thinking, written in plain language.\n\nA clear writer now builds tools. A clear thinker now publishes daily.\n\nHere's the catch.\n\nWhen leverage is available to everyone, leverage stops being an edge. Everyone ships apps. Everyone posts.\n\nThe edge moves to what AI doesn't hand out:\n• Taste: knowing what's worth building.\n• Distribution: people who already trust you.\n• Judgment: knowing when output is wrong.\n\nLeverage multiplies. Multiplying zero still gives zero.\n\nBuild the thing worth multiplying first.",
+    "cta": "Which leverage are you building in 2027: code, media, or both?",
+    "hashtags": [
+      "#Entrepreneurship",
+      "#AI",
+      "#PersonalBranding"
+    ],
+    "media": [],
+    "source_links": [
+      "https://nav.al/rich"
+    ],
+    "first_comment": "Naval's full thread, archived with his commentary: https://nav.al/rich\n\nThe four kinds of leverage in his framing: labour, capital, code and media. The first two need permission. The last two don't.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 15 Dec 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-12.txt",
+    "overall_score": 80
+  },
+  {
+    "post_id": "P19",
+    "source_id": "src-bank-024",
+    "topic": "Strategy × AI × year-end planning",
+    "angle": "Agreement + extension (applied to 2027 planning)",
+    "hook": "Everyone is predicting 2027. Bezos asked a better question back in 2012.",
+    "body": "Everyone is predicting 2027. Bezos asked a better question back in 2012.\n\nAt AWS re:Invent in 2012, Jeff Bezos said people often ask him what will change in the next 10 years. Then he added:\n\n\"I almost never get the question: 'What's not going to change in the next 10 years?'\"\n\nHis point: build strategy on what stays stable. For Amazon's retail business, customers want low prices, fast delivery and vast selection. They'll want those in any decade.\n\nDecember is prediction season. AI agents, new models, new platforms. Most predictions will age badly.\n\nSo here's my list for 2027. Things I'd bet stay the same no matter what AI does:\n• People buy from people they trust.\n• Attention goes to what feels specific and personal.\n• Customers want problems solved faster, with less effort.\n• Scarce skills get paid. Common skills get commoditised.\n• Reputation compounds. So does a bad one.\n\nIn my view, every AI shift of the last three years pushed harder on these, not against them.\n\nBefore you plan around what's new, write down what won't change in your industry. Build on the list. Use AI to serve the list better.\n\nPredictions expire. Constants compound.",
+    "cta": "What's one thing in your industry you're sure won't change by 2030?",
+    "hashtags": [
+      "#Strategy",
+      "#Entrepreneurship",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://quoteinvestigator.com/2021/03/03/not-change/"
+    ],
+    "first_comment": "Quote origin (Quote Investigator): https://quoteinvestigator.com/2021/03/03/not-change/\nTechCrunch coverage of the 2012 talk: https://techcrunch.com/2012/11/29/amazon-founder-jeff-bezos-talks-aws-innovation-customer-service-space-travel-at-re-invent\n\nThe full quote continues: the second question is more important \"because you can build a business strategy around the things that are stable in time.\"",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 22 Dec 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-12.txt",
+    "overall_score": 77
+  },
+  {
+    "post_id": "P20",
+    "source_id": "src-bank-025",
+    "topic": "Creator economy × AI × authenticity",
+    "angle": "Anniversary + future implication",
+    "hook": "A year ago, the head of Instagram argued platforms will need to prove what's real instead of catching what's fake.",
+    "body": "A year ago, the head of Instagram argued platforms will need to prove what's real instead of catching what's fake.\n\nOn the last day of 2025, Adam Mosseri published a 20-slide year-end memo on AI and authenticity.\n\nHis core argument, paraphrased: AI content will become so common, verifying real media at the point of capture will be more practical than trying to catch every fake.\n\nHe also suggested creators lean into raw, unpolished, even unflattering content as a signal of being real.\n\nOne year later, the direction looks right to me.\n\nHere's the shift for anyone building a brand.\n\nPolish used to signal quality. Now polish is free. A model generates a flawless image in seconds.\n\nWhen polish costs nothing, polish signals nothing.\n\nProof of reality becomes the premium:\n• Behind-the-scenes over studio shots.\n• Specific, dated, local details AI wouldn't invent.\n• Your face, your voice, your mistakes.\n• Consistency over years, which nobody fakes overnight.\n\nThe brands winning on social next year won't look the most professional. They'll look the most verifiably human.\n\nImperfection used to be a flaw. Now imperfection is evidence.",
+    "cta": "Do you trust polished content less than you did two years ago?",
+    "hashtags": [
+      "#CreatorEconomy",
+      "#Branding",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.engadget.com/social-media/instagram-chief-ai-is-so-ubiquitous-it-will-be-more-practical-to-fingerprint-real-media-than-fake-media-202620080.html"
+    ],
+    "first_comment": "Coverage of the memo:\nEngadget: https://www.engadget.com/social-media/instagram-chief-ai-is-so-ubiquitous-it-will-be-more-practical-to-fingerprint-real-media-than-fake-media-202620080.html\nOm Malik's analysis: https://om.co/2026/01/01/what-is-instagrams-adam-mosseri-really-saying-in-his-year-end-memo/\n\nWorth reading the original slides on Mosseri's Instagram. He also talks about cryptographic signing by camera makers, which is where \"proof of real\" is heading technically.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 29 Dec 2026, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2026-12.txt",
+    "overall_score": 80
+  },
+  {
+    "post_id": "P21",
+    "source_id": "src-bank-026",
+    "topic": "AI × jobs × forecasting",
+    "angle": "Framework (forecast vs measurement)",
+    "hook": "Three numbers about AI and jobs. Only one of them is data.",
+    "body": "Three numbers about AI and jobs. Only one of them is data.\n\n1. The optimistic forecast. The World Economic Forum's Future of Jobs Report 2025 projects 170 million jobs created and 92 million displaced by 2030. Net: +78 million.\n\n2. The pessimistic warning. In May 2025, Anthropic CEO Dario Amodei told Axios AI might wipe out half of entry-level white-collar jobs and push unemployment to 10 to 20% within one to five years.\n\n3. The data. Stanford's payroll research, August 2026 update: no widespread, economy-wide displacement. But employment of 22 to 25 year olds in highly AI-exposed jobs sits about 19% below trend, mostly through fewer hires.\n\nTwo forecasts. One measurement.\n\nThe measurement sits between the extremes. And the measurement shows where the pain concentrates: early careers and codified-knowledge work.\n\nAlso note the WEF number most people skip. 170 million created plus 92 million displaced means churn of about 22% of formal jobs. A net positive number still means millions of people changing jobs, skills and cities.\n\nMy rule for 2027: read forecasts for direction. Read data for decisions.\n\nAnd when someone quotes you a big AI jobs number, ask one question.\n\nForecast or measurement?",
+    "cta": "Which of the three numbers matches what you see in your industry?",
+    "hashtags": [
+      "#FutureOfWork",
+      "#AI",
+      "#Careers"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/"
+    ],
+    "first_comment": "Sources:\nWEF Future of Jobs 2025: https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/\nAxios interview with Amodei: https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic\nStanford Canaries (Aug 2026): https://digitaleconomy.stanford.edu/news/canariesaug26/\n\nStanford's data is US payroll data (ADP). The WEF report is a global employer survey. Different scopes, which is part of the point.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 5 Jan 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-01.txt",
+    "overall_score": 85
+  },
+  {
+    "post_id": "P22",
+    "source_id": "src-bank-027",
+    "topic": "AI × healthcare × skills",
+    "angle": "Second-order effect (what happens when the AI is off)",
+    "hook": "After doctors got used to AI, their performance without AI dropped.",
+    "body": "After doctors got used to AI, their performance without AI dropped.\n\nA 2025 study in The Lancet Gastroenterology & Hepatology looked at colonoscopies at four centres in Poland.\n\n19 experienced endoscopists. Each had done more than 2,000 colonoscopies.\n\nThe centres introduced AI to help spot precancerous growths (adenomas). The researchers compared the doctors' detection rate in procedures done without AI, before and after the AI rollout.\n\nBefore: 28.4%.\nAfter: 22.4%.\n\nA 6-point absolute drop. About 20% in relative terms.\n\nThe limitations matter. Observational study. Few doctors. Patient groups differed between periods. Other experts have questioned the interpretation. Treat the result as a warning signal, not proof.\n\nBut the signal matches a pattern aviation has studied for years: heavy reliance on autopilot erodes manual flying skill unless pilots practise.\n\nEvery AI tool has an \"off\" state. Outages. Edge cases. Situations the model never saw. What matters then is the human skill left over.\n\nFor any team adopting AI:\n• Schedule regular \"no AI\" reps on critical skills.\n• Track human performance without the tool, not only combined performance.\n• Keep your best people practising the hard part.\n\nEfficiency with AI is visible.\n\nSkill decay without AI is invisible, until the day you need the skill.",
+    "cta": "Which skill of yours would you never want to lose to AI?",
+    "hashtags": [
+      "#HealthTech",
+      "#AI",
+      "#Healthcare"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract"
+    ],
+    "first_comment": "Study abstract: https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract\nPlain-language summary (EurekAlert): https://www.eurekalert.org/news-releases/1094223\nA critical take (American College of Gastroenterology): https://gi.org/journals-publications/ebgi/zhou_sep2025/\n\nRead the critique too. The debate over this paper is itself a lesson in reading AI research carefully.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 12 Jan 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-01.txt",
+    "overall_score": 83
+  },
+  {
+    "post_id": "P23",
+    "source_id": "src-bank-028",
+    "topic": "Consumer psychology × AI product design × creators",
+    "angle": "Connection (a 2012 finding applied to one-click AI products)",
+    "hook": "People value things more when they build them. AI products are removing the building.",
+    "body": "People value things more when they build them. AI products are removing the building.\n\nIn 2012, Michael Norton, Daniel Mochon and Dan Ariely published \"The IKEA effect: When labor leads to love.\"\n\nAcross four studies (IKEA boxes, origami, Lego), people valued products they assembled themselves more highly. They saw their amateur creations as close in value to an expert's, and expected others to agree.\n\nOne boundary condition matters most today. The effect appeared only when people completed the task. When people built something and then destroyed the result, or failed to finish, the extra love disappeared.\n\nNow look at how most AI products work. One prompt. Finished output. Zero effort.\n\nGreat for speed. Terrible for attachment.\n\nIf users contribute nothing, users feel no ownership. No ownership, weak loyalty. Switching to a competitor costs nothing emotionally.\n\nDesigns I think will keep users longer:\n• Let users make meaningful choices, beyond typing a prompt.\n• Build step by step so users feel the progress.\n• Make the result feel like theirs: named, customised, saved.\n\nSame for creators. Ask your audience to help build something (a framework, a series, a product) and they'll defend the result.\n\nEffort isn't always friction.\n\nSometimes effort is the bond.",
+    "cta": "What's one product you love more because you put work into the product?",
+    "hashtags": [
+      "#ConsumerPsychology",
+      "#ProductDesign",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.hbs.edu/ris/Publication%20Files/11-091.pdf"
+    ],
+    "first_comment": "Paper (HBS working paper version): https://www.hbs.edu/ris/Publication%20Files/11-091.pdf\nJournal version: https://www.sciencedirect.com/science/article/abs/pii/S1057740811000829\n\nA note for accuracy: co-author Dan Ariely has faced data-integrity questions over a separate study. I haven't seen those questions raised about this paper, and the IKEA effect has been discussed widely since. Still, treat one paper as a starting point, not a law.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 14 Jan 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-01.txt",
+    "overall_score": 83
+  },
+  {
+    "post_id": "P24",
+    "source_id": "src-bank-029",
+    "topic": "AI × healthcare × empathy",
+    "angle": "Disagreement with the popular headline",
+    "hook": "Healthcare professionals preferred ChatGPT's answers to doctors' answers 79% of the time. I don't buy the headline.",
+    "body": "Healthcare professionals preferred ChatGPT's answers to doctors' answers 79% of the time. I don't buy the headline.\n\nIn 2023, researchers at UC San Diego took 195 real patient questions from Reddit's r/AskDocs, each answered by a verified physician.\n\nThey gave the same questions to ChatGPT (GPT-3.5).\n\nA panel of licensed healthcare professionals compared the answers without knowing the author. They preferred ChatGPT's response 79% of the time. ChatGPT's answers were rated \"empathetic\" or \"very empathetic\" about 9.8 times as often.\n\nThe easy headline: \"AI is more empathetic than doctors.\"\n\nLook at one more number. The physicians' answers averaged about 52 words. ChatGPT's averaged about 211.\n\nThe doctors answered on Reddit in spare time. ChatGPT had unlimited patience and no waiting room. Empathy in writing takes time and words.\n\nMy read: the study largely measured who had time.\n\nWhich points to the real story. Healthcare doesn't have an empathy shortage. Healthcare has a time shortage.\n\nThe opportunity for AI in healthcare isn't replacing the doctor's empathy. The opportunity is returning the doctor's time:\n• Drafting patient messages for the doctor to review.\n• Handling documentation.\n• Preparing patients before the appointment.\n\nThe study measured words on a screen, not health outcomes. Accuracy and safety need separate testing.\n\nBut patients want to feel heard. AI makes feeling heard cheap. Doctors should decide what to do with the time saved.",
+    "cta": "Clinicians: would AI-drafted patient replies help or hurt your relationship with patients?",
+    "hashtags": [
+      "#HealthTech",
+      "#AI",
+      "#Healthcare"
+    ],
+    "media": [],
+    "source_links": [
+      "https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions"
+    ],
+    "first_comment": "UCSD summary: https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions\nPaper PDF: https://each.international/wp-content/uploads/2023/05/jamainternal_ayers_2023_oi_230030_1681999216.70842.pdf\n\nLimits the authors note: Reddit answers aren't clinic answers, evaluators might have spotted the chatbot's style, and the study didn't measure accuracy of outcomes.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 26 Jan 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-01.txt",
+    "overall_score": 87
+  },
+  {
+    "post_id": "P25",
+    "source_id": "src-bank-030",
+    "topic": "AI × hiring × management",
+    "angle": "Second-order effect (burden of proof flips)",
+    "hook": "Shopify's CEO changed who carries the burden of proof in hiring. Other companies will copy the change.",
+    "body": "Shopify's CEO changed who carries the burden of proof in hiring. Other companies will copy the change.\n\nIn April 2025, Shopify CEO Tobi Lütke posted an internal memo publicly, saying the memo was already in the process of leaking.\n\nThe key line: \"Reflexive AI usage is now a baseline expectation at Shopify.\"\n\nThe memo also said teams asking for more headcount or resources must first show why AI won't get the work done. And AI use would become part of performance and peer reviews.\n\nHe asked teams: \"What would this area look like if autonomous AI agents were already part of the team?\"\n\nMost coverage focused on the \"AI or no hire\" angle.\n\nI think the bigger change is the burden of proof.\n\nBefore: a manager justified why a new hire was needed.\n\nNow: the manager justifies why a machine won't do.\n\nOnce a well-known company flips the burden of proof, boards elsewhere start asking the same question. My prediction, not a fact yet.\n\nWhat this means for professionals:\n• Your value is the work AI won't do well. Know exactly what the work is.\n• Show your AI workflow. Visible AI fluency is now part of performance.\n• Document judgment calls, not only output.\n\nWhat this means for founders: headcount is no longer a status symbol. Revenue per employee is.",
+    "cta": "Would you want this rule at your company? Why or why not?",
+    "hashtags": [
+      "#AI",
+      "#Leadership",
+      "#FutureOfWork"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html"
+    ],
+    "first_comment": "Coverage: https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html\nFirst Round's follow-up on how Shopify put the memo into practice: https://www.firstround.com/ai/shopify\n\nWorth reading the full memo on Lütke's X account. The tone is more about curiosity and learning than cutting jobs, which most summaries skip.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 19 Jan 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-01.txt",
+    "overall_score": 83
+  },
+  {
+    "post_id": "P26",
+    "source_id": "src-bank-031",
+    "topic": "Consumer psychology × India × product design",
+    "angle": "Future implication + positioning opportunity",
+    "hook": "India banned 13 dark patterns in 2023. A 2025 audit found 97% of major platforms still using them.",
+    "body": "India banned 13 dark patterns in 2023. A 2025 audit found 97% of major platforms still using them.\n\nIn 2023, India's Central Consumer Protection Authority notified guidelines listing 13 dark patterns. Drip pricing. False urgency. Confirm shaming. Basket sneaking. Subscription traps. Nagging.\n\nIn June 2025, the CCPA told e-commerce and quick commerce platforms to self-audit and declare compliance within three months.\n\nMeanwhile, a LocalCircles study between June and September 2025 found 97% of major online platforms still using manipulative design. Hidden fees. Drip pricing. False urgency.\n\nWhy do dark patterns survive regulation? Because dark patterns work, in the short term. Conversion dashboards reward them every day.\n\nThe cost shows up where dashboards don't look: trust.\n\nThe customer who finds a hidden fee at checkout doesn't file a complaint. The customer quietly uses a competitor next time.\n\nHere's the risk ahead, as a hypothesis. AI personalisation makes dark patterns targeted. Urgency tuned to your anxiety. Prices tuned to your patience.\n\nFor founders, this opens a positioning gap. In a market full of tricks, radical honesty stands out:\n• Show the full price upfront.\n• One-tap cancel.\n• No fake timers.\n\nHonest design costs some conversion this quarter.\n\nTrust compounds every quarter after.",
+    "cta": "Which dark pattern annoys you most on Indian apps?",
+    "hashtags": [
+      "#ConsumerProtection",
+      "#ProductDesign",
+      "#India"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.medianama.com/2025/11/223-ccpa-dark-pattern-self-audit-declarations-18-e-commerce-quick-commerce-platforms/"
+    ],
+    "first_comment": "Sources:\nMediaNama on the 18 self-audit declarations: https://www.medianama.com/2025/11/223-ccpa-dark-pattern-self-audit-declarations-18-e-commerce-quick-commerce-platforms/\nLegal analysis (AZB & Partners): https://www.azbpartners.com/bank/regulatory-crackdown-on-dark-patterns-ccpas-enforcement-actions-and-emerging-compliance-landscape-in-indian-e-commerce/\n\nLocalCircles runs online surveys and audits. The 97% figure is from their study, not a government finding.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 28 Jan 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-01.txt",
+    "overall_score": 83
+  },
+  {
+    "post_id": "P27",
+    "source_id": "src-bank-032",
+    "topic": "AI × personal branding × language",
+    "angle": "Connection (an AI trend as a personal branding lesson)",
+    "hook": "Two years ago this week, a \"throwaway tweet\" named a new way of building software.",
+    "body": "Two years ago this week, a \"throwaway tweet\" named a new way of building software.\n\nOn 2 February 2025, Andrej Karpathy posted: \"There's a new kind of coding I call \"vibe coding\", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists.\"\n\nHe later called the post \"a shower of thoughts throwaway tweet\". By November 2025, Collins Dictionary had named \"vibe coding\" its Word of the Year.\n\nTwo lessons. One about AI. One about branding.\n\nThe AI lesson: the phrase landed because the behaviour already existed. Many people were building software by describing what they wanted. Nobody had a word for the practice.\n\nThe branding lesson: naming a behaviour is leverage.\n\nThe person who names a trend gets tied to the trend for years. Karpathy didn't launch a product. He launched a label, and the label carried his name everywhere the idea travelled.\n\nFor anyone building a personal brand:\n• Watch for behaviours people share but don't yet have words for.\n• Give the behaviour a short, sticky, slightly playful name.\n• Define the term clearly. Keep using the term.\n\nFrameworks and names travel further than opinions.\n\nOne caution from two years of vibe coding: a working demo isn't production software. Security, maintenance and edge cases still need someone who understands the code.",
+    "cta": "What behaviour in your industry still doesn't have a name?",
+    "hashtags": [
+      "#PersonalBranding",
+      "#AI",
+      "#SoftwareDevelopment"
+    ],
+    "media": [],
+    "source_links": [
+      "https://x.com/karpathy/status/1886192184808149383"
+    ],
+    "first_comment": "Original post: https://x.com/karpathy/status/1886192184808149383\nHis one-year retrospective: https://x.com/karpathy/status/2019137879310836075\nCollins Word of the Year 2025: https://blog.collinsdictionary.com/language-lovers/collins-word-of-the-year-2025-ai-meets-authenticity-as-society-shifts/\n\nOther words on the Collins 2025 shortlist included \"clanker\", \"broligarchy\" and \"aura farming\". Naming is a sport now.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 4 Feb 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-02.txt",
+    "overall_score": 85
+  },
+  {
+    "post_id": "P28",
+    "source_id": "src-bank-033",
+    "topic": "AI × healthcare × media literacy",
+    "angle": "Disagreement (the setup matters more than the score)",
+    "hook": "Microsoft's AI diagnosed 85.5% of hard cases. Physicians got 20%. Read the setup before you share the headline.",
+    "body": "Microsoft's AI diagnosed 85.5% of hard cases. Physicians got 20%. Read the setup before you share the headline.\n\nIn June 2025, Microsoft AI released research on MAI-DxO, a system orchestrating several AI models to diagnose cases step by step, ordering tests and tracking cost along the way.\n\nOn 304 complex cases from the New England Journal of Medicine, MAI-DxO reached the correct diagnosis 85.5% of the time at its most accurate setting. 21 practising physicians from the US and UK averaged about 20%.\n\nFour times better. The headline wrote itself.\n\nThe setup deserves as much attention as the score:\n• The cases were NEJM teaching cases, chosen because they're hard and unusual. Real clinics see mostly common, mild problems.\n• The physicians worked without colleagues, textbooks or the digital tools they'd normally use.\n• No healthy patients were included, so false alarms weren't tested.\n\nMy take: the result is impressive and the comparison is unfair. Both are true.\n\nThe useful signal isn't \"AI beats doctors\". The useful signal is the design. Microsoft reported the orchestration approach improved results across model families from several labs. Several models questioning each other beat a single model.\n\nThe design lesson applies far beyond medicine.\n\nBefore you share any \"AI beats experts\" headline, ask three questions:\n1. Which cases or tasks?\n2. What were the humans allowed to use?\n3. Which errors weren't measured?",
+    "cta": "What's the most misleading AI headline you've seen this year?",
+    "hashtags": [
+      "#HealthTech",
+      "#AI",
+      "#CriticalThinking"
+    ],
+    "media": [],
+    "source_links": [
+      "https://microsoft.ai/news/the-path-to-medical-superintelligence/"
+    ],
+    "first_comment": "Microsoft AI announcement: https://microsoft.ai/news/the-path-to-medical-superintelligence/\nPaper: https://arxiv.org/html/2506.22405v1\n\nCredit where due: the researchers themselves listed the case-mix limitation. The problem is how headlines dropped the limitation.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 9 Feb 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-02.txt",
+    "overall_score": 85
+  },
+  {
+    "post_id": "P29",
+    "source_id": "src-bank-034",
+    "topic": "AI × mental health × business models",
+    "angle": "Connection (two studies pointing opposite ways) + founder implication",
+    "hook": "The top use of generative AI in HBR's 2025 analysis wasn't coding or writing. The top use was therapy and companionship.",
+    "body": "The top use of generative AI in HBR's 2025 analysis wasn't coding or writing. The top use was therapy and companionship.\n\nThe analysis, by Marc Zao-Sanders, was built from what people wrote on forums like Reddit and Quora. Not a random survey, but a strong signal of demand.\n\nTwo studies show why the topic needs nuance.\n\nThe encouraging one. Dartmouth's Therabot trial in NEJM AI (March 2025). 210 adults with depression, anxiety or eating-disorder risk. Therabot users showed significantly greater symptom reductions than a waitlist group, and rated their bond with the bot as comparable to a human therapist.\n\nThe cautionary one. OpenAI and MIT Media Lab (March 2025). A four-week randomized study with close to 1,000 participants, plus analysis of millions of conversations. Higher daily usage correlated with more loneliness, more emotional dependence and less socialising.\n\nBoth findings hold at once.\n\nTherabot was purpose-built by clinicians, tested in a trial and supervised. General chatbots were built for everything.\n\nMy read: the demand is settled. People want someone to talk to at 2 a.m. The open question is design.\n• Built to help you need the app less, or built to maximise time in the app?\n• Clinically tested, or tested on engagement metrics?\n\nEngagement is the default business model of consumer tech. For emotional support, engagement as the goal is the risk.\n\nFor founders in mental health: your north-star metric decides whether your product heals or hooks.",
+    "cta": "Would you trust an AI with your mental health? Under what conditions?",
+    "hashtags": [
+      "#HealthTech",
+      "#MentalHealth",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://ai.nejm.org/doi/abs/10.1056/AIoa2400802"
+    ],
+    "first_comment": "Sources:\nTherabot trial, NEJM AI: https://ai.nejm.org/doi/abs/10.1056/AIoa2400802\nDartmouth summary: https://home.dartmouth.edu/news/2025/03/first-therapy-chatbot-trial-yields-mental-health-benefits\nOpenAI/MIT study: https://openai.com/index/affective-use-study/\nHBR analysis: https://hbr.org/2025/04/how-people-are-really-using-gen-ai-in-2025\n\nThe OpenAI/MIT finding is correlational for usage levels. Lonely people might use chatbots more, rather than chatbots causing loneliness. Both directions deserve study.\n\nIf you or someone you know is struggling, please reach out to a qualified professional. In India, Tele-MANAS is free at 14416.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 23 Feb 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-02.txt",
+    "overall_score": 86
+  },
+  {
+    "post_id": "P30",
+    "source_id": "src-bank-035",
+    "topic": "AI × business strategy × measurement",
+    "angle": "Agreement + extension (from GDP to your own metrics)",
+    "hook": "Satya Nadella's test for AI isn't a benchmark. His test is economic growth.",
+    "body": "Satya Nadella's test for AI isn't a benchmark. His test is economic growth.\n\nIn February 2025, on the Dwarkesh Podcast, the Microsoft CEO dismissed the race to declare AGI:\n\n\"Us self-claiming some AGI milestone, that's just nonsensical benchmark hacking to me.\"\n\nHis alternative: \"The real benchmark is: the world growing at 10%.\"\n\nTwo years on, the line still gives the cleanest test for AI hype I know.\n\nBenchmarks measure what a model does in a lab. Growth measures whether anyone's life or business changed.\n\nThe same logic scales down:\n• For a company, AI's benchmark isn't the number of licences or pilots. The benchmark is margin, revenue per employee, time to serve a customer.\n• For a creator, the benchmark isn't posts produced. The benchmark is audience trust and income.\n• For a professional, the benchmark isn't prompts written. The benchmark is better decisions made.\n\nMost AI dashboards today track activity. Usage. Adoption rate. Prompts per user. Activity is the easiest thing to measure and the least useful.\n\nPick one outcome metric you'd show a sceptical CFO. Track AI against the metric for a quarter.\n\nIf the number doesn't move, AI isn't working for you yet, no matter how impressive the demo.",
+    "cta": "What's the one outcome metric you'd use to judge AI in your work?",
+    "hashtags": [
+      "#AI",
+      "#Strategy",
+      "#Leadership"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.dwarkesh.com/p/satya-nadella"
+    ],
+    "first_comment": "Full episode and transcript: https://www.dwarkesh.com/p/satya-nadella\n\nHis math in the episode: if the world economy is about $100 trillion, 10% growth means roughly $10 trillion of new value every year. His bar: AI has to show up at the scale of the whole economy.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 18 Feb 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-02.txt",
+    "overall_score": 81
+  },
+  {
+    "post_id": "P31",
+    "source_id": "src-bank-036",
+    "topic": "Marketing × content creation × research literacy",
+    "angle": "Contrarian (attention spans aren't shrinking, tolerance for boring is)",
+    "hook": "The \"8-second attention span\" statistic has no traceable research behind the number.",
+    "body": "The \"8-second attention span\" statistic has no traceable research behind the number.\n\nYou've seen the claim in a hundred marketing decks. Humans have an 8-second attention span, shorter than a goldfish's 9 seconds.\n\nThe claim traces back to a 2015 Microsoft Canada consumer insights report. The report cited the figure from a website called Statistic Brain.\n\nIn 2017, BBC reporter Simon Maybin investigated. The sources Statistic Brain listed had no record of research supporting the numbers.\n\nNo study. No experiment. The goldfish figure has no traceable source either.\n\nYet the stat still shapes strategy. \"Keep everything short. Nobody pays attention anymore.\"\n\nNow look at behaviour. Multi-hour podcasts rank among the most popular shows. People binge whole seasons in a weekend. Long video essays pull millions of views.\n\nMy read: attention spans aren't shrinking. Tolerance for boring is.\n\nPeople give unlimited attention to what feels worth attention, and zero to what doesn't. The feed made the decision faster. Not shorter.\n\nWhat this means for creators and marketers:\n• The first seconds decide whether someone chooses to stay. Earn the choice.\n• After the choice, depth wins. Don't cut substance to fit a myth.\n• Length isn't the enemy. Filler is.\n\nAnd a broader lesson: before you build strategy on a statistic, find the original source. Many famous marketing numbers don't survive the search.",
+    "cta": "What's a marketing \"fact\" you stopped believing?",
+    "hashtags": [
+      "#Marketing",
+      "#ContentCreation",
+      "#Attention"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.fastcompany.com/91023619/8-second-attention-span-is-bs-this-is-why"
+    ],
+    "first_comment": "Fast Company on the myth: https://www.fastcompany.com/91023619/8-second-attention-span-is-bs-this-is-why\nSummary of the BBC investigation: https://www.swordandthescript.com/2022/02/goldfish-attention-span/\n\nThe original BBC piece is \"Busting the attention span myth\" (BBC News, 2017). Worth a read if you've ever put the stat in a deck. I have.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 16 Feb 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-02.txt",
+    "overall_score": 84
+  },
+  {
+    "post_id": "P32",
+    "source_id": "src-bank-037",
+    "topic": "AI × startups × teamwork",
+    "angle": "What this means for founders",
+    "hook": "At P&G, one person with AI matched the performance of a two-person team without AI.",
+    "body": "At P&G, one person with AI matched the performance of a two-person team without AI.\n\nIn 2025, researchers from Harvard Business School, Wharton and Procter & Gamble published a field experiment with 776 P&G professionals working on real new-product development problems.\n\nPeople were randomly assigned to work alone or in pairs, with or without AI (GPT-4 or GPT-4o).\n\nThe findings:\n• Individuals with AI matched the performance of teams without AI.\n• AI-enabled groups worked 12 to 16% faster and produced longer, more detailed solutions.\n• Without AI, R&D people proposed technical ideas and commercial people proposed commercial ideas. With AI, both groups produced more balanced solutions.\n\nThe researchers called AI a \"cybernetic teammate\".\n\nTwo implications I think most people will miss.\n\nFirst, AI replaces part of what teammates gave us. Not the relationship. The second perspective. A solo founder in 2027 has a sparring partner who knows marketing, engineering and finance.\n\nSecond, functional silos get weaker. When a marketer reasons like an engineer and an engineer reasons like a marketer, org charts built around departments start to look outdated.\n\nFor small teams and solo founders, this is the most practical AI study to read.\n\nCaveat: one company, one type of task. Treat the findings as a strong signal, not a law.",
+    "cta": "Solo founders: has AI replaced a co-founder conversation for you?",
+    "hashtags": [
+      "#AI",
+      "#Startups",
+      "#Teamwork"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.nber.org/papers/w33641"
+    ],
+    "first_comment": "Paper (NBER): https://www.nber.org/papers/w33641\nEthan Mollick's summary: https://www.oneusefulthing.org/p/the-cybernetic-teammate\n\nThe study also found people using AI reported more positive emotions during the work. Useful counterpoint to \"AI makes work lonely\".",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 2 Mar 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 83
+  },
+  {
+    "post_id": "P33",
+    "source_id": "src-bank-038",
+    "topic": "Marketing × branding × AI",
+    "angle": "Future implication (framed as hypothesis)",
+    "hook": "AI made performance marketing cheaper. My bet: brand building gets more valuable as a result.",
+    "body": "AI made performance marketing cheaper. My bet: brand building gets more valuable because of the shift.\n\nLes Binet and Peter Field analysed 996 campaigns from the IPA Effectiveness Databank (1980 to 2010) for \"The Long and the Short of It\".\n\nTheir best-known finding: on average, the most effective split was about 60% of budget on brand building and 40% on sales activation.\n\nActivation creates sharp, short sales spikes. Brand building creates slower, lasting growth and lowers price sensitivity over time.\n\n60:40 is an average, not a law. Category, brand maturity and purchase frequency change the ratio.\n\nNow add AI.\n\nAI makes activation much cheaper. Ad variations. Targeting. Bidding. Landing pages. Every competitor gets the same tools.\n\nWhen everyone optimises the same auction with the same automation, activation stops being an advantage.\n\nWhat AI doesn't hand out: memory in the customer's head. Being the brand people think of first.\n\nSo my hypothesis for the next few years: brand building becomes the scarcest marketing asset, exactly because activation became a commodity.\n\nFor founders who live in the performance dashboard:\n• Protect a brand budget even when ROAS looks better elsewhere.\n• Measure share of search and unaided recall, not only clicks.\n• Be patient. Brand effects take longer to show.",
+    "cta": "What share of your marketing budget goes to brand? Honest number.",
+    "hashtags": [
+      "#Marketing",
+      "#Branding",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it"
+    ],
+    "first_comment": "IPA on the research and its update: https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it\n\nIn their later \"Effectiveness in Context\" work, the average optimum came out around 62:38. The exact ratio matters less than the principle: don't starve the long term.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 4 Mar 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 80
+  },
+  {
+    "post_id": "P34",
+    "source_id": "src-bank-039",
+    "topic": "AI × branding × communication",
+    "angle": "Business implication (an internal memo is a brand event)",
+    "hook": "Duolingo's CEO wrote an internal memo about AI. Users responded by deleting their streaks.",
+    "body": "Duolingo's CEO wrote an internal memo about AI. Users responded by deleting their streaks.\n\nOn 28 April 2025, CEO Luis von Ahn told staff Duolingo would become \"AI-first\". The memo said the company would \"gradually stop using contractors to do work that AI can handle.\"\n\nThe memo went public. The backlash hit fast. Users posted videos deleting the app and abandoning years-long streaks. Reports said Duolingo lost hundreds of thousands of TikTok followers within weeks, and the company wiped its TikTok and Instagram posts for a period.\n\nVon Ahn later wrote on LinkedIn: \"I do not see AI as replacing what our employees do (we are in fact continuing to hire at the same speed as before).\"\n\nThe lesson isn't \"don't use AI\". Duolingo uses AI heavily and says the company has never laid off full-time employees because of AI.\n\nThe lesson: internal memos are public communication now. Every AI announcement is a brand event.\n\nAnd Duolingo's brand depends on something specific. A playful owl. A human-feeling voice. A community. \"AI-first\" read to fans as \"people-last\".\n\nHow I'd announce an AI shift:\n• Lead with what customers get.\n• Say what stays human, specifically.\n• Talk to employees before the public reads the memo.\n\nYour audience hears \"AI\" through the lens of your brand promise. Check the promise before the press release.",
+    "cta": "Did the Duolingo backlash change how you see \"AI-first\" announcements?",
+    "hashtags": [
+      "#Branding",
+      "#AI",
+      "#Communication"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.entrepreneur.com/business-news/duolingo-ceo-clarifies-ai-stance-after-backlash-read-memo/492141"
+    ],
+    "first_comment": "Sources:\nEntrepreneur (memo and clarification): https://www.entrepreneur.com/business-news/duolingo-ceo-clarifies-ai-stance-after-backlash-read-memo/492141\nTechCrunch (CEO says memo was misunderstood): https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood\n\nThe follower-loss figures come from media reports and social trackers, not from Duolingo. Duolingo's reported business results stayed strong, so the damage was reputational more than financial.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 9 Mar 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 81
+  },
+  {
+    "post_id": "P35",
+    "source_id": "src-bank-040",
+    "topic": "AI × content creation × thinking",
+    "angle": "Practical implication for creators (ownership and recall)",
+    "hook": "An MIT team used EEG to watch brains write essays with and without ChatGPT.",
+    "body": "An MIT team used EEG to watch brains write essays with and without ChatGPT.\n\nThe study, \"Your Brain on ChatGPT\", came out of MIT Media Lab in June 2025. 54 students wrote essays in three groups: brain only, search engine, or ChatGPT. EEG recorded brain activity while they wrote.\n\nFindings:\n• Brain-only writers showed the strongest, most widespread brain connectivity. Search users came second. ChatGPT users showed the weakest.\n• ChatGPT users reported the lowest sense of ownership over their essays and had trouble recalling what they had written.\n• ChatGPT essays looked alike in vocabulary and structure.\n\nThe authors call the effect \"cognitive debt\".\n\nCaveats matter here. Small sample. Released as a preprint. A narrow task. Critics have questioned parts of the analysis. Don't turn the paper into \"AI rots your brain.\"\n\nThe finding I take seriously: ownership and recall.\n\nFor creators and professionals, recall is the whole game. If you don't remember what you wrote, you won't defend the idea in a meeting, expand the idea on a podcast or build on the idea next week.\n\nA post you don't remember isn't your point of view. The post is the model's point of view with your name on top.\n\nMy rule: I use AI to challenge, edit and research. The core argument comes from my head first.\n\nThe similar essays are the other warning. When everyone writes with the same model, everyone sounds the same.\n\nSounding different is becoming the rarest asset in content.",
+    "cta": "Do you remember the last thing you wrote with AI? Honestly?",
+    "hashtags": [
+      "#AI",
+      "#ContentCreation",
+      "#Learning"
+    ],
+    "media": [],
+    "source_links": [
+      "https://arxiv.org/abs/2506.08872"
+    ],
+    "first_comment": "Paper: https://arxiv.org/abs/2506.08872\nMIT Media Lab project page: https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/\nA published critique of the study: https://arxiv.org/pdf/2601.00856\n\nRead the critique before you quote the study in a pitch. The ownership and recall findings are the most robust part.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 18 Mar 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 84
+  },
+  {
+    "post_id": "P36",
+    "source_id": "src-bank-041",
+    "topic": "Consumer psychology × marketing × AI",
+    "angle": "Disagreement (with a famous study's popular reading)",
+    "hook": "The most famous study in consumer psychology doesn't say what most marketers think.",
+    "body": "The most famous study in consumer psychology doesn't say what most marketers think.\n\nIyengar and Lepper's 2000 jam study. A tasting table with 24 jams attracted more shoppers, but only 3% bought. A table with 6 jams: 30% bought.\n\n\"Too much choice kills sales\" became standard marketing advice. Fewer options. Simpler menus.\n\nIn 2010, Scheibehenne, Greifeneder and Todd ran a meta-analysis of 50 experiments with over 5,000 participants. The average effect of assortment size was close to zero.\n\nSome studies found choice overload. Some found the opposite. Most found nothing.\n\nChoice overload shows up under specific conditions: options hard to compare, high stakes, low expertise, no clear preference.\n\nSo the right rule isn't \"offer less\". The right rule is \"make choosing easy\".\n\nNow apply the lesson to AI. AI makes infinite options cheap. Infinite logos. Infinite product variants. Infinite content. By the popular jam logic, infinite options should paralyse customers.\n\nThe research says the answer depends on design. Help people compare. Recommend a default. Explain the trade-off.\n\nThe winning AI products won't offer fewer options. They'll offer better guidance through many options.\n\nA broader lesson for anyone quoting research in a pitch: one famous study isn't a law. Check for a meta-analysis before you build strategy.",
+    "cta": "When did too many options stop you from buying something?",
+    "hashtags": [
+      "#ConsumerPsychology",
+      "#Marketing",
+      "#ProductDesign"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.jasoncollins.blog/posts/not-the-jam-study-again"
+    ],
+    "first_comment": "A readable summary of the debate: https://www.jasoncollins.blog/posts/not-the-jam-study-again\nA re-analysis of the meta-analysis arguing the moderators matter: https://www.researchgate.net/publication/256846155_Re-Analyzing_a_Meta-Analysis_Another_Look_at_Choice_Overload\n\nFair summary: choice overload is real but conditional. The popular version is too broad.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 23 Mar 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 81
+  },
+  {
+    "post_id": "P37",
+    "source_id": "src-bank-042",
+    "topic": "Healthcare × AI × India",
+    "angle": "Contrarian (the India AI health story is distribution, not accuracy)",
+    "hook": "India's biggest AI health story isn't a diagnosis model. The story is distribution.",
+    "body": "India's biggest AI health story isn't a diagnosis model. The story is distribution.\n\nStart with the problem. As of March 2022, rural community health centres had about 4,485 specialists in place against a requirement of 21,920. Close to an 80% shortfall of surgeons, physicians, gynaecologists and paediatricians.\n\nIndia's response at scale hasn't been a single breakthrough model. The response has been a network.\n\neSanjeevani, the government telemedicine platform, handled about 282 million consultations between April 2023 and November 2025, according to a 2025 implementation study. Around 12 million of those were assisted by an AI clinical decision support system.\n\nGlobal AI-in-healthcare coverage focuses on accuracy races. Which model beats which doctor on which benchmark.\n\nIndia points to a different bottleneck. A model with 95% accuracy helps nobody in a village without a health worker to use the model, a connection to reach the model, or a system to act on the result.\n\nDistribution beats accuracy at the start. Once hundreds of millions of consultations flow through one platform, adding AI to the flow reaches millions at once.\n\nFor founders in healthtech:\n• Build on existing rails (ABDM, eSanjeevani, UPI-style public infrastructure) instead of building your own.\n• Solve for the health worker, not only the patient.\n• Measure access and follow-up, not only diagnostic accuracy.\n\nCaveat: implementation studies measure usage, not health outcomes. Outcome data will decide the real impact.",
+    "cta": "Healthtech builders: are you building rails, or building on rails?",
+    "hashtags": [
+      "#HealthTech",
+      "#India",
+      "#AI"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full"
+    ],
+    "first_comment": "Implementation study (medRxiv, not yet peer reviewed when posted): https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full\nGovernment note on AI in healthcare (PIB): https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227410\n\nRural specialist figures come from the government's Rural Health Statistics. Newer editions might have updated numbers, so check the latest before posting.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 30 Mar 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 81
+  },
+  {
+    "post_id": "P38",
+    "source_id": "src-bank-043",
+    "topic": "AI × content creation × audience",
+    "angle": "Contrarian (the finding is about audience, not about AI beating Shakespeare)",
+    "hook": "Non-expert readers preferred ChatGPT's poems to Shakespeare's, and thought the AI poems were more human.",
+    "body": "Non-expert readers preferred ChatGPT's poems to Shakespeare's, and thought the AI poems were more human.\n\nIn a 2024 study in Scientific Reports, Brian Porter and Edouard Machery showed 1,634 participants poems by well-known poets (Shakespeare, Byron, Dickinson, Eliot and others) alongside poems written by ChatGPT-3.5 in their styles.\n\nResults:\n• Participants identified AI poems with 46.6% accuracy. Worse than a coin flip.\n• AI poems were more likely to be judged human-written than the real poems.\n• AI poems were rated higher on qualities like rhythm and beauty.\n\nThe authors' explanation: readers mistook the complexity of real poetry for incoherence, and assumed the simpler, clearer AI poems came from humans.\n\nMost people read this as \"AI writes better poetry than Shakespeare\".\n\nI read the finding as a lesson about audience.\n\nNon-experts rewarded accessibility. Clear, familiar, easy-to-read verse. Experts tend to value difficulty and ambiguity.\n\nMy read: AI writes for the average reader, because AI learned from the average of everything.\n\nFor creators and brands:\n• If your audience is broad and non-expert, AI-level clarity is the new floor. Unclear human writing loses.\n• If your audience is expert, the qualities AI smooths away (edge, ambiguity, strong opinion) become your advantage.\n\nKnow which audience you serve. Then decide where AI helps you and where AI flattens you.",
+    "cta": "If you had to pick: would you rather be clear or distinctive?",
+    "hashtags": [
+      "#AI",
+      "#ContentCreation",
+      "#Writing"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.nature.com/articles/s41598-024-76900-1"
+    ],
+    "first_comment": "Answer to the quiz: [fill in A or B].\n\nPaper (open access): https://www.nature.com/articles/s41598-024-76900-1\n\nParticipants were non-expert poetry readers, and the AI was GPT-3.5 imitating famous poets. A critique of how the study was covered: https://lithub.com/on-the-report-of-poetrys-death-or-what-does-that-ai-poetry-study-really-tell-us/",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Tue 6 Apr 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 86
+  },
+  {
+    "post_id": "P39",
+    "source_id": "src-bank-044",
+    "topic": "AI × persuasion × trust × social media",
+    "angle": "Second-order effect (cheap persuasion makes identity valuable)",
+    "hook": "Researchers secretly deployed AI bots on Reddit. The bots persuaded people 3 to 6 times more often than humans.",
+    "body": "Researchers secretly deployed AI bots on Reddit. The bots persuaded people 3 to 6 times more often than humans.\n\nIn 2025, researchers from the University of Zurich ran an unauthorised experiment on r/changemyview, a Reddit community where people invite others to challenge their opinions.\n\nAI-powered accounts posted more than 1,700 comments over several months. Some bots used invented identities, including a sexual assault survivor and a domestic violence shelter worker. Some tailored replies using personal traits inferred from users' post histories.\n\nAccording to the researchers' draft, AI comments achieved persuasion rates three to six times higher than the human baseline.\n\nNobody had consented. Moderators condemned the study. Reddit's chief legal officer called the work an \"improper and highly unethical experiment\". The university issued a formal warning to the researchers.\n\nTwo separate lessons.\n\nThe ethics lesson is obvious. Deceiving people to study them is wrong, whatever the result.\n\nThe strategic lesson is less comfortable. The results come from an unreviewed draft, so treat the numbers with caution. But even a fraction of the effect means persuasion at scale is now cheap. Tailored arguments, written instantly, for millions of people.\n\nWhen persuasion becomes cheap, identity becomes valuable. Who is speaking starts to matter more than what is said.\n\nFor professionals and brands on LinkedIn: comment sections, DMs and reviews will fill with persuasive text from unknown sources. Your verified identity, track record and consistency become the filter people use.\n\nBe a known person. In a feed full of persuasive strangers, known people win.",
+    "cta": "Knowing this, will you read LinkedIn comments differently?",
+    "hashtags": [
+      "#AI",
+      "#Trust",
+      "#SocialMedia"
+    ],
+    "media": [],
+    "source_links": [
+      "https://www.engadget.com/ai/researchers-secretly-experimented-on-reddit-users-with-ai-generated-comments-194328026.html"
+    ],
+    "first_comment": "Coverage:\nEngadget: https://www.engadget.com/ai/researchers-secretly-experimented-on-reddit-users-with-ai-generated-comments-194328026.html\nLive Science: https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy\n\nThe persuasion figures come from the researchers' unpublished draft, released without peer review, under an ethics cloud. The ethical breach is well documented. The effect size is not.",
+    "platform": "LinkedIn",
+    "status": "draft",
+    "created_at": "2026-09-28",
+    "scheduled_for": "Thu 8 Apr 2027, 8:30 AM IST",
+    "published_at": "",
+    "performance": {},
+    "file": "drafts/2027-03-04.txt",
+    "overall_score": 82
+  }
+]

@@ -1,0 +1,623 @@
+SHRAYES BHATALE | LINKEDIN CONTENT-JACKING BANK
+Batch 6: 2 Mar 2027 to 13 Apr 2027 (P32 to P39, plus event slots EV-C and EV-D)
+Status of every post: draft. Re-open each source link once before posting.
+
+
+POST ID: P32
+SCHEDULED: Tue 2 Mar 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Dell'Acqua et al., "The Cybernetic Teammate: A Field Experiment on Generative AI Reshaping Teamwork and Expertise", NBER working paper w33641 (2025)
+SOURCE URL: https://www.nber.org/papers/w33641
+TOPIC: AI × startups × teamwork
+ANGLE: What this means for founders
+WHY THIS ANGLE: The most practical AI study for solo founders and small teams, and less known than the BCG study.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+At P&G, one person with AI matched the performance of a two-person team without AI.
+━━━━━━━━━━━━━━━━━━━━
+POST
+At P&G, one person with AI matched the performance of a two-person team without AI.
+
+In 2025, researchers from Harvard Business School, Wharton and Procter & Gamble published a field experiment with 776 P&G professionals working on real new-product development problems.
+
+People were randomly assigned to work alone or in pairs, with or without AI (GPT-4 or GPT-4o).
+
+The findings:
+• Individuals with AI matched the performance of teams without AI.
+• AI-enabled groups worked 12 to 16% faster and produced longer, more detailed solutions.
+• Without AI, R&D people proposed technical ideas and commercial people proposed commercial ideas. With AI, both groups produced more balanced solutions.
+
+The researchers called AI a "cybernetic teammate".
+
+Two implications I think most people will miss.
+
+First, AI replaces part of what teammates gave us. Not the relationship. The second perspective. A solo founder in 2027 has a sparring partner who knows marketing, engineering and finance.
+
+Second, functional silos get weaker. When a marketer reasons like an engineer and an engineer reasons like a marketer, org charts built around departments start to look outdated.
+
+For small teams and solo founders, this is the most practical AI study to read.
+
+Caveat: one company, one type of task. Treat the findings as a strong signal, not a law.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Solo founders: has AI replaced a co-founder conversation for you?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #Startups #Teamwork
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: 2x2 grid graphic (make in Canva)
+SOURCE: Study design
+URL: https://www.nber.org/papers/w33641
+ATTACHMENT ORDER: 1 image only
+WHY: The 2x2 design (alone/team × with/without AI) with "Alone + AI ≈ Team, no AI" highlighted explains the study in one look.
+ALT TEXT: Two-by-two grid: individual without AI, individual with AI, team without AI, team with AI. Highlight shows individual with AI performing about the same as team without AI.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Paper (NBER): https://www.nber.org/papers/w33641
+Ethan Mollick's summary: https://www.oneusefulthing.org/p/the-cybernetic-teammate
+
+The study also found people using AI reported more positive emotions during the work. Useful counterpoint to "AI makes work lonely".
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "P&G experiment, 776 professionals: one person + AI matched a two-person team without AI. AI also blurred the line between R&D and commercial thinking."
+INSTAGRAM: Carousel "Do you still need a co-founder?": 6 slides.
+YOUTUBE SHORT: "Ek insaan plus AI equals do log bina AI. P&G ka experiment."
+NEWSLETTER: "The solo founder stack": how to use AI as the missing second perspective.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 9/10
+Research Quality: 8/10
+Originality: 7/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 7/10
+Overall Opportunity: 83/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P33
+SCHEDULED: Thu 4 Mar 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Binet and Field, "The Long and the Short of It" (IPA, 2013)
+SOURCE URL: https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it
+TOPIC: Marketing × branding × AI
+ANGLE: Future implication (framed as hypothesis)
+WHY THIS ANGLE: The 60:40 rule is known to marketers. Applying the rule to AI-automated performance marketing adds a new argument.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+AI made performance marketing cheaper. My bet: brand building gets more valuable as a result.
+━━━━━━━━━━━━━━━━━━━━
+POST
+AI made performance marketing cheaper. My bet: brand building gets more valuable because of the shift.
+
+Les Binet and Peter Field analysed 996 campaigns from the IPA Effectiveness Databank (1980 to 2010) for "The Long and the Short of It".
+
+Their best-known finding: on average, the most effective split was about 60% of budget on brand building and 40% on sales activation.
+
+Activation creates sharp, short sales spikes. Brand building creates slower, lasting growth and lowers price sensitivity over time.
+
+60:40 is an average, not a law. Category, brand maturity and purchase frequency change the ratio.
+
+Now add AI.
+
+AI makes activation much cheaper. Ad variations. Targeting. Bidding. Landing pages. Every competitor gets the same tools.
+
+When everyone optimises the same auction with the same automation, activation stops being an advantage.
+
+What AI doesn't hand out: memory in the customer's head. Being the brand people think of first.
+
+So my hypothesis for the next few years: brand building becomes the scarcest marketing asset, exactly because activation became a commodity.
+
+For founders who live in the performance dashboard:
+• Protect a brand budget even when ROAS looks better elsewhere.
+• Measure share of search and unaided recall, not only clicks.
+• Be patient. Brand effects take longer to show.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+What share of your marketing budget goes to brand? Honest number.
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#Marketing #Branding #AI
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Simple chart (make in Canva)
+SOURCE: Binet and Field's model
+URL: https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it
+ATTACHMENT ORDER: 1 image only
+WHY: The classic two-curve image (short spikes vs a rising long-term line) is familiar to marketers. Redraw the idea yourself instead of copying the IPA chart.
+ALT TEXT: Chart with short sharp spikes labelled "activation" and a slowly rising line labelled "brand building", with a 60:40 budget split.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+IPA on the research and its update: https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it
+
+In their later "Effectiveness in Context" work, the average optimum came out around 62:38. The exact ratio matters less than the principle: don't starve the long term.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Binet & Field: ~60% brand, ~40% activation. AI just made activation a commodity. Memory in the customer's head is the new moat."
+INSTAGRAM: Carousel "Why AI makes brand more valuable": 5 slides.
+YOUTUBE SHORT: "Ads sab chala lenge AI se. Yaad kaun rahega?"
+NEWSLETTER: "The 60:40 rule in the AI era": a budget template for startups.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 7/10
+Originality: 8/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 6/10
+Overall Opportunity: 80/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P34
+SCHEDULED: Tue 9 Mar 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Coverage of Duolingo's "AI-first" memo (28 Apr 2025) and CEO Luis von Ahn's LinkedIn clarification (May 2025), via Entrepreneur, Fortune and TechCrunch
+SOURCE URL: https://www.entrepreneur.com/business-news/duolingo-ceo-clarifies-ai-stance-after-backlash-read-memo/492141
+TOPIC: AI × branding × communication
+ANGLE: Business implication (an internal memo is a brand event)
+WHY THIS ANGLE: A clear, well-documented case for how AI announcements hit consumer brands.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+Duolingo's CEO wrote an internal memo about AI. Users responded by deleting their streaks.
+━━━━━━━━━━━━━━━━━━━━
+POST
+Duolingo's CEO wrote an internal memo about AI. Users responded by deleting their streaks.
+
+On 28 April 2025, CEO Luis von Ahn told staff Duolingo would become "AI-first". The memo said the company would "gradually stop using contractors to do work that AI can handle."
+
+The memo went public. The backlash hit fast. Users posted videos deleting the app and abandoning years-long streaks. Reports said Duolingo lost hundreds of thousands of TikTok followers within weeks, and the company wiped its TikTok and Instagram posts for a period.
+
+Von Ahn later wrote on LinkedIn: "I do not see AI as replacing what our employees do (we are in fact continuing to hire at the same speed as before)."
+
+The lesson isn't "don't use AI". Duolingo uses AI heavily and says the company has never laid off full-time employees because of AI.
+
+The lesson: internal memos are public communication now. Every AI announcement is a brand event.
+
+And Duolingo's brand depends on something specific. A playful owl. A human-feeling voice. A community. "AI-first" read to fans as "people-last".
+
+How I'd announce an AI shift:
+• Lead with what customers get.
+• Say what stays human, specifically.
+• Talk to employees before the public reads the memo.
+
+Your audience hears "AI" through the lens of your brand promise. Check the promise before the press release.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Did the Duolingo backlash change how you see "AI-first" announcements?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#Branding #AI #Communication
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Screenshot of von Ahn's LinkedIn post
+SOURCE: Luis von Ahn's public LinkedIn post (May 2025)
+URL: search "Luis von Ahn AI memo" on LinkedIn, then take the post URL
+ATTACHMENT ORDER: 1 image only
+WHY: A CEO's own words on the same platform feel native to LinkedIn.
+ALT TEXT: Screenshot of Duolingo CEO Luis von Ahn's LinkedIn post clarifying his AI-first memo.
+Instruction: crop to the name, headline and first paragraph. Don't include commenters' names.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Sources:
+Entrepreneur (memo and clarification): https://www.entrepreneur.com/business-news/duolingo-ceo-clarifies-ai-stance-after-backlash-read-memo/492141
+TechCrunch (CEO says memo was misunderstood): https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood
+
+The follower-loss figures come from media reports and social trackers, not from Duolingo. Duolingo's reported business results stayed strong, so the damage was reputational more than financial.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Duolingo said 'AI-first'. Fans heard 'people-last'. Internal memos are public now. Every AI announcement is a brand event."
+INSTAGRAM: Carousel "How not to announce AI": 6 slides with the 3-step alternative.
+YOUTUBE SHORT: "Ek memo. Lakhon followers gaye. Duolingo se seekho."
+NEWSLETTER: "Writing the AI memo": a template for founders.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 7/10
+Originality: 7/10
+POV Strength: 8/10
+Engagement Potential: 9/10
+Media Strength: 7/10
+Overall Opportunity: 81/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+EVENT SLOT: EV-C
+SCHEDULED: Wed 17 Mar 2027, 8:30 AM IST
+EVENT: NVIDIA GTC 2027, San Jose, 15 to 18 March 2027
+STATUS: not drafted. Write after Jensen Huang's keynote with the TREND JACK command.
+WHY A SLOT, NOT A DRAFT: Announcements haven't happened yet.
+ANGLES TO TEST ON THE DAY:
+• Connect back to P01: Huang on jobs vs the latest Stanford data.
+• Business model: who captures the value, the chip maker, the cloud, or the app? Where does an Indian startup fit?
+• Healthcare × tech: any medical or life-sciences announcements. Pair with P13 or P28 lessons on reading AI health claims.
+• Physical AI and robotics: what changes for Indian manufacturing, labelled as speculation.
+BACKUP IF GTC IS QUIET: post P35 on Wed 17 Mar and move P36 up.
+
+
+POST ID: P35
+SCHEDULED: Thu 18 Mar 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Kosmyna et al., "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task", MIT Media Lab (arXiv 2506.08872, June 2025)
+SOURCE URL: https://arxiv.org/abs/2506.08872
+TOPIC: AI × content creation × thinking
+ANGLE: Practical implication for creators (ownership and recall)
+WHY THIS ANGLE: The study went viral as "ChatGPT rots your brain". The ownership finding is more precise and directly relevant to content creators.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+An MIT team used EEG to watch brains write essays with and without ChatGPT.
+━━━━━━━━━━━━━━━━━━━━
+POST
+An MIT team used EEG to watch brains write essays with and without ChatGPT.
+
+The study, "Your Brain on ChatGPT", came out of MIT Media Lab in June 2025. 54 students wrote essays in three groups: brain only, search engine, or ChatGPT. EEG recorded brain activity while they wrote.
+
+Findings:
+• Brain-only writers showed the strongest, most widespread brain connectivity. Search users came second. ChatGPT users showed the weakest.
+• ChatGPT users reported the lowest sense of ownership over their essays and had trouble recalling what they had written.
+• ChatGPT essays looked alike in vocabulary and structure.
+
+The authors call the effect "cognitive debt".
+
+Caveats matter here. Small sample. Released as a preprint. A narrow task. Critics have questioned parts of the analysis. Don't turn the paper into "AI rots your brain."
+
+The finding I take seriously: ownership and recall.
+
+For creators and professionals, recall is the whole game. If you don't remember what you wrote, you won't defend the idea in a meeting, expand the idea on a podcast or build on the idea next week.
+
+A post you don't remember isn't your point of view. The post is the model's point of view with your name on top.
+
+My rule: I use AI to challenge, edit and research. The core argument comes from my head first.
+
+The similar essays are the other warning. When everyone writes with the same model, everyone sounds the same.
+
+Sounding different is becoming the rarest asset in content.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Do you remember the last thing you wrote with AI? Honestly?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #ContentCreation #Learning
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Research-paper screenshot
+SOURCE: arXiv abstract page
+URL: https://arxiv.org/abs/2506.08872
+ATTACHMENT ORDER: 1 image only
+WHY: The title "Your Brain on ChatGPT" is a hook by itself.
+ALT TEXT: Screenshot of the arXiv abstract page for "Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task", MIT Media Lab, 2025.
+Alternative: the MIT Media Lab project page image at https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/ with credit.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Paper: https://arxiv.org/abs/2506.08872
+MIT Media Lab project page: https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/
+A published critique of the study: https://arxiv.org/pdf/2601.00856
+
+Read the critique before you quote the study in a pitch. The ownership and recall findings are the most robust part.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "MIT EEG study: ChatGPT essay writers showed the weakest brain connectivity and struggled to recall their own essays. Small study, real warning: a post you don't remember isn't your POV."
+INSTAGRAM: Reel: "I asked myself to recall my last 3 AI-assisted posts. Here's what happened." (Do the test honestly first.)
+YOUTUBE SHORT: "AI se likha, yaad nahi raha. MIT ne brain scan karke dekha."
+NEWSLETTER: "Think first, then prompt": a writing workflow for creators who use AI without losing their voice.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 6/10
+Originality: 8/10
+POV Strength: 9/10
+Engagement Potential: 9/10
+Media Strength: 7/10
+Overall Opportunity: 84/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P36
+SCHEDULED: Tue 23 Mar 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Iyengar and Lepper, Journal of Personality and Social Psychology (2000). Scheibehenne, Greifeneder and Todd, "Can There Ever Be Too Many Options?", Journal of Consumer Research (2010).
+SOURCE URL: https://www.jasoncollins.blog/posts/not-the-jam-study-again
+TOPIC: Consumer psychology × marketing × AI
+ANGLE: Disagreement (with a famous study's popular reading)
+WHY THIS ANGLE: The jam study is in every marketing course. The meta-analysis is rarely mentioned. The AI angle makes the correction current.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+The most famous study in consumer psychology doesn't say what most marketers think.
+━━━━━━━━━━━━━━━━━━━━
+POST
+The most famous study in consumer psychology doesn't say what most marketers think.
+
+Iyengar and Lepper's 2000 jam study. A tasting table with 24 jams attracted more shoppers, but only 3% bought. A table with 6 jams: 30% bought.
+
+"Too much choice kills sales" became standard marketing advice. Fewer options. Simpler menus.
+
+In 2010, Scheibehenne, Greifeneder and Todd ran a meta-analysis of 50 experiments with over 5,000 participants. The average effect of assortment size was close to zero.
+
+Some studies found choice overload. Some found the opposite. Most found nothing.
+
+Choice overload shows up under specific conditions: options hard to compare, high stakes, low expertise, no clear preference.
+
+So the right rule isn't "offer less". The right rule is "make choosing easy".
+
+Now apply the lesson to AI. AI makes infinite options cheap. Infinite logos. Infinite product variants. Infinite content. By the popular jam logic, infinite options should paralyse customers.
+
+The research says the answer depends on design. Help people compare. Recommend a default. Explain the trade-off.
+
+The winning AI products won't offer fewer options. They'll offer better guidance through many options.
+
+A broader lesson for anyone quoting research in a pitch: one famous study isn't a law. Check for a meta-analysis before you build strategy.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+When did too many options stop you from buying something?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#ConsumerPsychology #Marketing #ProductDesign
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Two-panel graphic (make in Canva)
+SOURCE: Study figures
+URL: https://www.jasoncollins.blog/posts/not-the-jam-study-again
+ATTACHMENT ORDER: 1 image only
+WHY: Left: "2000: 24 jams, 3% bought / 6 jams, 30%". Right: "2010 meta-analysis, 50 experiments: average effect ≈ 0". The contrast is the post.
+ALT TEXT: Left panel: the 2000 jam study, 3% vs 30% purchase rates. Right panel: a 2010 meta-analysis of 50 experiments finding an average effect near zero.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+A readable summary of the debate: https://www.jasoncollins.blog/posts/not-the-jam-study-again
+A re-analysis of the meta-analysis arguing the moderators matter: https://www.researchgate.net/publication/256846155_Re-Analyzing_a_Meta-Analysis_Another_Look_at_Choice_Overload
+
+Fair summary: choice overload is real but conditional. The popular version is too broad.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Jam study (2000): 24 jams → 3% bought, 6 jams → 30%. Meta-analysis (2010) of 50 experiments: average effect ≈ zero. The rule isn't 'offer less'. The rule is 'make choosing easy'."
+INSTAGRAM: Carousel "The jam study is wrong (sort of)": 6 slides.
+YOUTUBE SHORT: "Kam options, zyada sales? Research ka twist."
+NEWSLETTER: "Famous studies that didn't replicate": a recurring series.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 8/10
+Originality: 7/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 7/10
+Overall Opportunity: 81/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P37
+SCHEDULED: Tue 30 Mar 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: "AI Clinical Decision Support System (CDSS) for Teleconsultations in eSanjeevani, India Telemedicine Service: A Prospective Implementation Study", medRxiv (Nov 2025). Government data on rural specialist shortage (Rural Health Statistics, as of March 2022).
+SOURCE URL: https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full
+TOPIC: Healthcare × AI × India
+ANGLE: Contrarian (the India AI health story is distribution, not accuracy)
+WHY THIS ANGLE: Global coverage fixates on model accuracy. India's scale story is different and underreported.
+VERIFY BEFORE POSTING: open the medRxiv paper and confirm the 282 million and 12 million figures and the date range. The figures came from a search summary of the paper.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+India's biggest AI health story isn't a diagnosis model. The story is distribution.
+━━━━━━━━━━━━━━━━━━━━
+POST
+India's biggest AI health story isn't a diagnosis model. The story is distribution.
+
+Start with the problem. As of March 2022, rural community health centres had about 4,485 specialists in place against a requirement of 21,920. Close to an 80% shortfall of surgeons, physicians, gynaecologists and paediatricians.
+
+India's response at scale hasn't been a single breakthrough model. The response has been a network.
+
+eSanjeevani, the government telemedicine platform, handled about 282 million consultations between April 2023 and November 2025, according to a 2025 implementation study. Around 12 million of those were assisted by an AI clinical decision support system.
+
+Global AI-in-healthcare coverage focuses on accuracy races. Which model beats which doctor on which benchmark.
+
+India points to a different bottleneck. A model with 95% accuracy helps nobody in a village without a health worker to use the model, a connection to reach the model, or a system to act on the result.
+
+Distribution beats accuracy at the start. Once hundreds of millions of consultations flow through one platform, adding AI to the flow reaches millions at once.
+
+For founders in healthtech:
+• Build on existing rails (ABDM, eSanjeevani, UPI-style public infrastructure) instead of building your own.
+• Solve for the health worker, not only the patient.
+• Measure access and follow-up, not only diagnostic accuracy.
+
+Caveat: implementation studies measure usage, not health outcomes. Outcome data will decide the real impact.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Healthtech builders: are you building rails, or building on rails?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#HealthTech #India #AI
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Stat graphic (make in Canva)
+SOURCE: Rural specialist data and eSanjeevani study
+URL: https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full
+ATTACHMENT ORDER: 1 image only
+WHY: "~80% rural specialist shortfall" next to "282 million teleconsultations" frames problem and response.
+ALT TEXT: Graphic: about 80% of rural specialist posts unfilled at community health centres (2022), and about 282 million eSanjeevani teleconsultations between April 2023 and November 2025.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Implementation study (medRxiv, not yet peer reviewed when posted): https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full
+Government note on AI in healthcare (PIB): https://www.pib.gov.in/PressReleasePage.aspx?PRID=2227410
+
+Rural specialist figures come from the government's Rural Health Statistics. Newer editions might have updated numbers, so check the latest before posting.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "India's AI health story: ~282M eSanjeevani teleconsultations, ~12M AI-assisted. Accuracy matters. Distribution matters first."
+INSTAGRAM: Carousel "How India is doing AI healthcare differently": 6 slides.
+YOUTUBE SHORT: Hinglish. "Gaon mein doctor nahi. Phir AI kaise pahunchega? eSanjeevani ki kahani."
+NEWSLETTER: "Rails before models": what India's public digital infrastructure means for healthtech founders.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 7/10
+Research Quality: 6/10
+Originality: 9/10
+POV Strength: 9/10
+Engagement Potential: 8/10
+Media Strength: 6/10
+Overall Opportunity: 81/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P38
+SCHEDULED: Tue 6 Apr 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Porter and Machery, "AI-generated poetry is indistinguishable from human-written poetry and is rated more favorably", Scientific Reports (Nov 2024)
+SOURCE URL: https://www.nature.com/articles/s41598-024-76900-1
+TOPIC: AI × content creation × audience
+ANGLE: Contrarian (the finding is about audience, not about AI beating Shakespeare)
+WHY THIS ANGLE: A surprising, shareable study with a practical lesson for creators about who they write for.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+Non-expert readers preferred ChatGPT's poems to Shakespeare's, and thought the AI poems were more human.
+━━━━━━━━━━━━━━━━━━━━
+POST
+Non-expert readers preferred ChatGPT's poems to Shakespeare's, and thought the AI poems were more human.
+
+In a 2024 study in Scientific Reports, Brian Porter and Edouard Machery showed 1,634 participants poems by well-known poets (Shakespeare, Byron, Dickinson, Eliot and others) alongside poems written by ChatGPT-3.5 in their styles.
+
+Results:
+• Participants identified AI poems with 46.6% accuracy. Worse than a coin flip.
+• AI poems were more likely to be judged human-written than the real poems.
+• AI poems were rated higher on qualities like rhythm and beauty.
+
+The authors' explanation: readers mistook the complexity of real poetry for incoherence, and assumed the simpler, clearer AI poems came from humans.
+
+Most people read this as "AI writes better poetry than Shakespeare".
+
+I read the finding as a lesson about audience.
+
+Non-experts rewarded accessibility. Clear, familiar, easy-to-read verse. Experts tend to value difficulty and ambiguity.
+
+My read: AI writes for the average reader, because AI learned from the average of everything.
+
+For creators and brands:
+• If your audience is broad and non-expert, AI-level clarity is the new floor. Unclear human writing loses.
+• If your audience is expert, the qualities AI smooths away (edge, ambiguity, strong opinion) become your advantage.
+
+Know which audience you serve. Then decide where AI helps you and where AI flattens you.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+If you had to pick: would you rather be clear or distinctive?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #ContentCreation #Writing
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Mini quiz image (make in Canva)
+SOURCE: Your own design
+URL: none (original media)
+ATTACHMENT ORDER: 1 image only
+WHY: Two short stanzas labelled A and B ("One is Shakespeare, one is AI. Which?") pull comments. Use a public-domain Shakespeare sonnet excerpt and generate your own AI stanza. Reveal the answer in the first comment.
+ALT TEXT: Two short poem excerpts labelled A and B with the question "Which one is AI?"
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Answer to the quiz: [fill in A or B].
+
+Paper (open access): https://www.nature.com/articles/s41598-024-76900-1
+
+Participants were non-expert poetry readers, and the AI was GPT-3.5 imitating famous poets. A critique of how the study was covered: https://lithub.com/on-the-report-of-poetrys-death-or-what-does-that-ai-poetry-study-really-tell-us/
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "1,634 readers. AI poems vs Shakespeare, Dickinson, Eliot. Readers spotted AI at 46.6%, worse than chance, and preferred the AI poems. The lesson: know your audience."
+INSTAGRAM: Quiz Reel: two stanzas, "which is AI?", reveal at the end.
+YOUTUBE SHORT: Same quiz format, Hinglish voiceover.
+NEWSLETTER: "Clear vs distinctive": how to decide your writing style when AI sets the floor.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 9/10
+Research Quality: 8/10
+Originality: 8/10
+POV Strength: 8/10
+Engagement Potential: 9/10
+Media Strength: 8/10
+Overall Opportunity: 86/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P39
+SCHEDULED: Thu 8 Apr 2027, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Reporting on the University of Zurich's unauthorised AI persuasion experiment on Reddit's r/changemyview (April 2025), via Engadget and Live Science
+SOURCE URL: https://www.engadget.com/ai/researchers-secretly-experimented-on-reddit-users-with-ai-generated-comments-194328026.html
+TOPIC: AI × persuasion × trust × social media
+ANGLE: Second-order effect (cheap persuasion makes identity valuable)
+WHY THIS ANGLE: The ethics story was covered. The implication for professionals on LinkedIn wasn't.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+Researchers secretly deployed AI bots on Reddit. The bots persuaded people 3 to 6 times more often than humans.
+━━━━━━━━━━━━━━━━━━━━
+POST
+Researchers secretly deployed AI bots on Reddit. The bots persuaded people 3 to 6 times more often than humans.
+
+In 2025, researchers from the University of Zurich ran an unauthorised experiment on r/changemyview, a Reddit community where people invite others to challenge their opinions.
+
+AI-powered accounts posted more than 1,700 comments over several months. Some bots used invented identities, including a sexual assault survivor and a domestic violence shelter worker. Some tailored replies using personal traits inferred from users' post histories.
+
+According to the researchers' draft, AI comments achieved persuasion rates three to six times higher than the human baseline.
+
+Nobody had consented. Moderators condemned the study. Reddit's chief legal officer called the work an "improper and highly unethical experiment". The university issued a formal warning to the researchers.
+
+Two separate lessons.
+
+The ethics lesson is obvious. Deceiving people to study them is wrong, whatever the result.
+
+The strategic lesson is less comfortable. The results come from an unreviewed draft, so treat the numbers with caution. But even a fraction of the effect means persuasion at scale is now cheap. Tailored arguments, written instantly, for millions of people.
+
+When persuasion becomes cheap, identity becomes valuable. Who is speaking starts to matter more than what is said.
+
+For professionals and brands on LinkedIn: comment sections, DMs and reviews will fill with persuasive text from unknown sources. Your verified identity, track record and consistency become the filter people use.
+
+Be a known person. In a feed full of persuasive strangers, known people win.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Knowing this, will you read LinkedIn comments differently?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #Trust #SocialMedia
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Text card (make in Canva)
+SOURCE: Your own line
+URL: none (original media)
+ATTACHMENT ORDER: 1 image only
+WHY: "When persuasion becomes cheap, identity becomes valuable." is the quotable line. Avoid Reddit logos or screenshots of users' comments.
+ALT TEXT: Text card reading "When persuasion becomes cheap, identity becomes valuable."
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Coverage:
+Engadget: https://www.engadget.com/ai/researchers-secretly-experimented-on-reddit-users-with-ai-generated-comments-194328026.html
+Live Science: https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy
+
+The persuasion figures come from the researchers' unpublished draft, released without peer review, under an ethics cloud. The ethical breach is well documented. The effect size is not.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Unauthorised Zurich experiment: AI bots on r/changemyview were 3 to 6x more persuasive than humans (unreviewed draft). When persuasion becomes cheap, identity becomes valuable."
+INSTAGRAM: Carousel "The secret AI experiment on Reddit": 6 slides, ethics first, then the lesson.
+YOUTUBE SHORT: "Reddit pe AI bots ne log convince kiye. Kisi ko pata nahi tha."
+NEWSLETTER: "Be a known person": building verifiable identity online in 2027.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 7/10
+Research Quality: 5/10
+Originality: 9/10
+POV Strength: 9/10
+Engagement Potential: 9/10
+Media Strength: 6/10
+Overall Opportunity: 82/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+EVENT SLOT: EV-D
+SCHEDULED: Tue 13 Apr 2027, 8:30 AM IST
+EVENT: End of the 200-day run (day 200 is Fri 16 Apr 2027)
+STATUS: not drafted. Run ANALYZE PERFORMANCE first, then write this post from your real numbers.
+WHY A SLOT, NOT A DRAFT: The post has to be built on your actual analytics. Invented results would break the accuracy rule.
+POST IDEA: "I posted research-backed content twice a week for 200 days. What worked, what didn't." Share the top 3 posts by comments (not impressions), one flop and why, and one change you'll make next.
+DATA TO COLLECT BEFORE WRITING: impressions, reactions, comments, reposts, saves, profile visits and followers gained for every post, pasted into content-engine/performance.json via ANALYZE PERFORMANCE.

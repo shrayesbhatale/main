@@ -1,0 +1,87 @@
+SHRAYES BHATALE | 200-DAY LINKEDIN CONTENT-JACKING CALENDAR
+Run: Mon 28 Sep 2026 to Fri 16 Apr 2027 (29 weeks)
+Rhythm: 1 to 2 posts per week. Tuesday is the main slot. Thursday is the second slot on alternate weeks.
+Time: 8:30 AM IST. Adjust after 6 weeks of data with ANALYZE PERFORMANCE.
+Total: 39 drafted posts + 4 event slots = 43 posts (about 1.5 per week).
+
+Full drafts live in content-engine/drafts/. Each post has hook, full post, CTA, hashtags, media plan, first comment, repurposing plan and quality score.
+
+
+HOW TO USE
+1. The day before a post, open the draft and click every source link once. Numbers were checked through search results because most original sites are blocked from the cloud session. Five minutes of checking protects your credibility.
+2. Make the media the draft asks for (most are simple Canva graphics or your own screenshots).
+3. Post at 8:30 AM IST. Add the first comment within 2 minutes.
+4. Reply to every thoughtful comment in the first 60 minutes.
+5. Log the numbers after 7 days (impressions, reactions, comments, reposts, saves, profile visits, followers). Paste them in a session and say ANALYZE PERFORMANCE.
+
+FLEX RULE
+Content-jacking means reacting to news. If a major story in AI, startups, branding, creators or healthtech breaks, run TREND JACK and publish the new post in the next slot. Move the evergreen post from the slot to the backlog. Research posts (P08, P10, P12, P15, P17, P23, P31, P33, P36, P38) never go stale, so move those first.
+
+POSTS WITH TIME-SENSITIVE NUMBERS (refresh before posting)
+P01 and P21: check for a newer Stanford "Canaries" update.
+P02: check for a newer Pew AI survey.
+P05: use the latest NPCI monthly UPI data.
+P37: re-check the eSanjeevani figures in the medRxiv paper.
+
+
+WEEK | DATES             | SLOT              | ID    | TYPE          | TOPIC
+1    | 28 Sep - 4 Oct    | Tue 29 Sep        | P01   | Disagreement  | AI and juniors: Stanford Canaries vs Jensen Huang
+1    |                   | Thu 1 Oct         | P02   | Connection    | AI's positioning problem: Pew + "AI" label study
+2    | 5 - 11 Oct        | Tue 6 Oct         | P03   | Business      | Why AI isn't paying off: Microsoft WTI + MIT NANDA
+3    | 12 - 18 Oct       | Tue 13 Oct        | P04   | Creators      | News moves to feeds and chatbots: Reuters DNR 2026
+3    |                   | Thu 15 Oct        | P05   | India         | UPI 24.51B payments and the ₹1,217 ticket
+4    | 19 - 25 Oct       | Tue 20 Oct        | P06   | Branding      | Edelman insularity: trust flows through people
+5    | 26 Oct - 1 Nov    | Tue 27 Oct        | P07   | Second-order  | Medvi: the one-person unicorn and the FDA letter
+5    |                   | Thu 29 Oct        | P08   | Research      | METR: felt 20% faster, measured 19% slower
+6    | 2 - 8 Nov         | Tue 3 Nov         | P09   | Creators      | MrBeast: videos lost money, chocolate made money
+7    | 9 - 15 Nov        | Tue 10 Nov        | P10   | Research      | Jagged frontier: the 19-point problem
+7    |                   | Thu 12 Nov        | P11   | Branding      | Coca-Cola AI holiday ads (update if a 2026 ad drops)
+8    | 16 - 22 Nov       | Tue 17 Nov        | P12   | Research      | AI helps beginners most, so why fewer beginner hires?
+9    | 23 - 29 Nov       | Tue 24 Nov        | P13   | Healthcare    | Doctors + GPT-4 vs GPT-4 alone (JAMA)
+9    |                   | Thu 26 Nov        | P14   | Disagreement  | Klarna: a metric failure, not an AI failure
+10   | 30 Nov - 6 Dec    | Tue 1 Dec         | P15   | Research      | Algorithm aversion and the power of a small dial
+11   | 7 - 13 Dec        | Tue 8 Dec         | P16   | India/Creators| BCG: Indian creators influence $350B, few monetise
+11   |                   | Thu 10 Dec        | P17   | Research      | Trust in AI vs critical thinking (Microsoft + CMU)
+12   | 14 - 20 Dec       | Tue 15 Dec        | P18   | Leverage      | Naval's permissionless leverage in the AI era
+13   | 21 - 27 Dec       | Tue 22 Dec        | P19   | Strategy      | Bezos: what won't change in 2027
+14   | 28 Dec - 3 Jan    | Tue 29 Dec        | P20   | Creators      | Mosseri memo, one year later: imperfection is evidence
+15   | 4 - 10 Jan        | Tue 5 Jan         | P21   | Framework     | Three AI jobs numbers: forecast or measurement?
+15   |                   | Thu 7 Jan         | EV-A  | Event         | CES 2027 (6-9 Jan), write with TREND JACK
+16   | 11 - 17 Jan       | Tue 12 Jan        | P22   | Healthcare    | Deskilling: doctors' skill without AI dropped (Lancet)
+16   |                   | Thu 14 Jan        | P23   | Psychology    | IKEA effect vs one-click AI products
+17   | 18 - 24 Jan       | Tue 19 Jan        | P25   | Management    | Shopify memo: the burden of proof flipped
+18   | 25 - 31 Jan       | Tue 26 Jan        | P24   | Healthcare    | "AI more empathetic than doctors"? The time shortage
+18   |                   | Thu 28 Jan        | P26   | India         | Dark patterns: banned in 2023, still at 97%
+19   | 1 - 7 Feb         | Tue 2 Feb         | EV-B  | Event         | Union Budget 2027-28, write on budget day
+19   |                   | Thu 4 Feb         | P27   | Branding      | "Vibe coding" at 2 years: naming is leverage
+20   | 8 - 14 Feb        | Tue 9 Feb         | P28   | Healthcare    | MAI-DxO 85.5% vs 20%: read the setup
+21   | 15 - 21 Feb       | Tue 16 Feb        | P31   | Marketing     | The 8-second attention span myth
+21   |                   | Thu 18 Feb        | P30   | Strategy      | Nadella: the real benchmark is growth
+22   | 22 - 28 Feb       | Tue 23 Feb        | P29   | Healthcare    | AI therapy and companionship: heal or hook
+23   | 1 - 7 Mar         | Tue 2 Mar         | P32   | Startups      | Cybernetic teammate: 1 person + AI ≈ a team
+23   |                   | Thu 4 Mar         | P33   | Marketing     | Binet & Field 60:40 in the AI era
+24   | 8 - 14 Mar        | Tue 9 Mar         | P34   | Branding      | Duolingo: every AI memo is a brand event
+25   | 15 - 21 Mar       | Wed 17 Mar        | EV-C  | Event         | NVIDIA GTC 2027 (15-18 Mar), write after keynote
+25   |                   | Thu 18 Mar        | P35   | Creators      | "Your Brain on ChatGPT": ownership and recall
+26   | 22 - 28 Mar       | Tue 23 Mar        | P36   | Psychology    | The jam study vs the meta-analysis
+27   | 29 Mar - 4 Apr    | Tue 30 Mar        | P37   | India/Health  | eSanjeevani: distribution beats accuracy
+28   | 5 - 11 Apr        | Tue 6 Apr         | P38   | Creators      | AI poetry beat Shakespeare with non-experts
+28   |                   | Thu 8 Apr         | P39   | Trust         | Secret Reddit AI persuasion experiment
+29   | 12 - 16 Apr       | Tue 13 Apr        | EV-D  | Review        | 200 days of posting: what worked (from real data)
+
+
+TOPIC MIX (39 drafted posts)
+AI × work and productivity: 10
+AI × healthcare: 6
+Branding and marketing: 8
+Creators and personal branding: 7
+Consumer psychology: 5
+Startups, strategy and trust: 3
+India-specific angle: 4 of the above, plus the Budget event slot
+No two healthcare posts run in back-to-back weeks.
+
+BACKUP POSTS (content-engine/ideas.json)
+BL-01 Pew global AI jobs survey (Sep 2026)
+BL-02 Anthropic Economic Index 2026 (verify India figures first)
+BL-03 LinkedIn's Aneesh Raman on the broken bottom rung
+BL-04 McDonald's pulled AI Christmas ad (pairs with P11)

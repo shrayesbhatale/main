@@ -206,6 +206,15 @@ Overall Opportunity:
 ━━━━━━━━━━━━━━━━━━━━
 ```
 
+## Current content bank
+
+A 200-day bank (28 Sep 2026 to 16 Apr 2027) lives in `content-engine/`:
+- `calendar-200-days.txt`: the week-by-week schedule, flex rule and refresh list.
+- `drafts/*.txt`: 39 full posts in the final output format, plus 4 event slots (CES, Union Budget, NVIDIA GTC, 200-day review) to write with TREND JACK when the event happens.
+- `drafts.json`, `sources.json`, `ideas.json`: the same data as records.
+
+When the user asks for "this week's post", find the slot in the calendar, re-verify the sources, refresh any time-sensitive numbers, and hand over the final post. Never draft event slots before the event happens.
+
 ## Limits of this environment
 
 - The agent cannot post to LinkedIn or read LinkedIn analytics. The user posts manually and pastes metrics back for ANALYZE PERFORMANCE.

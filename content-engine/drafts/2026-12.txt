@@ -1,0 +1,469 @@
+SHRAYES BHATALE | LINKEDIN CONTENT-JACKING BANK
+Batch 3: 1 Dec 2026 to 29 Dec 2026 (P15 to P20)
+Status of every post: draft. Re-open each source link once before posting.
+Note: 21 Dec to 3 Jan is a low-engagement period on LinkedIn. One post per week in those weeks, reflective topics.
+
+
+POST ID: P15
+SCHEDULED: Tue 1 Dec 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Dietvorst, Simmons and Massey, "Algorithm Aversion", Journal of Experimental Psychology: General (2015). Same authors, "Overcoming Algorithm Aversion", Management Science (2018).
+SOURCE URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616787
+TOPIC: AI × product design × consumer psychology
+ANGLE: Practical framework from research
+WHY THIS ANGLE: Classic research with a clear, surprising fix. Directly useful to anyone building or buying AI products.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+People forgive a human's mistake faster than an algorithm's. Research also found the fix.
+━━━━━━━━━━━━━━━━━━━━
+POST
+People forgive a human's mistake faster than an algorithm's. Research also found the fix.
+
+In 2015, Wharton researchers Berkeley Dietvorst, Joseph Simmons and Cade Massey published experiments on "algorithm aversion".
+
+Participants watched a forecasting algorithm make errors. Afterwards they avoided the algorithm and chose a human forecaster, even though the algorithm outperformed humans in every study.
+
+People lose confidence in algorithms faster than in humans after seeing the same mistake.
+
+In 2018 the same team found a fix. When people were allowed to adjust the algorithm's forecast, even slightly, they became far more willing to use the algorithm. And their results improved.
+
+Control, even a small amount, turned rejection into adoption.
+
+This matters for everyone building AI products today.
+
+Most AI products are black boxes with a "regenerate" button. The user accepts the output or throws the output away.
+
+The research points to a third design:
+• Let users edit and steer the output.
+• Show a confidence level so errors aren't surprises.
+• Give a small dial: tone, length, risk level.
+
+People don't need a perfect AI. People need to feel in charge of an imperfect one.
+
+My bet: the product with the best model will lose to the product with the best sense of control.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Which AI tool gives you the most sense of control? Which gives the least?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #ProductDesign #ConsumerPsychology
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Screenshot of paper title and abstract
+SOURCE: Management Science 2018 paper (free PDF on Wharton faculty site)
+URL: https://faculty.wharton.upenn.edu/wp-content/uploads/2016/08/Dietvorst-Simmons-Massey-2018.pdf
+ATTACHMENT ORDER: 1 image only
+WHY: A research-paper screenshot signals depth and credibility on LinkedIn.
+ALT TEXT: Title and abstract of the 2018 Management Science paper "Overcoming Algorithm Aversion: People Will Use Imperfect Algorithms If They Can (Even Slightly) Modify Them".
+Instruction: screenshot the first page from the title to the end of the abstract. Highlight the phrase about modifying forecasts.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Papers:
+2015 (Algorithm Aversion): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466040
+2018 (Overcoming Algorithm Aversion): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616787
+
+These were forecasting tasks in lab settings, run before today's chat AI. Newer research on generative AI trust is mixed. The control finding is the part I'd bet still holds.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "People abandon algorithms after one visible mistake, even when the algorithm beats humans. Fix (Wharton, 2018): let people adjust the output, even slightly."
+INSTAGRAM: Carousel "Why people quit AI tools": 5 slides ending with the 3-part design.
+YOUTUBE SHORT: "AI ek galti kare toh hum chhod dete hain. Insaan kare toh maaf. Research ka solution?"
+NEWSLETTER: "Design for control": UI patterns (edit, sliders, confidence labels) with examples.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 9/10
+Research Quality: 8/10
+Originality: 8/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 7/10
+Overall Opportunity: 84/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P16
+SCHEDULED: Tue 8 Dec 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: BCG, "From Content to Commerce: Mapping India's Creator Economy" (May 2025). Goldman Sachs Research on the creator economy (2023).
+SOURCE URL: https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy
+TOPIC: Creator economy × India × business models
+ANGLE: Business implication (influence is big, income is thin: a structural problem)
+WHY THIS ANGLE: Indian audience, clear numbers, and a POV creators will argue with.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+India has 2 to 2.5 million active creators. Only 8 to 10% monetise effectively.
+━━━━━━━━━━━━━━━━━━━━
+POST
+India has 2 to 2.5 million active creators. Only 8 to 10% monetise effectively.
+
+BCG's 2025 report on India's creator economy has a gap worth staring at:
+• 2 to 2.5 million active creators (1,000+ followers).
+• Creators influence over 30% of consumer decisions, shaping $350 to 400 billion of spending.
+• Only 8 to 10% of creators monetise effectively.
+• Direct creator revenue: $20 to 25 billion today, projected $100 to 125 billion by 2030.
+
+Globally, Goldman Sachs estimated about 4% of creators earn more than $100,000 a year.
+
+Influence is massive. Income is thin.
+
+Most people blame the algorithm. I think the problem is structure.
+
+A creator influences a purchase. The brand, the marketplace and the platform capture the margin. The creator gets a one-time fee.
+
+The creators who break out stop selling influence and start owning a piece of the transaction:
+• Their own product, even a small one.
+• Affiliate or revenue share instead of flat fees.
+• An owned channel (email, a WhatsApp community) no algorithm controls.
+
+Influenced spending and creator revenue are different measures. But the direction is clear: creators capture a small share of the value they move.
+
+My hypothesis: the next wave of Indian creator businesses will be built by creators who close the gap.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Creators: what share of your income comes from something you own?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#CreatorEconomy #India #PersonalBranding
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Stat graphic (make in Canva)
+SOURCE: BCG report figures
+URL: https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy
+ATTACHMENT ORDER: 1 image only
+WHY: "$350B influenced vs 8 to 10% monetising" is a striking contrast.
+ALT TEXT: Graphic: Indian creators influence $350 to 400 billion of consumer spending, yet only 8 to 10% of creators monetise effectively. Source: BCG, 2025.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Sources:
+BCG (May 2025): https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy
+PIB summary: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2126106
+Goldman Sachs: https://www.goldmansachs.com/insights/articles/the-creator-economy-could-approach-half-a-trillion-dollars-by-2027
+
+"Influence" figures are estimates built on surveys and models. Treat them as scale, not precision.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Indian creators influence $350 to 400B of spending. Only 8 to 10% monetise well. Stop selling influence. Own a piece of the transaction."
+INSTAGRAM: Carousel for creators: "3 ways to own the transaction", with Indian examples.
+YOUTUBE SHORT: Hinglish. "Tum brand ke liye crores bechte ho. Tumhe kya milta hai?"
+NEWSLETTER: "From fee to equity": how creators move from brand deals to revenue share and products.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 7/10
+Originality: 8/10
+POV Strength: 8/10
+Engagement Potential: 9/10
+Media Strength: 6/10
+Overall Opportunity: 83/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P17
+SCHEDULED: Thu 10 Dec 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Lee et al., "The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers", CHI 2025 (Microsoft Research and Carnegie Mellon University)
+SOURCE URL: https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
+TOPIC: AI × productivity × thinking
+ANGLE: Practical framework (think first, prompt second)
+WHY THIS ANGLE: The study gets shared as "AI makes you dumb". The real finding (self-confidence protects thinking) is more precise and actionable.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+The more people trusted AI, the less critical thinking they reported doing.
+━━━━━━━━━━━━━━━━━━━━
+POST
+The more people trusted AI, the less critical thinking they reported doing.
+
+Microsoft Research and Carnegie Mellon surveyed 319 knowledge workers who use generative AI at least weekly. They collected 936 real examples of AI use at work. The paper appeared at CHI 2025.
+
+Two findings pull in opposite directions:
+• Higher confidence in AI was associated with less critical thinking.
+• Higher confidence in yourself was associated with more critical thinking.
+
+Important caveat: self-reported survey data. Association, not proof of cause.
+
+Still, the pattern matches what I notice in practice. People with deep expertise use AI as a sparring partner. People without expertise use AI as an authority.
+
+Same tool. Opposite relationship.
+
+The paper also describes how critical thinking shifts with AI. Less effort on producing. More effort on verifying, integrating and stewarding the output.
+
+The job doesn't disappear. The job moves from writer to editor.
+
+And editing needs a standard. You judge AI output only against what you already know.
+
+The rule I use: form my own view first, even a rough one. Then ask the AI. Then compare.
+
+The order protects the thinking.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Do you think first and prompt second, or the other way round?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #CriticalThinking #Productivity
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Research-paper screenshot
+SOURCE: Microsoft Research PDF
+URL: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
+ATTACHMENT ORDER: 1 image only
+WHY: The paper title plus abstract gives instant credibility.
+ALT TEXT: Title and abstract of the CHI 2025 paper "The Impact of Generative AI on Critical Thinking" by Microsoft Research and Carnegie Mellon University.
+Instruction: screenshot title, authors and abstract. Highlight the sentence about confidence in GenAI and critical thinking.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Paper (ACM): https://dl.acm.org/doi/full/10.1145/3706598.3713778
+Microsoft summary: https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
+
+The survey measures what people say they do, not what they do. Treat the result as a direction to watch, not a diagnosis.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Confidence in AI → less critical thinking. Confidence in yourself → more. (Microsoft + CMU, 319 workers.) Think first. Prompt second."
+INSTAGRAM: Reel of your "think first" routine in 3 steps.
+YOUTUBE SHORT: "Pehle socho, phir prompt karo. Research bhi yahi bolti hai."
+NEWSLETTER: "Writer to editor": the new job description for knowledge workers.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 9/10
+Research Quality: 7/10
+Originality: 7/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 7/10
+Overall Opportunity: 81/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P18
+SCHEDULED: Tue 15 Dec 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Naval Ravikant, "How to Get Rich (without getting lucky)" tweetstorm (31 May 2018)
+SOURCE URL: https://nav.al/rich
+TOPIC: Leverage × AI × personal branding
+ANGLE: Agreement + extension (the quote in the AI era)
+WHY THIS ANGLE: Connects Shrayes's core leverage theme to AI. The extension (leverage stops being an edge once everyone has leverage) adds something the original doesn't say.
+VERIFY BEFORE POSTING: open nav.al/rich and confirm the exact wording of the quote.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+In 2018 Naval called code and media "permissionless leverage". In 2026 the last gate fell.
+━━━━━━━━━━━━━━━━━━━━
+POST
+In 2018 Naval called code and media "permissionless leverage". In 2026 the last gate fell.
+
+On 31 May 2018, Naval Ravikant posted his "How to Get Rich (without getting lucky)" thread.
+
+One line has aged better than most: "Code and media are permissionless leverage."
+
+Labour needs people to follow you. Capital needs someone to give you money. Code and media need nobody's approval.
+
+But in 2018 code still had a gate. You had to learn to program.
+
+By 2026, AI coding tools let non-programmers ship working software from plain-language instructions.
+
+So both forms of permissionless leverage now sit behind one skill: clear thinking, written in plain language.
+
+A clear writer now builds tools. A clear thinker now publishes daily.
+
+Here's the catch.
+
+When leverage is available to everyone, leverage stops being an edge. Everyone ships apps. Everyone posts.
+
+The edge moves to what AI doesn't hand out:
+• Taste: knowing what's worth building.
+• Distribution: people who already trust you.
+• Judgment: knowing when output is wrong.
+
+Leverage multiplies. Multiplying zero still gives zero.
+
+Build the thing worth multiplying first.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Which leverage are you building in 2027: code, media, or both?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#Entrepreneurship #AI #PersonalBranding
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Quote card (make in Canva)
+SOURCE: Naval's tweet text
+URL: https://nav.al/rich
+ATTACHMENT ORDER: 1 image only
+WHY: A clean quote card of a famous, verified line gets saved and shared.
+ALT TEXT: Quote card: "Code and media are permissionless leverage." Naval Ravikant, 2018.
+Design: black background, white serif text, small attribution line. No photo of Naval.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Naval's full thread, archived with his commentary: https://nav.al/rich
+
+The four kinds of leverage in his framing: labour, capital, code and media. The first two need permission. The last two don't.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Naval, 2018: code and media are permissionless leverage. 2026: AI removed the coding gate. When everyone has leverage, taste and distribution become the edge."
+INSTAGRAM: Carousel "The 4 types of leverage in the AI era".
+YOUTUBE SHORT: Hinglish. "Naval ne bola code aur media leverage hai. Ab AI ne code bhi free kar diya. Toh edge kya bacha?"
+NEWSLETTER: A long section on the four leverage types with Indian examples. Fits the core Shrayes brand themes.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 6/10
+Originality: 8/10
+POV Strength: 9/10
+Engagement Potential: 8/10
+Media Strength: 6/10
+Overall Opportunity: 80/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P19
+SCHEDULED: Tue 22 Dec 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Jeff Bezos, fireside chat with Werner Vogels, AWS re:Invent (Nov 2012). Quote verified via Quote Investigator.
+SOURCE URL: https://quoteinvestigator.com/2021/03/03/not-change/
+TOPIC: Strategy × AI × year-end planning
+ANGLE: Agreement + extension (applied to 2027 planning)
+WHY THIS ANGLE: December is prediction season. A "what won't change" list stands out against a wall of predictions.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+Everyone is predicting 2027. Bezos asked a better question back in 2012.
+━━━━━━━━━━━━━━━━━━━━
+POST
+Everyone is predicting 2027. Bezos asked a better question back in 2012.
+
+At AWS re:Invent in 2012, Jeff Bezos said people often ask him what will change in the next 10 years. Then he added:
+
+"I almost never get the question: 'What's not going to change in the next 10 years?'"
+
+His point: build strategy on what stays stable. For Amazon's retail business, customers want low prices, fast delivery and vast selection. They'll want those in any decade.
+
+December is prediction season. AI agents, new models, new platforms. Most predictions will age badly.
+
+So here's my list for 2027. Things I'd bet stay the same no matter what AI does:
+• People buy from people they trust.
+• Attention goes to what feels specific and personal.
+• Customers want problems solved faster, with less effort.
+• Scarce skills get paid. Common skills get commoditised.
+• Reputation compounds. So does a bad one.
+
+In my view, every AI shift of the last three years pushed harder on these, not against them.
+
+Before you plan around what's new, write down what won't change in your industry. Build on the list. Use AI to serve the list better.
+
+Predictions expire. Constants compound.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+What's one thing in your industry you're sure won't change by 2030?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#Strategy #Entrepreneurship #AI
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Text card (make in Canva)
+SOURCE: Your own list
+URL: none (original media)
+ATTACHMENT ORDER: 1 image only
+WHY: A clean "What won't change in 2027" list is saveable and yours.
+ALT TEXT: Card titled "What won't change in 2027" with five items: people buy from people they trust, attention goes to what feels specific, customers want less effort, scarce skills get paid, reputation compounds.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Quote origin (Quote Investigator): https://quoteinvestigator.com/2021/03/03/not-change/
+TechCrunch coverage of the 2012 talk: https://techcrunch.com/2012/11/29/amazon-founder-jeff-bezos-talks-aws-innovation-customer-service-space-travel-at-re-invent
+
+The full quote continues: the second question is more important "because you can build a business strategy around the things that are stable in time."
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Everyone asks what changes in 2027. Bezos, 2012: ask what won't change. My list: trust, specificity, less effort, scarce skills, reputation."
+INSTAGRAM: Carousel, one constant per slide.
+YOUTUBE SHORT: "Sab 2027 predict kar rahe hain. Main batata hoon kya NAHI badlega."
+NEWSLETTER: Year-end issue: "5 constants for 2027", with one story per constant.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 6/10
+Originality: 7/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 6/10
+Overall Opportunity: 77/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P20
+SCHEDULED: Tue 29 Dec 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Adam Mosseri's year-end memo posted on Instagram (31 Dec 2025), as covered by Engadget and Om Malik
+SOURCE URL: https://www.engadget.com/social-media/instagram-chief-ai-is-so-ubiquitous-it-will-be-more-practical-to-fingerprint-real-media-than-fake-media-202620080.html
+TOPIC: Creator economy × AI × authenticity
+ANGLE: Anniversary + future implication
+WHY THIS ANGLE: One-year anniversary of a widely discussed memo. Gives a reason to post in a slow week and a clear lesson for creators.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+A year ago, the head of Instagram argued platforms will need to prove what's real instead of catching what's fake.
+━━━━━━━━━━━━━━━━━━━━
+POST
+A year ago, the head of Instagram argued platforms will need to prove what's real instead of catching what's fake.
+
+On the last day of 2025, Adam Mosseri published a 20-slide year-end memo on AI and authenticity.
+
+His core argument, paraphrased: AI content will become so common, verifying real media at the point of capture will be more practical than trying to catch every fake.
+
+He also suggested creators lean into raw, unpolished, even unflattering content as a signal of being real.
+
+One year later, the direction looks right to me.
+
+Here's the shift for anyone building a brand.
+
+Polish used to signal quality. Now polish is free. A model generates a flawless image in seconds.
+
+When polish costs nothing, polish signals nothing.
+
+Proof of reality becomes the premium:
+• Behind-the-scenes over studio shots.
+• Specific, dated, local details AI wouldn't invent.
+• Your face, your voice, your mistakes.
+• Consistency over years, which nobody fakes overnight.
+
+The brands winning on social next year won't look the most professional. They'll look the most verifiably human.
+
+Imperfection used to be a flaw. Now imperfection is evidence.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Do you trust polished content less than you did two years ago?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#CreatorEconomy #Branding #AI
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Original photo
+SOURCE: Your own camera
+URL: none (original media)
+ATTACHMENT ORDER: 1 image only
+WHY: Practise the point. Post an unedited, real photo of your workspace or yourself, no filter.
+ALT TEXT: Unedited photo of Shrayes at his desk, taken on a phone without filters.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Coverage of the memo:
+Engadget: https://www.engadget.com/social-media/instagram-chief-ai-is-so-ubiquitous-it-will-be-more-practical-to-fingerprint-real-media-than-fake-media-202620080.html
+Om Malik's analysis: https://om.co/2026/01/01/what-is-instagrams-adam-mosseri-really-saying-in-his-year-end-memo/
+
+Worth reading the original slides on Mosseri's Instagram. He also talks about cryptographic signing by camera makers, which is where "proof of real" is heading technically.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "When polish costs nothing, polish signals nothing. In 2027, imperfection is evidence."
+INSTAGRAM: A photo dump of unpolished behind-the-scenes shots with the caption "Proof of real."
+YOUTUBE SHORT: Raw, one-take video. "Filter nahi, sach dikhana hi ab brand hai."
+NEWSLETTER: "Proof of real": a checklist for creators and brands for 2027.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 7/10
+Research Quality: 6/10
+Originality: 8/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 8/10
+Overall Opportunity: 80/100
+━━━━━━━━━━━━━━━━━━━━

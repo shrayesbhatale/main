@@ -1,0 +1,456 @@
+SHRAYES BHATALE | LINKEDIN CONTENT-JACKING BANK
+Batch 2: 3 Nov 2026 to 26 Nov 2026 (P09 to P14)
+Status of every post: draft. Re-open each source link once before posting.
+
+
+POST ID: P09
+SCHEDULED: Tue 3 Nov 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Bloomberg report on Beast Industries investor documents (March 2025), as covered by Fortune and Tubefilter
+SOURCE URL: https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos
+TOPIC: Creator economy × business models
+ANGLE: Business implication (looks like a creator story, is a business model story)
+WHY THIS ANGLE: Every creator knows MrBeast. Few know the videos lose money. The gap between the two is the lesson.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+MrBeast's videos lost money in 2024. His chocolate made money.
+━━━━━━━━━━━━━━━━━━━━
+POST
+MrBeast's videos lost money in 2024. His chocolate made money.
+
+According to investor documents reported by Bloomberg in 2025, MrBeast's media business brought in roughly $250 million in 2024 and lost close to $80 million.
+
+Feastables, his chocolate brand, brought in about the same revenue and earned more than $20 million in profit.
+
+The most-subscribed creator on YouTube ran his content at a loss. The product paid the bills.
+
+Most creators read this as "diversify your income".
+
+I think the lesson runs deeper. The content was never the business. The content was the distribution.
+
+MrBeast spends millions per video to earn attention. Attention costs money. A chocolate bar on a supermarket shelf turns attention into margin every time someone walks past.
+
+Three takeaways for creators and founders:
+• Treat content as customer acquisition, and judge the cost like customer acquisition.
+• Own a product with margin. Ads and brand deals rent your audience to someone else.
+• Pick a product people buy again and again. Chocolate, not a course bought once.
+
+The creator economy talks about monetising content.
+
+The winners monetise trust through a product, and let the content run at break-even or even a loss.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Creators: what would your "Feastables" be?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#CreatorEconomy #Entrepreneurship #Branding
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Simple comparison graphic (make in Canva)
+SOURCE: Bloomberg figures via Fortune
+URL: https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos
+ATTACHMENT ORDER: 1 image only
+WHY: Two columns (Media: ~$250M revenue, ~−$80M. Feastables: ~$250M revenue, +$20M) make the point without text.
+ALT TEXT: Comparison: MrBeast media business about $250 million revenue and $80 million loss in 2024, Feastables about $250 million revenue and $20 million profit. Source: Bloomberg.
+Do not use MrBeast's photos or thumbnails without permission. Use text and numbers only.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Source: Bloomberg report on Beast Industries investor documents, covered by Fortune: https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos
+
+Context: Beast Industries later raised money at a reported $5.2 billion valuation, and leadership has talked about cutting costs. The numbers above are 2024 figures from investor documents, not audited accounts.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "MrBeast's media: ~$250M revenue, ~$80M loss (2024, per Bloomberg). Feastables: similar revenue, $20M+ profit. The content was the distribution. The chocolate was the business."
+INSTAGRAM: Carousel "MrBeast loses money on videos": 5 slides ending with "What's your product?"
+YOUTUBE SHORT: Hinglish. "MrBeast videos pe paisa gawata hai. Chocolate pe kamata hai." 40 seconds.
+NEWSLETTER: "Content as CAC": how to calculate what your content costs per customer.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 7/10
+Originality: 8/10
+POV Strength: 9/10
+Engagement Potential: 9/10
+Media Strength: 6/10
+Overall Opportunity: 85/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P10
+SCHEDULED: Tue 10 Nov 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Dell'Acqua et al., "Navigating the Jagged Technological Frontier" (Harvard Business School working paper with BCG, 2023; later published in Organization Science)
+SOURCE URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321
+TOPIC: AI × management × work quality
+ANGLE: Contrarian (everyone quotes the 40%, the 19 points matter more)
+WHY THIS ANGLE: The study is widely cited for the upside. The downside finding is more useful for managers.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+The riskiest AI failure isn't a wrong answer. The riskiest failure is a wrong answer from a tool you trust.
+━━━━━━━━━━━━━━━━━━━━
+POST
+The riskiest AI failure isn't a wrong answer. The riskiest failure is a wrong answer from a tool you trust.
+
+Harvard and BCG ran one of the most cited AI experiments to date. 758 BCG consultants. Realistic consulting work.
+
+On tasks inside AI's capability, consultants using GPT-4 completed 12.2% more tasks, 25.1% faster, with more than 40% higher quality.
+
+On one task deliberately chosen to sit outside AI's capability, consultants using AI were 19 percentage points less likely to reach the correct answer than consultants without AI.
+
+The researchers call the boundary a "jagged frontier". AI excels at some tasks and fails at neighbouring ones, and the line isn't where you'd guess.
+
+Everyone quotes the 40%.
+
+I think the 19 points matter more.
+
+The consultants didn't fail because AI was bad. They failed because AI was good everywhere else, so they stopped checking.
+
+Trust built on easy tasks carries over to hard ones.
+
+For anyone managing a team using AI:
+• Map your own frontier. List the tasks where AI output needs a full human check.
+• Assign the checking to people with domain expertise.
+• Reward people for catching AI errors, not only for speed.
+
+The skill of the next decade isn't using AI. The skill is knowing where AI stops.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Where have you seen AI confidently wrong in your work?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #Leadership #FutureOfWork
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Diagram (make in Canva or by hand)
+SOURCE: Your own illustration of the concept
+URL: none (original media)
+ATTACHMENT ORDER: 1 image only
+WHY: A jagged line separating "AI strong" and "AI weak" tasks explains the concept faster than words.
+ALT TEXT: Diagram of a jagged boundary line with tasks where AI performs well on one side and tasks where AI performs poorly on the other, placed unpredictably.
+Create: a zig-zag line across the page. Label example tasks on each side, for example "summarise a report" (inside) and "spot a subtle error in numbers" (outside). Title: "The jagged frontier".
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Paper (SSRN): https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321
+HBS summary: https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/
+
+The study used GPT-4 in 2023. Models have improved since, so the frontier moved. The frontier still exists, and the lesson about over-trust still holds.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Inside AI's frontier: 40% higher quality. Outside: 19 points more likely to be wrong. (Harvard/BCG, 758 consultants.) The danger is trust carried from easy tasks to hard ones."
+INSTAGRAM: Carousel "The 19-point problem": 6 slides.
+YOUTUBE SHORT: "AI pe itna bharosa? Harvard ka experiment dekho." Two numbers, one lesson.
+NEWSLETTER: "Map your frontier": a worksheet listing tasks, AI reliability and who checks.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 10/10
+Research Quality: 9/10
+Originality: 8/10
+POV Strength: 9/10
+Engagement Potential: 8/10
+Media Strength: 7/10
+Overall Opportunity: 89/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P11
+SCHEDULED: Thu 12 Nov 2026, 8:30 AM IST
+EVENT NOTE: Coca-Cola released AI-made holiday ads in November 2024 and November 2025. If Coke (or another big brand) releases a 2026 AI holiday ad before this date, update the opening lines with the new release and reaction, then post. If nothing new, post as written.
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Coverage of Coca-Cola's 2025 AI holiday ad (Forbes, 4 Nov 2025; Marketing AI Institute citing The Hollywood Reporter)
+SOURCE URL: https://www.forbes.com/sites/danidiplacido/2025/11/04/coca-cola-sparks-backlash-with-ai-generated-christmas-ad-again/
+TOPIC: AI × branding × consumer psychology
+ANGLE: Practical framework (where AI production helps and hurts a brand)
+WHY THIS ANGLE: Holiday ad season is a recurring news peg. A framework is more useful than another "AI slop" complaint.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+Coca-Cola doesn't sell soda at Christmas. Coca-Cola sells a memory.
+━━━━━━━━━━━━━━━━━━━━
+POST
+Coca-Cola doesn't sell soda at Christmas. Coca-Cola sells a memory.
+
+Which explains the backlash to the company's AI-generated holiday ads, two years in a row, in 2024 and again in 2025.
+
+The 2025 version was made with AI studios Silverside and Secret Level. Coke's head of generative AI told The Hollywood Reporter the "craftsmanship on this ad is ten times better" than the year before.
+
+Better production didn't fix the reaction. Because the reaction was never about production quality.
+
+People don't love the Coke holiday ad for the animation. They love the ad because the ad has run for decades and signals "the season has started". The ritual is the product.
+
+Here's my framework for when AI production hurts a brand:
+• Low risk: performance ads, product shots, variations, localisation. Nobody bonds with a banner.
+• High risk: ritual and heritage moments, where people want proof of human effort.
+
+AI reduces cost. In heritage moments, visible effort is part of the message. Effort signals care.
+
+A rough rule: use AI for the 90% of content nobody remembers. Protect the 10% people remember.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Would you notice, or care, if your favourite brand's festive ad was made with AI?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#Branding #Marketing #AI
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Framework graphic (make in Canva)
+SOURCE: Your own framework
+URL: none (original media)
+ATTACHMENT ORDER: 1 image only
+WHY: A 2-column "Low risk / High risk for AI production" table is saveable and original. Avoid using Coca-Cola's ad frames or logo.
+ALT TEXT: Two-column table titled "Where AI production helps or hurts a brand". Low risk: performance ads, product shots, variations, localisation. High risk: ritual and heritage moments.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Coverage: https://www.forbes.com/sites/danidiplacido/2025/11/04/coca-cola-sparks-backlash-with-ai-generated-christmas-ad-again/
+Quote source (via Marketing AI Institute, citing The Hollywood Reporter): https://www.marketingaiinstitute.com/blog/criticism-ai-coke-holiday-ad
+
+Counterpoint worth stating: backlash online doesn't always equal lost sales. Coke kept investing in AI production. Brands should measure recall and sentiment, not only comment sections.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Use AI for the 90% of content nobody remembers. Protect the 10% people remember. Coke learned the hard way, twice."
+INSTAGRAM: Carousel "When AI ads backfire": the Coke example, the framework, three Indian festive examples to think about (Diwali ads).
+YOUTUBE SHORT: Hinglish. "Diwali ad AI se banaoge? Coke ki galti mat karo."
+NEWSLETTER: "The ritual is the product": why heritage brands need human-made moments.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 7/10
+Research Quality: 6/10
+Originality: 8/10
+POV Strength: 9/10
+Engagement Potential: 9/10
+Media Strength: 7/10
+Overall Opportunity: 82/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P12
+SCHEDULED: Tue 17 Nov 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Brynjolfsson, Li and Raymond, "Generative AI at Work", Quarterly Journal of Economics (2025). Noy and Zhang, Science (2023). Stanford Canaries update (Aug 2026).
+SOURCE URL: https://academic.oup.com/qje/article/140/2/889/7990658
+TOPIC: AI × skills × hiring
+ANGLE: Connection (two studies + a paradox)
+WHY THIS ANGLE: The research says AI helps beginners most. Hiring data says beginners get hired less. Holding both facts together is original and invites debate.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+AI helps beginners most. So why are companies hiring fewer beginners?
+━━━━━━━━━━━━━━━━━━━━
+POST
+AI helps beginners most. So why are companies hiring fewer beginners?
+
+Two of the most solid AI productivity studies point the same way.
+
+Customer support (Brynjolfsson, Li and Raymond, Quarterly Journal of Economics, 2025): 5,179 agents. AI assistance raised issues resolved per hour by 14% on average. For novice and low-skilled agents: 34%. For the most experienced: minimal gains.
+
+Professional writing (Noy and Zhang, Science, 2023): 453 professionals. ChatGPT cut time by 40% and raised quality by 18%. The weakest writers gained most.
+
+The mechanism: AI packages what top performers know and hands the package to everyone.
+
+AI compresses the skill gap. Beginners perform closer to experts.
+
+Now the paradox. Stanford's payroll research shows fewer hires of 22 to 25 year olds in AI-exposed jobs.
+
+If AI makes juniors almost as good as seniors, why hire fewer juniors?
+
+My read: companies measure output, not learning. AI lifts a junior's output. AI also lifts a senior's output, and the senior already has judgment. In the short run the cheaper path to output wins.
+
+The long-run cost arrives later, when nobody has learned the job the slow way.
+
+If you're early in your career: use AI to speed up learning, not to skip learning. Ask the tool to explain, not only to answer.
+
+If you lead a team: your best people's knowledge is now a transferable asset. Capture the knowledge on purpose.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Does AI make juniors more valuable or less? I go back and forth.
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #FutureOfWork #Leadership
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Custom chart (make in Canva)
+SOURCE: Brynjolfsson, Li and Raymond (QJE 2025)
+URL: https://www.nber.org/papers/w31161
+ATTACHMENT ORDER: 1 image only
+WHY: Two bars (novices +34%, average +14%) plus a note "experienced: minimal" shows compression at a glance.
+ALT TEXT: Bar chart: AI assistance raised productivity 34% for novice support agents and 14% on average, with minimal gains for the most experienced. Source: Brynjolfsson, Li and Raymond, 2025.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Sources:
+Generative AI at Work (QJE 2025): https://academic.oup.com/qje/article/140/2/889/7990658
+Noy and Zhang (Science 2023): https://www.science.org/doi/10.1126/science.adh2586
+Stanford Canaries (Aug 2026): https://digitaleconomy.stanford.edu/news/canariesaug26/
+
+The support study used an older model and one company. The writing study used short, standardised tasks. Both results have held up well in follow-up discussion, but check newer work before quoting as settled.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "AI helps novices +34%, experts barely. Yet firms hire fewer 22 to 25 year olds in AI-exposed jobs. Companies measure output, not learning."
+INSTAGRAM: Carousel "The junior paradox": 6 slides.
+YOUTUBE SHORT: "AI freshers ko sabse zyada help karta hai. Phir bhi freshers ki hiring kam. Kyun?"
+NEWSLETTER: "Capture your best people's knowledge": a playbook for turning top performers' habits into shared prompts and checklists.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 10/10
+Research Quality: 9/10
+Originality: 9/10
+POV Strength: 8/10
+Engagement Potential: 9/10
+Media Strength: 6/10
+Overall Opportunity: 90/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P13
+SCHEDULED: Tue 24 Nov 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Goh et al., "Large Language Model Influence on Diagnostic Reasoning: A Randomized Clinical Trial", JAMA Network Open (Oct 2024)
+SOURCE URL: https://pubmed.ncbi.nlm.nih.gov/39466245/
+TOPIC: AI × healthcare × human-AI collaboration
+ANGLE: Contrarian (the finding is stranger than "AI beats doctors")
+WHY THIS ANGLE: Healthcare × technology is part of the positioning. The human-machine interface lesson applies to every industry.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+Doctors with GPT-4 scored 76%. Doctors without scored 74%. GPT-4 alone scored higher than both.
+━━━━━━━━━━━━━━━━━━━━
+POST
+Doctors with GPT-4 scored 76%. Doctors without scored 74%. GPT-4 alone scored higher than both.
+
+The study: a randomized trial in JAMA Network Open (Goh et al., 2024). 50 physicians. Complex clinical cases.
+
+Half got GPT-4 plus their usual resources. Half used usual resources only.
+
+Median diagnostic reasoning score:
+• With GPT-4: 76%
+• Without: 74%
+The difference wasn't statistically significant.
+
+Then the researchers ran GPT-4 alone. The model scored 16 percentage points higher than the physicians using conventional resources.
+
+Headline version: "AI beats doctors."
+
+I think the finding is stranger and more useful. Giving experts a strong tool barely moved their results. The tool alone beat the experts holding the tool.
+
+Why? A few plausible reasons. Hypotheses, not findings:
+• Doctors used GPT-4 like a search engine, not like a colleague.
+• When the model disagreed with them, they trusted themselves.
+• Nobody trained them to work with the tool.
+
+The authors themselves point to technology and workforce development as the need.
+
+The bottleneck in AI adoption, in healthcare and everywhere else, is the interface between an expert and the machine. Workflow. Training. Trust calibration.
+
+Buying the tool is the easy part.
+
+Teaching experts to change their minds when a tool is right is the hard part.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+Doctors and clinicians: how do you use AI in practice today, if at all?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#HealthTech #AI #Healthcare
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Custom chart (make in Canva)
+SOURCE: Goh et al., JAMA Network Open 2024
+URL: https://pubmed.ncbi.nlm.nih.gov/39466245/
+ATTACHMENT ORDER: 1 image only
+WHY: Three bars (74, 76, and "LLM alone: +16 points vs 74") make the paradox visual.
+ALT TEXT: Bar chart: physicians without GPT-4 scored a median 74%, physicians with GPT-4 scored 76%, and GPT-4 alone scored 16 percentage points higher than physicians without it. Source: JAMA Network Open, 2024.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Study: JAMA Network Open, Goh et al., 2024. PubMed: https://pubmed.ncbi.nlm.nih.gov/39466245/
+
+Limits: 50 physicians, case vignettes rather than live patients, and GPT-4 from 2024. The "LLM alone" arm was a secondary analysis. The point here is the collaboration gap, not a verdict on AI vs doctors.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Doctors + GPT-4: 76%. Doctors alone: 74%. GPT-4 alone: 16 points above doctors alone. The bottleneck isn't the model. The bottleneck is the handoff."
+INSTAGRAM: Carousel "Why AI didn't help doctors": 6 slides.
+YOUTUBE SHORT: Three numbers on screen. "Tool mil gaya, fayda nahi hua. Kyun?"
+NEWSLETTER: "Trust calibration": how experts should decide when to overrule AI.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 10/10
+Research Quality: 9/10
+Originality: 8/10
+POV Strength: 8/10
+Engagement Potential: 8/10
+Media Strength: 6/10
+Overall Opportunity: 87/100
+━━━━━━━━━━━━━━━━━━━━
+
+
+POST ID: P14
+SCHEDULED: Thu 26 Nov 2026, 8:30 AM IST
+━━━━━━━━━━━━━━━━━━━━
+CONTENT JACKING POST
+SOURCE: Klarna press release (27 Feb 2024). Siemiatkowski interview with Bloomberg (May 2025), as reported by Entrepreneur and Forbes.
+SOURCE URL: https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/
+TOPIC: AI × customer experience × branding
+ANGLE: Disagreement (the story is a metric failure, not an AI failure)
+WHY THIS ANGLE: Klarna became the go-to "AI failed" anecdote. A more precise reading is more useful to operators.
+━━━━━━━━━━━━━━━━━━━━
+HOOK
+In 2024 Klarna said AI did the work of 700 agents. In 2025 Klarna started hiring humans again.
+━━━━━━━━━━━━━━━━━━━━
+POST
+In 2024 Klarna said AI did the work of 700 agents. In 2025 Klarna started hiring humans again.
+
+February 2024: Klarna announced its AI assistant handled 2.3 million conversations in its first month. Two thirds of customer service chats. The equivalent work of 700 full-time agents.
+
+May 2025: CEO Sebastian Siemiatkowski told Bloomberg: "As cost unfortunately seems to have been a too predominant evaluation factor when organizing this, what you end up having is lower quality."
+
+Klarna then moved to a hybrid model and began recruiting human agents, so customers always have the option to reach a person.
+
+Most commentary framed this as "AI failed".
+
+I don't read the story as an AI failure. I read the story as a metric failure.
+
+Klarna optimised support for cost. Customers judge support on one question: did my problem get solved, and did I feel respected?
+
+When the metric is cost, AI wins every time. When the metric is trust, the answer depends on the problem.
+
+A better design:
+• AI for routine, low-stakes, high-volume questions.
+• Humans for money disputes, complaints and anything emotional.
+• A visible, fast path from bot to human.
+
+Automation doesn't damage brands. Automation aimed at the wrong metric does.
+━━━━━━━━━━━━━━━━━━━━
+CTA
+What's the one support situation where you'd never want a bot?
+━━━━━━━━━━━━━━━━━━━━
+HASHTAGS
+#AI #CustomerExperience #Branding
+━━━━━━━━━━━━━━━━━━━━
+MEDIA
+TYPE: Timeline graphic (make in Canva)
+SOURCE: Klarna press release and Bloomberg interview
+URL: https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/
+ATTACHMENT ORDER: 1 image only
+WHY: A two-point timeline (Feb 2024 "700 agents" → May 2025 "lower quality") tells the arc at a glance.
+ALT TEXT: Timeline: February 2024, Klarna says AI does the work of 700 agents. May 2025, Klarna's CEO says focusing on cost led to lower quality and the company starts hiring human agents again.
+━━━━━━━━━━━━━━━━━━━━
+FIRST COMMENT
+Sources:
+Klarna press release (Feb 2024): https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/
+Entrepreneur on the reversal: https://www.entrepreneur.com/business-news/klarna-ceo-reverses-course-by-hiring-more-humans-not-ai/491396
+
+Fair to note: Klarna still uses AI for a large share of conversations. The change was a rebalancing, not a full retreat.
+━━━━━━━━━━━━━━━━━━━━
+REPURPOSING
+X: "Klarna didn't prove AI fails at support. Klarna proved cost is the wrong metric for support."
+INSTAGRAM: Reel with the two headlines, then your three-line design.
+YOUTUBE SHORT: "700 logon ka kaam AI ne kiya. Ek saal baad insaan wapas." Story format.
+NEWSLETTER: "Pick the right metric before you automate": examples from support, sales and HR.
+━━━━━━━━━━━━━━━━━━━━
+QUALITY SCORE
+Source Quality: 8/10
+Research Quality: 7/10
+Originality: 8/10
+POV Strength: 9/10
+Engagement Potential: 9/10
+Media Strength: 6/10
+Overall Opportunity: 84/100
+━━━━━━━━━━━━━━━━━━━━

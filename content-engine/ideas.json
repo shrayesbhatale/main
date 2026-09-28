@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "idea_id": "EV-A",
+    "type": "event_slot",
+    "event": "CES 2027 (6-9 Jan 2027)",
+    "scheduled_for": "Thu 7 Jan 2027",
+    "status": "write with TREND JACK during event week",
+    "file": "drafts/2027-01.txt"
+  },
+  {
+    "idea_id": "EV-B",
+    "type": "event_slot",
+    "event": "Union Budget 2027-28 (expected 1 Feb 2027)",
+    "scheduled_for": "Tue 2 Feb 2027",
+    "status": "write on budget day with TREND JACK",
+    "file": "drafts/2027-02.txt"
+  },
+  {
+    "idea_id": "EV-C",
+    "type": "event_slot",
+    "event": "NVIDIA GTC 2027 (15-18 Mar 2027)",
+    "scheduled_for": "Wed 17 Mar 2027",
+    "status": "write after keynote with TREND JACK",
+    "file": "drafts/2027-03-04.txt"
+  },
+  {
+    "idea_id": "EV-D",
+    "type": "event_slot",
+    "event": "200-day review",
+    "scheduled_for": "Tue 13 Apr 2027",
+    "status": "run ANALYZE PERFORMANCE first",
+    "file": "drafts/2027-03-04.txt"
+  },
+  {
+    "idea_id": "BL-01",
+    "type": "backlog",
+    "title": "Pew global survey (17 Sep 2026): more people expect AI job loss than growth in most of 37 countries",
+    "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+    "status": "backup post"
+  },
+  {
+    "idea_id": "BL-02",
+    "type": "backlog",
+    "title": "Anthropic Economic Index 2026 reports: shift between automation and augmentation, India's coding-heavy usage",
+    "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+    "status": "needs verification of India figures before use"
+  },
+  {
+    "idea_id": "BL-03",
+    "type": "backlog",
+    "title": "Aneesh Raman NYT op-ed (May 2025): 'I See the Bottom Rung of the Career Ladder Breaking'",
+    "url": "https://www.fastcompany.com/91375183/linkedin-aneesh-raman-ai-career-ladders",
+    "status": "backup post, pairs with P01"
+  },
+  {
+    "idea_id": "BL-04",
+    "type": "backlog",
+    "title": "McDonald's pulled an AI-generated Christmas ad after backlash (2025)",
+    "url": "https://www.techradar.com/ai-platforms-assistants/mcdonalds-pulls-ai-generated-christmas-ad-after-backlash-over-soulless-visuals-and-holiday-chaos",
+    "status": "backup, pairs with P11"
+  }
+]
