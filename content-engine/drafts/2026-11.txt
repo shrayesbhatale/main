@@ -47,6 +47,7 @@ HASHTAGS
 #CreatorEconomy #Entrepreneurship #Branding
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P09.png (alt text in content-engine/media/media-index.txt)
 TYPE: Simple comparison graphic (make in Canva)
 SOURCE: Bloomberg figures via Fortune
 URL: https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos
@@ -123,6 +124,7 @@ HASHTAGS
 #AI #Leadership #FutureOfWork
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P10.png (alt text in content-engine/media/media-index.txt)
 TYPE: Diagram (make in Canva or by hand)
 SOURCE: Your own illustration of the concept
 URL: none (original media)
@@ -194,6 +196,7 @@ HASHTAGS
 #Branding #Marketing #AI
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P11.png (alt text in content-engine/media/media-index.txt)
 TYPE: Framework graphic (make in Canva)
 SOURCE: Your own framework
 URL: none (original media)
@@ -269,6 +272,7 @@ HASHTAGS
 #AI #FutureOfWork #Leadership
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P12.png (alt text in content-engine/media/media-index.txt)
 TYPE: Custom chart (make in Canva)
 SOURCE: Brynjolfsson, Li and Raymond (QJE 2025)
 URL: https://www.nber.org/papers/w31161
@@ -352,6 +356,7 @@ HASHTAGS
 #HealthTech #AI #Healthcare
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P13.png (alt text in content-engine/media/media-index.txt)
 TYPE: Custom chart (make in Canva)
 SOURCE: Goh et al., JAMA Network Open 2024
 URL: https://pubmed.ncbi.nlm.nih.gov/39466245/
@@ -425,6 +430,7 @@ HASHTAGS
 #AI #CustomerExperience #Branding
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P14.png (alt text in content-engine/media/media-index.txt)
 TYPE: Timeline graphic (make in Canva)
 SOURCE: Klarna press release and Bloomberg interview
 URL: https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/

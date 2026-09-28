@@ -45,6 +45,7 @@ HASHTAGS
 #FutureOfWork #AI #Careers
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P21.png (alt text in content-engine/media/media-index.txt)
 TYPE: Three-panel graphic (make in Canva)
 SOURCE: WEF, Axios, Stanford
 URL: see first comment
@@ -139,6 +140,7 @@ HASHTAGS
 #HealthTech #AI #Healthcare
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P22.png (alt text in content-engine/media/media-index.txt)
 TYPE: Custom chart (make in Canva)
 SOURCE: Lancet Gastroenterology & Hepatology abstract figures
 URL: https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract
@@ -217,6 +219,7 @@ HASHTAGS
 #ConsumerPsychology #ProductDesign #AI
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P23.png (alt text in content-engine/media/media-index.txt)
 TYPE: Original photo
 SOURCE: Your own photo
 URL: none (original media)
@@ -295,6 +298,7 @@ HASHTAGS
 #AI #Leadership #FutureOfWork
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P25.png (alt text in content-engine/media/media-index.txt)
 TYPE: Quote card (make in Canva)
 SOURCE: Lütke memo line
 URL: https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html
@@ -373,6 +377,7 @@ HASHTAGS
 #HealthTech #AI #Healthcare
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P24.png (alt text in content-engine/media/media-index.txt)
 TYPE: Custom chart (make in Canva)
 SOURCE: Ayers et al. 2023
 URL: https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions
@@ -449,6 +454,7 @@ HASHTAGS
 #ConsumerProtection #ProductDesign #India
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P26.png (alt text in content-engine/media/media-index.txt)
 TYPE: Screenshot collage from your own phone
 SOURCE: Your own app screenshots
 URL: none (original media)

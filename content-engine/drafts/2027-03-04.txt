@@ -47,6 +47,7 @@ HASHTAGS
 #AI #Startups #Teamwork
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P32.png (alt text in content-engine/media/media-index.txt)
 TYPE: 2x2 grid graphic (make in Canva)
 SOURCE: Study design
 URL: https://www.nber.org/papers/w33641
@@ -123,6 +124,7 @@ HASHTAGS
 #Marketing #Branding #AI
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P33.png (alt text in content-engine/media/media-index.txt)
 TYPE: Simple chart (make in Canva)
 SOURCE: Binet and Field's model
 URL: https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it
@@ -194,6 +196,7 @@ HASHTAGS
 #Branding #AI #Communication
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P34.png (alt text in content-engine/media/media-index.txt)
 TYPE: Screenshot of von Ahn's LinkedIn post
 SOURCE: Luis von Ahn's public LinkedIn post (May 2025)
 URL: search "Luis von Ahn AI memo" on LinkedIn, then take the post URL
@@ -285,6 +288,7 @@ HASHTAGS
 #AI #ContentCreation #Learning
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P35.png (alt text in content-engine/media/media-index.txt)
 TYPE: Research-paper screenshot
 SOURCE: arXiv abstract page
 URL: https://arxiv.org/abs/2506.08872
@@ -360,6 +364,7 @@ HASHTAGS
 #ConsumerPsychology #Marketing #ProductDesign
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P36.png (alt text in content-engine/media/media-index.txt)
 TYPE: Two-panel graphic (make in Canva)
 SOURCE: Study figures
 URL: https://www.jasoncollins.blog/posts/not-the-jam-study-again
@@ -433,6 +438,7 @@ HASHTAGS
 #HealthTech #India #AI
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P37.png (alt text in content-engine/media/media-index.txt)
 TYPE: Stat graphic (make in Canva)
 SOURCE: Rural specialist data and eSanjeevani study
 URL: https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full
@@ -509,6 +515,7 @@ HASHTAGS
 #AI #ContentCreation #Writing
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P38.png (alt text in content-engine/media/media-index.txt)
 TYPE: Mini quiz image (make in Canva)
 SOURCE: Your own design
 URL: none (original media)
@@ -517,7 +524,7 @@ WHY: Two short stanzas labelled A and B ("One is Shakespeare, one is AI. Which?"
 ALT TEXT: Two short poem excerpts labelled A and B with the question "Which one is AI?"
 ━━━━━━━━━━━━━━━━━━━━
 FIRST COMMENT
-Answer to the quiz: [fill in A or B].
+Answer to the quiz: A was written by AI for this post. B is Shakespeare, Sonnet 73.
 
 Paper (open access): https://www.nature.com/articles/s41598-024-76900-1
 
@@ -583,6 +590,7 @@ HASHTAGS
 #AI #Trust #SocialMedia
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P39.png (alt text in content-engine/media/media-index.txt)
 TYPE: Text card (make in Canva)
 SOURCE: Your own line
 URL: none (original media)

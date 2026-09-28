@@ -52,6 +52,7 @@ HASHTAGS
 #AI #FutureOfWork #Careers
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P01.png (alt text in content-engine/media/media-index.txt)
 TYPE: Chart screenshot
 SOURCE: Stanford Digital Economy Lab, Canaries August 2026 PDF
 URL: https://digitaleconomy.stanford.edu/app/uploads/2026/08/Canaries_August2026.pdf
@@ -130,6 +131,7 @@ HASHTAGS
 #AI #Marketing #Branding
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P02.png (alt text in content-engine/media/media-index.txt)
 TYPE: Custom chart (make in Canva)
 SOURCE: Pew Research Center data
 URL: https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/
@@ -209,6 +211,7 @@ HASHTAGS
 #AI #DigitalTransformation #Leadership
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P03.png (alt text in content-engine/media/media-index.txt)
 TYPE: Simple diagram (make in Canva)
 SOURCE: Microsoft Work Trend Index 2026 figures
 URL: https://news.microsoft.com/annual-work-trend-index-2026/
@@ -292,6 +295,7 @@ HASHTAGS
 #Marketing #AI #CreatorEconomy
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P04.png (alt text in content-engine/media/media-index.txt)
 TYPE: Screenshot of your own test
 SOURCE: Your own ChatGPT or Gemini session
 URL: none (original media)
@@ -370,6 +374,7 @@ HASHTAGS
 #UPI #ConsumerBehaviour #Fintech
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P05.png (alt text in content-engine/media/media-index.txt)
 TYPE: Stat card (make in Canva)
 SOURCE: NPCI data via Business Standard
 URL: https://www.business-standard.com/finance/news/upi-transactions-august-2026-record-volume-npci-126090100506_1.html
@@ -444,6 +449,7 @@ HASHTAGS
 #PersonalBranding #Trust #Marketing
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P06.png (alt text in content-engine/media/media-index.txt)
 TYPE: Quote-style stat card
 SOURCE: Edelman Trust Barometer 2026
 URL: https://www.edelman.com/trust/2026/trust-barometer
@@ -493,9 +499,9 @@ In 2024 Sam Altman described a betting pool in his group chat of tech CEOs for "
 
 In 2026 the media found a candidate. Medvi, a GLP-1 telehealth company started from a Los Angeles home with $20,000 and more than a dozen AI tools. $401 million in sales in its first full year. Tracking toward $1.8 billion in 2026, per reports.
 
-Then the other half of the story arrived.
+The other half of the story was already on the public record.
 
-The FDA sent Medvi a warning letter on 20 February 2026 over false or misleading claims about compounded GLP-1 products. Reporters and online sleuths flagged ads with allegedly fake doctor profiles and a before-and-after photo allegedly taken from a Reddit user.
+On 20 February 2026, the FDA had sent Medvi a warning letter over false or misleading claims about compounded GLP-1 products. After the celebratory coverage, reporters and online sleuths flagged ads with allegedly fake doctor profiles and a before-and-after photo allegedly taken from a Reddit user.
 
 Allegations, not verdicts. But the lesson doesn't need a verdict.
 
@@ -516,6 +522,7 @@ HASHTAGS
 #AI #Startups #Entrepreneurship
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P07.png (alt text in content-engine/media/media-index.txt)
 TYPE: Two-panel image (make in Canva)
 SOURCE: Headlines from PYMNTS and Moneywise
 URL: https://www.pymnts.com/news/artificial-intelligence/2026/the-one-person-billion-dollar-company-is-here/ and https://moneywise.com/news/top-stories/a-18-billion-startup-with-just-2-employees-was-hailed-as-the-future-now-the-negative-allegations-are-piling-up
@@ -534,9 +541,9 @@ Altman quote (Fortune, Feb 2024): https://fortune.com/2024/02/04/sam-altman-one-
 Revenue figures come from press reports, not audited filings. The FDA letter is public on the FDA website: search "Medvi warning letter".
 ━━━━━━━━━━━━━━━━━━━━
 REPURPOSING
-X: "The one-person unicorn is real. The one-person risk team is the part nobody pitches." Thread: Altman quote, Medvi numbers, FDA letter, lesson.
+X: "The one-person unicorn is real. The one-person risk team is the part nobody pitches." Thread: Altman quote, Medvi numbers, the earlier FDA letter, the later allegations, lesson.
 INSTAGRAM: Carousel "The first one-person unicorn has a problem": 6 slides.
-YOUTUBE SHORT: "Ek aadmi, ek billion dollar company. Phir FDA ka letter aaya." Story format, 45 seconds.
+YOUTUBE SHORT: "Ek aadmi, ek billion dollar company. Aur FDA ka warning letter pehle se tha." Story format, 45 seconds.
 NEWSLETTER: "Budget for judgment": what a lean AI startup should never automate.
 ━━━━━━━━━━━━━━━━━━━━
 QUALITY SCORE
@@ -597,6 +604,7 @@ HASHTAGS
 #AI #Productivity #SoftwareEngineering
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P08.png (alt text in content-engine/media/media-index.txt)
 TYPE: Custom chart (make in Canva)
 SOURCE: METR July 2025 study
 URL: https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/

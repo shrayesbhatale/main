@@ -1,0 +1,130 @@
+SHRAYES BHATALE | MEDIA FOR THE 200-DAY BANK
+
+38 ready-to-post images, one per post, 1080x1350 (4:5, best size for the LinkedIn feed), exported at 2x for sharpness.
+All images are original graphics built from the verified numbers in each draft. No copyrighted photos, logos or screenshots of other people's work.
+
+Upload the PNG with the post, then paste the alt text into LinkedIn's 'Alt text' field.
+
+NO IMAGE MADE
+P20: the post is about proving you're real. Use your own unedited phone photo.
+EV-A to EV-D: event slots. Make images on the day, after the event.
+
+To change a number or headline: edit generator/specs.js and run `node content-engine/media/generator/render.js content-engine/media P05` from the repo root (needs Node and Playwright, both in the cloud session).
+
+P01  ->  media/P01.png
+  ALT TEXT: Stat card: employment of 22 to 25 year olds in the most AI-exposed jobs is 19% below trend, experienced workers show no comparable decline, and fewer hires rather than more firings drive the gap. Source: Stanford Digital Economy Lab, Aug 2026.
+
+P02  ->  media/P02.png
+  ALT TEXT: Bar chart: share of US adults more concerned than excited about AI rose from 37% in 2021 to 52% in 2026. Under-30s: 55%. Source: Pew Research Center.
+
+P03  ->  media/P03.png
+  ALT TEXT: Split bar: 67% of AI's real impact at work traced to organisational factors, 32% to individual capability. Source: Microsoft Work Trend Index 2026.
+
+P04  ->  media/P04.png
+  ALT TEXT: Stat card: 52% of 18 to 24 year olds get news mainly from social media, video or AI. 10% use AI chatbots for news weekly. 1% call AI their main source. Source: Reuters Institute 2026.
+  NOTE: Optional second image. The primary image is still your own screenshot of a chatbot answering a question about your niche.
+
+P05  ->  media/P05.png
+  ALT TEXT: Stat card: 24.51 billion UPI transactions in August 2026 and an average payment of about ₹1,217, down from about ₹1,263 in July. Source: NPCI.
+
+P06  ->  media/P06.png
+  ALT TEXT: Stat card: 7 in 10 hesitate to trust people with different values or information sources. Bar chart of trust: my employer 78%, business 64%, government 53%. Source: Edelman 2026.
+
+P07  ->  media/P07.png
+  ALT TEXT: Two news headlines about the same company: 'The One-Person Billion-Dollar Company Is Here' from PYMNTS and 'A $1.8 billion startup with just 2 employees was hailed as the future. Now, the negative allegations are piling up' from Moneywise.
+
+P08  ->  media/P08.png
+  ALT TEXT: Bar chart: developers expected AI to make them 24% faster, felt 20% faster afterwards, and were measured 19% slower. Source: METR, 2025.
+
+P09  ->  media/P09.png
+  ALT TEXT: Bar chart: in 2024 MrBeast's media business lost about $80 million while Feastables chocolate made about $20 million profit, each on roughly $250 million revenue. Source: Bloomberg.
+
+P10  ->  media/P10.png
+  ALT TEXT: Diagram of a jagged line separating tasks where AI is strong from tasks where AI is weak, with stats: inside the frontier 40% higher quality, outside 19 points less likely to be correct.
+
+P11  ->  media/P11.png
+  ALT TEXT: Two-column framework. Lower risk for AI production: performance ads, product shots, variations, localisation. Higher risk: heritage and ritual moments, festive ads, nostalgia, moments where effort signals care.
+
+P12  ->  media/P12.png
+  ALT TEXT: Horizontal bar chart: AI assistance raised support agents' productivity 34% for novices, 14% on average, and minimally for the most experienced. Source: QJE 2025.
+
+P13  ->  media/P13.png
+  ALT TEXT: Bar chart: doctors with usual resources scored 74%, doctors with GPT-4 scored 76%, and GPT-4 alone scored 16 points higher than doctors alone. Source: JAMA Network Open 2024.
+
+P14  ->  media/P14.png
+  ALT TEXT: Timeline: February 2024, Klarna says AI does the work of 700 agents. May 2025, Klarna's CEO says a focus on cost led to lower quality.
+
+P15  ->  media/P15.png
+  ALT TEXT: Two panels: in 2015 people abandoned an algorithm after seeing it err. In 2018, letting people adjust the forecast slightly made them use the algorithm more.
+
+P16  ->  media/P16.png
+  ALT TEXT: Stat card: Indian creators shape $350 to 400 billion of consumer spending, there are 2 to 2.5 million active creators, and only 8 to 10% monetise effectively. Source: BCG 2025.
+
+P17  ->  media/P17.png
+  ALT TEXT: Two panels: more confidence in AI goes with less critical thinking, more confidence in yourself goes with more critical thinking. Source: Microsoft Research and CMU, CHI 2025.
+
+P18  ->  media/P18.png
+  ALT TEXT: Quote card: 'Code and media are permissionless leverage.' Naval Ravikant, 2018.
+
+P19  ->  media/P19.png
+  ALT TEXT: Numbered list titled 'What won't change in 2027' with five constants, and a Jeff Bezos quote from 2012.
+
+P21  ->  media/P21.png
+  ALT TEXT: Three panels: forecast, WEF +78 million net jobs by 2030. Warning, Dario Amodei, half of entry-level white-collar jobs at risk. Data, Stanford, young workers in AI-exposed jobs 19% below trend.
+
+P22  ->  media/P22.png
+  ALT TEXT: Bar chart: adenoma detection rate without AI fell from 28.4% before AI rollout to 22.4% after. Source: Lancet Gastroenterology & Hepatology 2025.
+
+P23  ->  media/P23.png
+  ALT TEXT: Two panels explaining the IKEA effect: people value what they build, but only when they finish.
+  NOTE: Alternative to the photo of something you built yourself. Use either.
+
+P24  ->  media/P24.png
+  ALT TEXT: Bar chart: physicians' answers to patient questions averaged 52 words, ChatGPT's averaged 211 words. Source: JAMA Internal Medicine 2023.
+
+P25  ->  media/P25.png
+  ALT TEXT: Quote card: 'Reflexive AI usage is now a baseline expectation at Shopify.' Tobi Lütke, April 2025.
+
+P26  ->  media/P26.png
+  ALT TEXT: Numbered list of the 13 dark patterns banned in India's 2023 guidelines, with a note that 97% of major platforms still used manipulative design in 2025.
+
+P27  ->  media/P27.png
+  ALT TEXT: Quote card with Andrej Karpathy's February 2025 post coining 'vibe coding', noting Collins named it Word of the Year 2025.
+
+P28  ->  media/P28.png
+  ALT TEXT: Checklist: before sharing an 'AI beats experts' headline, ask which tasks, what the humans were allowed to use, and which errors weren't measured.
+
+P29  ->  media/P29.png
+  ALT TEXT: Two panels: a purpose-built therapy chatbot in a trial reduced symptoms, while heavy general chatbot use correlated with more loneliness.
+
+P30  ->  media/P30.png
+  ALT TEXT: Quote card: 'The real benchmark is: the world growing at 10%.' Satya Nadella, February 2025.
+
+P31  ->  media/P31.png
+  ALT TEXT: Illustration of an orange goldfish with a 'NO SOURCE' stamp, under the headline questioning the 8-second attention span claim.
+
+P32  ->  media/P32.png
+  ALT TEXT: Two-by-two grid comparing individuals and pairs with and without AI, highlighting that an individual with AI matched a team without AI. Source: NBER 2025.
+
+P33  ->  media/P33.png
+  ALT TEXT: Illustrative chart: short orange spikes for sales activation and a rising blue curve for brand building over time.
+
+P34  ->  media/P34.png
+  ALT TEXT: Quote card from Duolingo CEO Luis von Ahn: 'I do not see AI as replacing what our employees do.'
+
+P35  ->  media/P35.png
+  ALT TEXT: Three panels ranking brain connectivity while writing: brain only strongest, search engine moderate, ChatGPT weakest with lowest ownership and recall.
+
+P36  ->  media/P36.png
+  ALT TEXT: Left: jam study bar chart, 3% of tasters bought from 24 jams vs 30% from 6. Right: a 2010 meta-analysis of 50 experiments found an average effect near zero.
+
+P37  ->  media/P37.png
+  ALT TEXT: Stat card: about 80% of rural specialist posts unfilled, 282 million eSanjeevani teleconsultations, about 12 million assisted by AI decision support.
+  NOTE: Re-check the 282 million and 12 million figures in the medRxiv paper before posting.
+
+P38  ->  media/P38.png
+  ALT TEXT: Two four-line poems labelled A and B with the question 'One is Shakespeare. One is AI. Which?'
+  NOTE: Answer: A is AI-written (created for this post). B is Shakespeare, Sonnet 73, lines 1 to 4.
+
+P39  ->  media/P39.png
+  ALT TEXT: Text card: 'When persuasion becomes cheap, identity becomes valuable.'

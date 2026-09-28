@@ -50,6 +50,7 @@ HASHTAGS
 #AI #ProductDesign #ConsumerPsychology
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P15.png (alt text in content-engine/media/media-index.txt)
 TYPE: Screenshot of paper title and abstract
 SOURCE: Management Science 2018 paper (free PDF on Wharton faculty site)
 URL: https://faculty.wharton.upenn.edu/wp-content/uploads/2016/08/Dietvorst-Simmons-Massey-2018.pdf
@@ -128,6 +129,7 @@ HASHTAGS
 #CreatorEconomy #India #PersonalBranding
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P16.png (alt text in content-engine/media/media-index.txt)
 TYPE: Stat graphic (make in Canva)
 SOURCE: BCG report figures
 URL: https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy
@@ -205,6 +207,7 @@ HASHTAGS
 #AI #CriticalThinking #Productivity
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P17.png (alt text in content-engine/media/media-index.txt)
 TYPE: Research-paper screenshot
 SOURCE: Microsoft Research PDF
 URL: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf
@@ -287,6 +290,7 @@ HASHTAGS
 #Entrepreneurship #AI #PersonalBranding
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P18.png (alt text in content-engine/media/media-index.txt)
 TYPE: Quote card (make in Canva)
 SOURCE: Naval's tweet text
 URL: https://nav.al/rich
@@ -361,6 +365,7 @@ HASHTAGS
 #Strategy #Entrepreneurship #AI
 ━━━━━━━━━━━━━━━━━━━━
 MEDIA
+READY IMAGE: content-engine/media/P19.png (alt text in content-engine/media/media-index.txt)
 TYPE: Text card (make in Canva)
 SOURCE: Your own list
 URL: none (original media)

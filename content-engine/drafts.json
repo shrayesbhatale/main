@@ -12,7 +12,12 @@
       "#FutureOfWork",
       "#Careers"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P01.png",
+        "alt_text": "Stat card: employment of 22 to 25 year olds in the most AI-exposed jobs is 19% below trend, experienced workers show no comparable decline, and fewer hires rather than more firings drive the gap. Source: Stanford Digital Economy Lab, Aug 2026."
+      }
+    ],
     "source_links": [
       "https://digitaleconomy.stanford.edu/news/canariesaug26/"
     ],
@@ -39,7 +44,12 @@
       "#Marketing",
       "#Branding"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P02.png",
+        "alt_text": "Bar chart: share of US adults more concerned than excited about AI rose from 37% in 2021 to 52% in 2026. Under-30s: 55%. Source: Pew Research Center."
+      }
+    ],
     "source_links": [
       "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/"
     ],
@@ -66,7 +76,12 @@
       "#DigitalTransformation",
       "#Leadership"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P03.png",
+        "alt_text": "Split bar: 67% of AI's real impact at work traced to organisational factors, 32% to individual capability. Source: Microsoft Work Trend Index 2026."
+      }
+    ],
     "source_links": [
       "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization"
     ],
@@ -93,7 +108,12 @@
       "#AI",
       "#CreatorEconomy"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P04.png",
+        "alt_text": "Stat card: 52% of 18 to 24 year olds get news mainly from social media, video or AI. 10% use AI chatbots for news weekly. 1% call AI their main source. Source: Reuters Institute 2026."
+      }
+    ],
     "source_links": [
       "https://reutersinstitute.politics.ox.ac.uk/digital-news-report/2026/dnr-executive-summary"
     ],
@@ -120,7 +140,12 @@
       "#ConsumerBehaviour",
       "#Fintech"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P05.png",
+        "alt_text": "Stat card: 24.51 billion UPI transactions in August 2026 and an average payment of about ₹1,217, down from about ₹1,263 in July. Source: NPCI."
+      }
+    ],
     "source_links": [
       "https://www.business-standard.com/finance/news/upi-transactions-august-2026-record-volume-npci-126090100506_1.html"
     ],
@@ -147,7 +172,12 @@
       "#Trust",
       "#Marketing"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P06.png",
+        "alt_text": "Stat card: 7 in 10 hesitate to trust people with different values or information sources. Bar chart of trust: my employer 78%, business 64%, government 53%. Source: Edelman 2026."
+      }
+    ],
     "source_links": [
       "https://www.edelman.com/news-awards/2026-edelman-trust-barometer-society-slides-into-insularity"
     ],
@@ -167,14 +197,19 @@
     "topic": "AI × startups × trust",
     "angle": "Second-order effect + disagreement with the hype",
     "hook": "The first \"one-person billion-dollar company\" arrived. So did the FDA warning letter.",
-    "body": "The first \"one-person billion-dollar company\" arrived. So did the FDA warning letter.\n\nIn 2024 Sam Altman described a betting pool in his group chat of tech CEOs for \"the first year that there is a one-person billion-dollar company.\"\n\nIn 2026 the media found a candidate. Medvi, a GLP-1 telehealth company started from a Los Angeles home with $20,000 and more than a dozen AI tools. $401 million in sales in its first full year. Tracking toward $1.8 billion in 2026, per reports.\n\nThen the other half of the story arrived.\n\nThe FDA sent Medvi a warning letter on 20 February 2026 over false or misleading claims about compounded GLP-1 products. Reporters and online sleuths flagged ads with allegedly fake doctor profiles and a before-and-after photo allegedly taken from a Reddit user.\n\nAllegations, not verdicts. But the lesson doesn't need a verdict.\n\nAI multiplies whatever you point AI at. Ad creative. Customer support. Operations. Also shortcuts.\n\nA tiny team removes the people who used to say \"we shouldn't run this ad\". Compliance. Legal. A sceptical senior marketer.\n\nThose roles slow you down. Those roles also keep you alive.\n\nThe one-person unicorn is real. The one-person risk team is the part nobody pitches.\n\nIf you're building lean with AI, budget for judgment. A fractional compliance advisor costs less than a regulator's attention.",
+    "body": "The first \"one-person billion-dollar company\" arrived. So did the FDA warning letter.\n\nIn 2024 Sam Altman described a betting pool in his group chat of tech CEOs for \"the first year that there is a one-person billion-dollar company.\"\n\nIn 2026 the media found a candidate. Medvi, a GLP-1 telehealth company started from a Los Angeles home with $20,000 and more than a dozen AI tools. $401 million in sales in its first full year. Tracking toward $1.8 billion in 2026, per reports.\n\nThe other half of the story was already on the public record.\n\nOn 20 February 2026, the FDA had sent Medvi a warning letter over false or misleading claims about compounded GLP-1 products. After the celebratory coverage, reporters and online sleuths flagged ads with allegedly fake doctor profiles and a before-and-after photo allegedly taken from a Reddit user.\n\nAllegations, not verdicts. But the lesson doesn't need a verdict.\n\nAI multiplies whatever you point AI at. Ad creative. Customer support. Operations. Also shortcuts.\n\nA tiny team removes the people who used to say \"we shouldn't run this ad\". Compliance. Legal. A sceptical senior marketer.\n\nThose roles slow you down. Those roles also keep you alive.\n\nThe one-person unicorn is real. The one-person risk team is the part nobody pitches.\n\nIf you're building lean with AI, budget for judgment. A fractional compliance advisor costs less than a regulator's attention.",
     "cta": "Founders building lean: who on your team is paid to say no?",
     "hashtags": [
       "#AI",
       "#Startups",
       "#Entrepreneurship"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P07.png",
+        "alt_text": "Two news headlines about the same company: 'The One-Person Billion-Dollar Company Is Here' from PYMNTS and 'A $1.8 billion startup with just 2 employees was hailed as the future. Now, the negative allegations are piling up' from Moneywise."
+      }
+    ],
     "source_links": [
       "https://www.pymnts.com/news/artificial-intelligence/2026/the-one-person-billion-dollar-company-is-here/"
     ],
@@ -201,7 +236,12 @@
       "#Productivity",
       "#SoftwareEngineering"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P08.png",
+        "alt_text": "Bar chart: developers expected AI to make them 24% faster, felt 20% faster afterwards, and were measured 19% slower. Source: METR, 2025."
+      }
+    ],
     "source_links": [
       "https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/"
     ],
@@ -228,7 +268,12 @@
       "#Entrepreneurship",
       "#Branding"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P09.png",
+        "alt_text": "Bar chart: in 2024 MrBeast's media business lost about $80 million while Feastables chocolate made about $20 million profit, each on roughly $250 million revenue. Source: Bloomberg."
+      }
+    ],
     "source_links": [
       "https://fortune.com/2025/03/11/youtube-biggest-star-mrbeast-makes-more-money-chocolate-videos"
     ],
@@ -255,7 +300,12 @@
       "#Leadership",
       "#FutureOfWork"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P10.png",
+        "alt_text": "Diagram of a jagged line separating tasks where AI is strong from tasks where AI is weak, with stats: inside the frontier 40% higher quality, outside 19 points less likely to be correct."
+      }
+    ],
     "source_links": [
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4573321"
     ],
@@ -282,7 +332,12 @@
       "#Marketing",
       "#AI"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P11.png",
+        "alt_text": "Two-column framework. Lower risk for AI production: performance ads, product shots, variations, localisation. Higher risk: heritage and ritual moments, festive ads, nostalgia, moments where effort signals care."
+      }
+    ],
     "source_links": [
       "https://www.forbes.com/sites/danidiplacido/2025/11/04/coca-cola-sparks-backlash-with-ai-generated-christmas-ad-again/"
     ],
@@ -309,7 +364,12 @@
       "#FutureOfWork",
       "#Leadership"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P12.png",
+        "alt_text": "Horizontal bar chart: AI assistance raised support agents' productivity 34% for novices, 14% on average, and minimally for the most experienced. Source: QJE 2025."
+      }
+    ],
     "source_links": [
       "https://academic.oup.com/qje/article/140/2/889/7990658"
     ],
@@ -336,7 +396,12 @@
       "#AI",
       "#Healthcare"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P13.png",
+        "alt_text": "Bar chart: doctors with usual resources scored 74%, doctors with GPT-4 scored 76%, and GPT-4 alone scored 16 points higher than doctors alone. Source: JAMA Network Open 2024."
+      }
+    ],
     "source_links": [
       "https://pubmed.ncbi.nlm.nih.gov/39466245/"
     ],
@@ -363,7 +428,12 @@
       "#CustomerExperience",
       "#Branding"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P14.png",
+        "alt_text": "Timeline: February 2024, Klarna says AI does the work of 700 agents. May 2025, Klarna's CEO says a focus on cost led to lower quality."
+      }
+    ],
     "source_links": [
       "https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/"
     ],
@@ -390,7 +460,12 @@
       "#ProductDesign",
       "#ConsumerPsychology"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P15.png",
+        "alt_text": "Two panels: in 2015 people abandoned an algorithm after seeing it err. In 2018, letting people adjust the forecast slightly made them use the algorithm more."
+      }
+    ],
     "source_links": [
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2616787"
     ],
@@ -417,7 +492,12 @@
       "#India",
       "#PersonalBranding"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P16.png",
+        "alt_text": "Stat card: Indian creators shape $350 to 400 billion of consumer spending, there are 2 to 2.5 million active creators, and only 8 to 10% monetise effectively. Source: BCG 2025."
+      }
+    ],
     "source_links": [
       "https://www.bcg.com/publications/2025/india-from-content-to-commerce-mapping-indias-creator-economy"
     ],
@@ -444,7 +524,12 @@
       "#CriticalThinking",
       "#Productivity"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P17.png",
+        "alt_text": "Two panels: more confidence in AI goes with less critical thinking, more confidence in yourself goes with more critical thinking. Source: Microsoft Research and CMU, CHI 2025."
+      }
+    ],
     "source_links": [
       "https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/"
     ],
@@ -471,7 +556,12 @@
       "#AI",
       "#PersonalBranding"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P18.png",
+        "alt_text": "Quote card: 'Code and media are permissionless leverage.' Naval Ravikant, 2018."
+      }
+    ],
     "source_links": [
       "https://nav.al/rich"
     ],
@@ -498,7 +588,12 @@
       "#Entrepreneurship",
       "#AI"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P19.png",
+        "alt_text": "Numbered list titled 'What won't change in 2027' with five constants, and a Jeff Bezos quote from 2012."
+      }
+    ],
     "source_links": [
       "https://quoteinvestigator.com/2021/03/03/not-change/"
     ],
@@ -552,7 +647,12 @@
       "#AI",
       "#Careers"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P21.png",
+        "alt_text": "Three panels: forecast, WEF +78 million net jobs by 2030. Warning, Dario Amodei, half of entry-level white-collar jobs at risk. Data, Stanford, young workers in AI-exposed jobs 19% below trend."
+      }
+    ],
     "source_links": [
       "https://www.weforum.org/press/2025/01/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/"
     ],
@@ -579,7 +679,12 @@
       "#AI",
       "#Healthcare"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P22.png",
+        "alt_text": "Bar chart: adenoma detection rate without AI fell from 28.4% before AI rollout to 22.4% after. Source: Lancet Gastroenterology & Hepatology 2025."
+      }
+    ],
     "source_links": [
       "https://www.thelancet.com/journals/langas/article/PIIS2468-1253(25)00133-5/abstract"
     ],
@@ -606,7 +711,12 @@
       "#ProductDesign",
       "#AI"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P23.png",
+        "alt_text": "Two panels explaining the IKEA effect: people value what they build, but only when they finish."
+      }
+    ],
     "source_links": [
       "https://www.hbs.edu/ris/Publication%20Files/11-091.pdf"
     ],
@@ -633,7 +743,12 @@
       "#AI",
       "#Healthcare"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P24.png",
+        "alt_text": "Bar chart: physicians' answers to patient questions averaged 52 words, ChatGPT's averaged 211 words. Source: JAMA Internal Medicine 2023."
+      }
+    ],
     "source_links": [
       "https://today.ucsd.edu/story/study-finds-chatgpt-outperforms-physicians-in-high-quality-empathetic-answers-to-patient-questions"
     ],
@@ -660,7 +775,12 @@
       "#Leadership",
       "#FutureOfWork"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P25.png",
+        "alt_text": "Quote card: 'Reflexive AI usage is now a baseline expectation at Shopify.' Tobi Lütke, April 2025."
+      }
+    ],
     "source_links": [
       "https://www.cnbc.com/2025/04/07/shopify-ceo-prove-ai-cant-do-jobs-before-asking-for-more-headcount.html"
     ],
@@ -687,7 +807,12 @@
       "#ProductDesign",
       "#India"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P26.png",
+        "alt_text": "Numbered list of the 13 dark patterns banned in India's 2023 guidelines, with a note that 97% of major platforms still used manipulative design in 2025."
+      }
+    ],
     "source_links": [
       "https://www.medianama.com/2025/11/223-ccpa-dark-pattern-self-audit-declarations-18-e-commerce-quick-commerce-platforms/"
     ],
@@ -714,7 +839,12 @@
       "#AI",
       "#SoftwareDevelopment"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P27.png",
+        "alt_text": "Quote card with Andrej Karpathy's February 2025 post coining 'vibe coding', noting Collins named it Word of the Year 2025."
+      }
+    ],
     "source_links": [
       "https://x.com/karpathy/status/1886192184808149383"
     ],
@@ -741,7 +871,12 @@
       "#AI",
       "#CriticalThinking"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P28.png",
+        "alt_text": "Checklist: before sharing an 'AI beats experts' headline, ask which tasks, what the humans were allowed to use, and which errors weren't measured."
+      }
+    ],
     "source_links": [
       "https://microsoft.ai/news/the-path-to-medical-superintelligence/"
     ],
@@ -768,7 +903,12 @@
       "#MentalHealth",
       "#AI"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P29.png",
+        "alt_text": "Two panels: a purpose-built therapy chatbot in a trial reduced symptoms, while heavy general chatbot use correlated with more loneliness."
+      }
+    ],
     "source_links": [
       "https://ai.nejm.org/doi/abs/10.1056/AIoa2400802"
     ],
@@ -795,7 +935,12 @@
       "#Strategy",
       "#Leadership"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P30.png",
+        "alt_text": "Quote card: 'The real benchmark is: the world growing at 10%.' Satya Nadella, February 2025."
+      }
+    ],
     "source_links": [
       "https://www.dwarkesh.com/p/satya-nadella"
     ],
@@ -822,7 +967,12 @@
       "#ContentCreation",
       "#Attention"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P31.png",
+        "alt_text": "Illustration of an orange goldfish with a 'NO SOURCE' stamp, under the headline questioning the 8-second attention span claim."
+      }
+    ],
     "source_links": [
       "https://www.fastcompany.com/91023619/8-second-attention-span-is-bs-this-is-why"
     ],
@@ -849,7 +999,12 @@
       "#Startups",
       "#Teamwork"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P32.png",
+        "alt_text": "Two-by-two grid comparing individuals and pairs with and without AI, highlighting that an individual with AI matched a team without AI. Source: NBER 2025."
+      }
+    ],
     "source_links": [
       "https://www.nber.org/papers/w33641"
     ],
@@ -876,7 +1031,12 @@
       "#Branding",
       "#AI"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P33.png",
+        "alt_text": "Illustrative chart: short orange spikes for sales activation and a rising blue curve for brand building over time."
+      }
+    ],
     "source_links": [
       "https://ipa.co.uk/knowledge/ipa-blog/the-next-chapter-for-the-long-and-the-short-of-it"
     ],
@@ -903,7 +1063,12 @@
       "#AI",
       "#Communication"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P34.png",
+        "alt_text": "Quote card from Duolingo CEO Luis von Ahn: 'I do not see AI as replacing what our employees do.'"
+      }
+    ],
     "source_links": [
       "https://www.entrepreneur.com/business-news/duolingo-ceo-clarifies-ai-stance-after-backlash-read-memo/492141"
     ],
@@ -930,7 +1095,12 @@
       "#ContentCreation",
       "#Learning"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P35.png",
+        "alt_text": "Three panels ranking brain connectivity while writing: brain only strongest, search engine moderate, ChatGPT weakest with lowest ownership and recall."
+      }
+    ],
     "source_links": [
       "https://arxiv.org/abs/2506.08872"
     ],
@@ -957,7 +1127,12 @@
       "#Marketing",
       "#ProductDesign"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P36.png",
+        "alt_text": "Left: jam study bar chart, 3% of tasters bought from 24 jams vs 30% from 6. Right: a 2010 meta-analysis of 50 experiments found an average effect near zero."
+      }
+    ],
     "source_links": [
       "https://www.jasoncollins.blog/posts/not-the-jam-study-again"
     ],
@@ -984,7 +1159,12 @@
       "#India",
       "#AI"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P37.png",
+        "alt_text": "Stat card: about 80% of rural specialist posts unfilled, 282 million eSanjeevani teleconsultations, about 12 million assisted by AI decision support."
+      }
+    ],
     "source_links": [
       "https://www.medrxiv.org/content/10.1101/2025.11.22.25340800v1.full"
     ],
@@ -1011,11 +1191,16 @@
       "#ContentCreation",
       "#Writing"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P38.png",
+        "alt_text": "Two four-line poems labelled A and B with the question 'One is Shakespeare. One is AI. Which?'"
+      }
+    ],
     "source_links": [
       "https://www.nature.com/articles/s41598-024-76900-1"
     ],
-    "first_comment": "Answer to the quiz: [fill in A or B].\n\nPaper (open access): https://www.nature.com/articles/s41598-024-76900-1\n\nParticipants were non-expert poetry readers, and the AI was GPT-3.5 imitating famous poets. A critique of how the study was covered: https://lithub.com/on-the-report-of-poetrys-death-or-what-does-that-ai-poetry-study-really-tell-us/",
+    "first_comment": "Answer to the quiz: A was written by AI for this post. B is Shakespeare, Sonnet 73.\n\nPaper (open access): https://www.nature.com/articles/s41598-024-76900-1\n\nParticipants were non-expert poetry readers, and the AI was GPT-3.5 imitating famous poets. A critique of how the study was covered: https://lithub.com/on-the-report-of-poetrys-death-or-what-does-that-ai-poetry-study-really-tell-us/",
     "platform": "LinkedIn",
     "status": "draft",
     "created_at": "2026-09-28",
@@ -1038,7 +1223,12 @@
       "#Trust",
       "#SocialMedia"
     ],
-    "media": [],
+    "media": [
+      {
+        "file": "media/P39.png",
+        "alt_text": "Text card: 'When persuasion becomes cheap, identity becomes valuable.'"
+      }
+    ],
     "source_links": [
       "https://www.engadget.com/ai/researchers-secretly-experimented-on-reddit-users-with-ai-generated-comments-194328026.html"
     ],
